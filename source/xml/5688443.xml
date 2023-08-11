@@ -1,0 +1,5018 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document id="5688443">
+  <s id="1">
+    <time id="T2S" value="00:00:05,364" />
+    <w id="1.1">Eet</w>
+    <w id="1.2">je</w>
+    <w id="1.3">koekjes</w>
+    <w id="1.4">deeg</w>
+    <w id="1.5">?</w>
+    <time id="T2E" value="00:00:07,098" />
+  </s>
+  <s id="2">
+    <time id="T3S" value="00:00:07,100" />
+    <w id="2.1">Mijn</w>
+    <w id="2.2">favoriete</w>
+    <w id="2.3">recept</w>
+    <w id="2.4">,</w>
+    <w id="2.5">je</w>
+    <w id="2.6">hebt</w>
+    <w id="2.7">koekjes</w>
+    <w id="2.8">deeg</w>
+    <w id="2.9">nodig</w>
+    <w id="2.10">en</w>
+    <w id="2.11">wiet</w>
+    <w id="2.12">.</w>
+    <time id="T3E" value="00:00:11,436" />
+  </s>
+  <s id="3">
+    <time id="T5S" value="00:00:11,438" />
+    <w id="3.1">Dus</w>
+    <w id="3.2">je</w>
+    <w id="3.3">hoeft</w>
+    <w id="3.4">alleen</w>
+    <w id="3.5">maar</w>
+    <w id="3.6">jezelf</w>
+    <w id="3.7">te</w>
+    <w id="3.8">bakken</w>
+    <w id="3.9">.</w>
+    <time id="T5E" value="00:00:14,239" />
+  </s>
+  <s id="4">
+    <time id="T6S" value="00:00:14,241" />
+    <w id="4.1">Heel</w>
+    <w id="4.2">efficiënt</w>
+    <w id="4.3">.</w>
+    <time id="T6E" value="00:00:15,740" />
+  </s>
+  <s id="5">
+    <time id="T7S" value="00:00:15,742" />
+    <w id="5.1">Je</w>
+    <w id="5.2">krijgt</w>
+    <w id="5.3">er</w>
+    <w id="5.4">honger</w>
+    <w id="5.5">van</w>
+    <w id="5.6">maar</w>
+    <w id="5.7">je</w>
+    <w id="5.8">zit</w>
+    <w id="5.9">ook</w>
+    <w id="5.10">gelijk</w>
+    <w id="5.11">vol</w>
+    <w id="5.12">.</w>
+    <time id="T7E" value="00:00:19,010" />
+  </s>
+  <s id="6">
+    <time id="T9S" value="00:00:20,881" />
+    <w id="6.1">Ze</w>
+    <w id="6.2">hebben</w>
+    <w id="6.3">mijn</w>
+    <w id="6.4">auto</w>
+    <w id="6.5">gevonden</w>
+    <w id="6.6">.</w>
+    <time id="T9E" value="00:00:22,647" />
+  </s>
+  <s id="7">
+    <time id="T10S" value="00:00:22,649" />
+    <w id="7.1">Je</w>
+    <w id="7.2">was</w>
+    <w id="7.3">je</w>
+    <w id="7.4">auto</w>
+    <w id="7.5">kwijt</w>
+    <w id="7.6">?</w>
+  </s>
+  <s id="8">
+    <w id="8.1">Wat</w>
+    <w id="8.2">zit</w>
+    <w id="8.3">er</w>
+    <w id="8.4">in</w>
+    <w id="8.5">jouw</w>
+    <w id="8.6">koekjes</w>
+    <w id="8.7">deeg</w>
+    <w id="8.8">?</w>
+    <time id="T10E" value="00:00:26,184" />
+  </s>
+  <s id="9">
+    <time id="T12S" value="00:00:26,186" />
+    <w id="9.1">Er</w>
+    <w id="9.2">is</w>
+    <w id="9.3">een</w>
+    <w id="9.4">bedrijf</w>
+    <w id="9.5">en</w>
+    <w id="9.6">die</w>
+    <w id="9.7">helpt</w>
+    <w id="9.8">oude</w>
+    <w id="9.9">wagens</w>
+    <w id="9.10">terug</w>
+    <w id="9.11">te</w>
+    <w id="9.12">vinden</w>
+    <w id="9.13">.</w>
+    <time id="T12E" value="00:00:31,022" />
+  </s>
+  <s id="10">
+    <time id="T14S" value="00:00:31,024" />
+    <w id="10.1">Het</w>
+    <w id="10.2">heet</w>
+    <w id="10.3">kerel</w>
+    <w id="10.4">,</w>
+    <w id="10.5">waar</w>
+    <w id="10.6">is</w>
+    <w id="10.7">mijn</w>
+    <w id="10.8">auto</w>
+    <w id="10.9">?</w>
+  </s>
+  <s id="11">
+    <w id="11.1">-</w>
+    <w id="11.2">Wat</w>
+    <w id="11.3">is</w>
+    <w id="11.4">er</w>
+    <w id="11.5">zo</w>
+    <w id="11.6">bijzonder</w>
+    <w id="11.7">aan</w>
+    <w id="11.8">?</w>
+    <time id="T14E" value="00:00:35,427" />
+  </s>
+  <s id="12">
+    <time id="T16S" value="00:00:35,429" />
+    <w id="12.1">Het</w>
+    <w id="12.2">was</w>
+    <w id="12.3">mijn</w>
+    <w id="12.4">eerste</w>
+    <w id="12.5">auto</w>
+    <w id="12.6">,</w>
+    <w id="12.7">ik</w>
+    <w id="12.8">heb</w>
+    <w id="12.9">er</w>
+    <w id="12.10">veel</w>
+    <w id="12.11">eerste</w>
+    <w id="12.12">dingen</w>
+    <w id="12.13">in</w>
+    <w id="12.14">gehad</w>
+    <w id="12.15">.</w>
+    <time id="T16E" value="00:00:38,363" />
+  </s>
+  <s id="13">
+    <time id="T17S" value="00:00:38,365" />
+    <w id="13.1">Eerste</w>
+    <w id="13.2">keer</w>
+    <w id="13.3">in</w>
+    <w id="13.4">leren</w>
+    <w id="13.5">rijden</w>
+    <w id="13.6">.</w>
+    <time id="T17E" value="00:00:40,031" />
+  </s>
+  <s id="14">
+    <time id="T18S" value="00:00:40,033" />
+    <w id="14.1">Eerste</w>
+    <w id="14.2">keer</w>
+    <w id="14.3">seks</w>
+    <w id="14.4">.</w>
+    <time id="T18E" value="00:00:42,667" />
+  </s>
+  <s id="15">
+    <time id="T19S" value="00:00:42,669" />
+    <w id="15.1">Eerste</w>
+    <w id="15.2">keer</w>
+    <w id="15.3">dat</w>
+    <w id="15.4">het</w>
+    <w id="15.5">condoom</w>
+    <w id="15.6">brak</w>
+    <w id="15.7">.</w>
+    <time id="T19E" value="00:00:44,636" />
+  </s>
+  <s id="16">
+    <time id="T20S" value="00:00:44,638" />
+    <w id="16.1">Eerste</w>
+    <w id="16.2">keer</w>
+    <w id="16.3">gebeden</w>
+    <w id="16.4">.</w>
+    <time id="T20E" value="00:00:46,905" />
+  </s>
+  <s id="17">
+    <time id="T21S" value="00:00:46,907" />
+    <w id="17.1">Dus</w>
+    <w id="17.2">ga</w>
+    <w id="17.3">je</w>
+    <w id="17.4">deze</w>
+    <w id="17.5">auto</w>
+    <w id="17.6">kopen</w>
+    <w id="17.7">?</w>
+    <time id="T21E" value="00:00:48,606" />
+  </s>
+  <s id="18">
+    <time id="T22S" value="00:00:48,608" />
+    <w id="18.1">Nee</w>
+    <w id="18.2">,</w>
+    <w id="18.3">ene</w>
+    <w id="18.4">Dirk</w>
+    <w id="18.5">uit</w>
+    <w id="18.6">Denver</w>
+    <w id="18.7">heeft</w>
+    <w id="18.8">hem</w>
+    <w id="18.9">.</w>
+    <time id="T22E" value="00:00:52,310" />
+  </s>
+  <s id="19">
+    <time id="T23S" value="00:00:52,312" />
+    <w id="19.1">Waarom</w>
+    <w id="19.2">al</w>
+    <w id="19.3">die</w>
+    <w id="19.4">moeite</w>
+    <w id="19.5">als</w>
+    <w id="19.6">je</w>
+    <w id="19.7">hem</w>
+    <w id="19.8">toch</w>
+    <w id="19.9">niet</w>
+    <w id="19.10">wilt</w>
+    <w id="19.11">.</w>
+    <time id="T23E" value="00:00:55,280" />
+  </s>
+  <s id="20">
+    <time id="T25S" value="00:00:55,282" />
+    <w id="20.1">Nostalgie</w>
+    <w id="20.2">?</w>
+    <time id="T25E" value="00:00:56,681" />
+  </s>
+  <s id="21">
+    <time id="T26S" value="00:00:56,683" />
+    <w id="21.1">Het</w>
+    <w id="21.2">is</w>
+    <w id="21.3">alsof</w>
+    <w id="21.4">...</w>
+  </s>
+  <s id="22">
+    <w id="22.1">je</w>
+    <w id="22.2">je</w>
+    <w id="22.3">eerste</w>
+    <w id="22.4">vriendin</w>
+    <w id="22.5">opzoekt</w>
+    <w id="22.6">,</w>
+    <time id="T26E" value="00:01:00,218" />
+    <time id="T28S" value="00:01:00,220" />
+    <w id="22.7">of</w>
+    <w id="22.8">je</w>
+    <w id="22.9">middelbare</w>
+    <w id="22.10">school</w>
+    <w id="22.11">wiskundeleraar</w>
+    <w id="22.12">.</w>
+    <time id="T28E" value="00:01:02,053" />
+  </s>
+  <s id="23">
+    <time id="T29S" value="00:01:02,055" />
+    <w id="23.1">voor</w>
+    <w id="23.2">mij</w>
+    <w id="23.3">waren</w>
+    <w id="23.4">deze</w>
+    <w id="23.5">het</w>
+    <w id="23.6">zelfde</w>
+    <w id="23.7">.</w>
+    <time id="T29E" value="00:01:05,290" />
+  </s>
+  <s id="24">
+    <time id="T30S" value="00:01:05,292" />
+    <w id="24.1">Ze</w>
+    <w id="24.2">schrijft</w>
+    <w id="24.3">me</w>
+    <w id="24.4">nog</w>
+    <w id="24.5">steeds</w>
+    <w id="24.6">vanuit</w>
+    <w id="24.7">de</w>
+    <w id="24.8">gevangenis</w>
+    <w id="24.9">.</w>
+    <time id="T30E" value="00:01:08,026" />
+  </s>
+  <s id="25">
+    <time id="T31S" value="00:01:09,061" />
+    <w id="25.1">Ik</w>
+    <w id="25.2">denk</w>
+    <w id="25.3">dat</w>
+    <w id="25.4">de</w>
+    <w id="25.5">wiskundeleraar</w>
+    <w id="25.6">ook</w>
+    <w id="25.7">verliefd</w>
+    <w id="25.8">was</w>
+    <w id="25.9">op</w>
+    <w id="25.10">mij</w>
+    <w id="25.11">.</w>
+    <time id="T31E" value="00:01:11,763" />
+  </s>
+  <s id="26">
+    <time id="T32S" value="00:01:11,765" />
+    <w id="26.1">Ik</w>
+    <w id="26.2">bedoel</w>
+    <w id="26.3">,</w>
+    <w id="26.4">waarom</w>
+    <w id="26.5">zou</w>
+    <w id="26.6">hij</w>
+    <w id="26.7">anders</w>
+    <w id="26.8">vragen</w>
+    <w id="26.9">om</w>
+    <w id="26.10">te</w>
+    <w id="26.11">gaan</w>
+    <w id="26.12">douchen</w>
+    <time id="T32E" value="00:01:14,432" />
+    <time id="T33S" value="00:01:14,434" />
+    <w id="26.13">na</w>
+    <w id="26.14">wiskunde</w>
+    <w id="26.15">oefeningen</w>
+    <w id="26.16">?</w>
+    <time id="T33E" value="00:01:16,167" />
+  </s>
+  <s id="27">
+    <time id="T34S" value="00:01:17,002" />
+    <w id="27.1">Mooi</w>
+    <w id="27.2">,</w>
+    <w id="27.3">iedereen</w>
+    <w id="27.4">is</w>
+    <w id="27.5">er</w>
+    <w id="27.6">.</w>
+    <time id="T34E" value="00:01:18,937" />
+  </s>
+  <s id="28">
+    <time id="T35S" value="00:01:18,939" />
+    <w id="28.1">Ik</w>
+    <w id="28.2">wil</w>
+    <w id="28.3">jullie</w>
+    <w id="28.4">graag</w>
+    <w id="28.5">voorstellen</w>
+    <w id="28.6">aan</w>
+    <w id="28.7">mijn</w>
+    <w id="28.8">vriendin</w>
+    <time id="T35E" value="00:01:22,474" />
+    <time id="T36S" value="00:01:22,476" />
+    <w id="28.9">de</w>
+    <w id="28.10">aantrekkelijke</w>
+    <w id="28.11">Gretchen</w>
+    <w id="28.12">.</w>
+    <time id="T36E" value="00:01:24,576" />
+  </s>
+  <s id="29">
+    <time id="T37S" value="00:01:24,578" />
+    <w id="29.1">Hallo</w>
+    <w id="29.2">iedereen</w>
+    <w id="29.3">.</w>
+  </s>
+  <s id="30">
+    <w id="30.1">-</w>
+    <w id="30.2">Ik</w>
+    <w id="30.3">ben</w>
+    <w id="30.4">Walden</w>
+    <w id="30.5">,</w>
+    <w id="30.6">leuk</w>
+    <w id="30.7">je</w>
+    <w id="30.8">te</w>
+    <w id="30.9">ontmoeten</w>
+    <time id="T37E" value="00:01:26,978" />
+  </s>
+  <s id="31">
+    <time id="T40S" value="00:01:28,381" />
+    <w id="31.1">Alan</w>
+    <w id="31.2">vertelde</w>
+    <w id="31.3">me</w>
+    <w id="31.4">dat</w>
+    <w id="31.5">je</w>
+    <w id="31.6">werkt</w>
+    <w id="31.7">in</w>
+    <w id="31.8">een</w>
+    <w id="31.9">dierenasiel</w>
+    <w id="31.10">voor</w>
+    <w id="31.11">zwerfhonden</w>
+    <time id="T40E" value="00:01:32,150" />
+    <time id="T42S" value="00:01:32,818" />
+    <w id="31.12">we</w>
+    <w id="31.13">hebben</w>
+    <w id="31.14">dus</w>
+    <w id="31.15">veel</w>
+    <w id="31.16">gemeen</w>
+    <w id="31.17">.</w>
+    <time id="T42E" value="00:01:34,652" />
+  </s>
+  <s id="32">
+    <time id="T44S" value="00:01:36,456" />
+    <w id="32.1">Dit</w>
+    <w id="32.2">is</w>
+    <w id="32.3">mijn</w>
+    <w id="32.4">nichtje</w>
+    <w id="32.5">Jenny</w>
+    <w id="32.6">.</w>
+    <time id="T44E" value="00:01:37,989" />
+  </s>
+  <s id="33">
+    <time id="T46S" value="00:01:38,992" />
+    <w id="33.1">Ik</w>
+    <w id="33.2">ben</w>
+    <w id="33.3">Barry</w>
+    <w id="33.4">,</w>
+    <w id="33.5">Waldon</w>
+    <w id="33.6">'</w>
+    <w id="33.7">s</w>
+    <w id="33.8">geadopteerde</w>
+    <w id="33.9">zoon</w>
+    <w id="33.10">.</w>
+    <time id="T46E" value="00:01:41,493" />
+  </s>
+  <s id="34">
+    <time id="T48S" value="00:01:41,495" />
+    <w id="34.1">Leuk</w>
+    <w id="34.2">jullie</w>
+    <w id="34.3">allemaal</w>
+    <w id="34.4">te</w>
+    <w id="34.5">ontmoeten</w>
+    <w id="34.6">.</w>
+    <time id="T48E" value="00:01:43,127" />
+  </s>
+  <s id="35">
+    <time id="T49S" value="00:01:43,129" />
+    <w id="35.1">Deze</w>
+    <w id="35.2">plek</w>
+    <w id="35.3">is</w>
+    <w id="35.4">geweldig</w>
+    <w id="35.5">.</w>
+  </s>
+  <s id="36">
+    <w id="36.1">Hoe</w>
+    <w id="36.2">kan</w>
+    <w id="36.3">je</w>
+    <w id="36.4">de</w>
+    <w id="36.5">huur</w>
+    <w id="36.6">betalen</w>
+    <w id="36.7">Alan</w>
+    <w id="36.8">?</w>
+    <time id="T49E" value="00:01:46,030" />
+  </s>
+  <s id="37">
+    <time id="T51S" value="00:01:49,168" />
+    <w id="37.1">Wat</w>
+    <w id="37.2">is</w>
+    <w id="37.3">er</w>
+    <w id="37.4">zo</w>
+    <w id="37.5">grappig</w>
+    <w id="37.6">?</w>
+  </s>
+  <s id="38">
+    <w id="38.1">-</w>
+    <w id="38.2">Ik</w>
+    <w id="38.3">betaal</w>
+    <w id="38.4">geen</w>
+    <w id="38.5">huur</w>
+    <w id="38.6">,</w>
+    <w id="38.7">per</w>
+    <w id="38.8">se</w>
+    <w id="38.9">.</w>
+    <time id="T51E" value="00:01:52,670" />
+  </s>
+  <s id="39">
+    <time id="T53S" value="00:01:52,672" />
+    <w id="39.1">Of</w>
+    <w id="39.2">per</w>
+    <w id="39.3">maand</w>
+    <w id="39.4">.</w>
+    <time id="T53E" value="00:01:54,072" />
+  </s>
+  <s id="40">
+    <time id="T54S" value="00:01:55,074" />
+    <w id="40.1">Of</w>
+    <w id="40.2">per</w>
+    <w id="40.3">jaar</w>
+    <w id="40.4">.</w>
+    <time id="T54E" value="00:01:56,574" />
+  </s>
+  <s id="41">
+    <time id="T55S" value="00:01:56,576" />
+    <w id="41.1">Geen</w>
+    <w id="41.2">huur</w>
+    <w id="41.3">,</w>
+    <w id="41.4">echt</w>
+    <w id="41.5">?</w>
+  </s>
+  <s id="42">
+    <w id="42.1">Hoelang</w>
+    <w id="42.2">gaat</w>
+    <w id="42.3">dat</w>
+    <w id="42.4">al</w>
+    <w id="42.5">zo</w>
+    <w id="42.6">?</w>
+    <time id="T55E" value="00:02:00,044" />
+  </s>
+  <s id="43">
+    <time id="T57S" value="00:02:00,046" />
+    <w id="43.1">Drie</w>
+    <w id="43.2">jaar</w>
+    <w id="43.3">met</w>
+    <w id="43.4">Walden</w>
+    <w id="43.5">,</w>
+    <w id="43.6">acht</w>
+    <w id="43.7">jaar</w>
+    <w id="43.8">met</w>
+    <w id="43.9">mijn</w>
+    <w id="43.10">vader</w>
+    <w id="43.11">.</w>
+    <time id="T57E" value="00:02:02,180" />
+  </s>
+  <s id="44">
+    <time id="T58S" value="00:02:02,182" />
+    <w id="44.1">Je</w>
+    <w id="44.2">leeft</w>
+    <w id="44.3">hier</w>
+    <w id="44.4">al</w>
+    <w id="44.5">11</w>
+    <w id="44.6">jaar</w>
+    <w id="44.7">voor</w>
+    <w id="44.8">niets</w>
+    <w id="44.9">?</w>
+    <time id="T58E" value="00:02:05,950" />
+  </s>
+  <s id="45">
+    <time id="T60S" value="00:02:06,987" />
+    <w id="45.1">Ik</w>
+    <w id="45.2">hou</w>
+    <w id="45.3">nu</w>
+    <w id="45.4">nog</w>
+    <w id="45.5">meer</w>
+    <w id="45.6">van</w>
+    <w id="45.7">je</w>
+    <w id="45.8">.</w>
+    <time id="T60E" value="00:02:08,586" />
+  </s>
+  <s id="46">
+    <time id="T61S" value="00:02:09,689" />
+    <w id="46.1">Wie</w>
+    <w id="46.2">is</w>
+    <w id="46.3">mijn</w>
+    <w id="46.4">gierige</w>
+    <w id="46.5">pappa</w>
+    <w id="46.6">?</w>
+    <time id="T61E" value="00:02:11,422" />
+  </s>
+  <s id="47">
+    <time id="T62S" value="00:02:11,424" />
+    <w id="47.1">Wil</w>
+    <w id="47.2">je</w>
+    <w id="47.3">de</w>
+    <w id="47.4">slaapkamer</w>
+    <w id="47.5">zien</w>
+    <w id="47.6">waar</w>
+    <w id="47.7">ik</w>
+    <w id="47.8">niet</w>
+    <w id="47.9">voor</w>
+    <w id="47.10">betaal</w>
+    <w id="47.11">?</w>
+    <time id="T62E" value="00:02:13,458" />
+  </s>
+  <s id="48">
+    <time id="T63S" value="00:02:13,460" />
+    <w id="48.1">Wil</w>
+    <w id="48.2">jij</w>
+    <w id="48.3">de</w>
+    <w id="48.4">borsten</w>
+    <w id="48.5">zien</w>
+    <w id="48.6">die</w>
+    <w id="48.7">ik</w>
+    <w id="48.8">gekocht</w>
+    <w id="48.9">heb</w>
+    <w id="48.10">met</w>
+    <w id="48.11">een</w>
+    <w id="48.12">actiebon</w>
+    <w id="48.13">?</w>
+    <time id="T63E" value="00:02:16,361" />
+  </s>
+  <s id="49">
+    <time id="T64S" value="00:02:18,297" />
+    <w id="49.1">Mag</w>
+    <w id="49.2">ik</w>
+    <w id="49.3">ze</w>
+    <w id="49.4">dan</w>
+    <w id="49.5">beet</w>
+    <w id="49.6">houden</w>
+    <w id="49.7">?</w>
+    <time id="T64E" value="00:02:20,798" />
+  </s>
+  <s id="50">
+    <time id="T65S" value="00:02:21,934" />
+    <w id="50.1">Leuk</w>
+    <w id="50.2">je</w>
+    <w id="50.3">te</w>
+    <w id="50.4">ontmoeten</w>
+    <w id="50.5">,</w>
+    <w id="50.6">Gretchen</w>
+    <w id="50.7">.</w>
+  </s>
+  <s id="51">
+    <w id="51.1">Doe</w>
+    <w id="51.2">alsof</w>
+    <w id="51.3">je</w>
+    <w id="51.4">thuis</w>
+    <w id="51.5">bent</w>
+    <w id="51.6">.</w>
+    <time id="T65E" value="00:02:24,903" />
+  </s>
+  <s id="52">
+    <time id="T66S" value="00:02:24,905" />
+    <w id="52.1">Ik</w>
+    <w id="52.2">moet</w>
+    <w id="52.3">stoppen</w>
+    <w id="52.4">met</w>
+    <w id="52.5">dat</w>
+    <w id="52.6">te</w>
+    <w id="52.7">zeggen</w>
+    <w id="52.8">.</w>
+    <time id="T66E" value="00:02:26,771" />
+  </s>
+  <s id="53">
+    <time id="T67S" value="00:02:26,773" />
+    <w id="53.1">Zullen</w>
+    <w id="53.2">we</w>
+    <w id="53.3">op</w>
+    <w id="53.4">jouw</w>
+    <w id="53.5">vliegtuig</w>
+    <w id="53.6">stappen</w>
+    <w id="53.7">,</w>
+    <w id="53.8">en</w>
+    <w id="53.9">naar</w>
+    <w id="53.10">Denver</w>
+    <w id="53.11">gaan</w>
+    <w id="53.12">voor</w>
+    <w id="53.13">die</w>
+    <w id="53.14">auto</w>
+    <w id="53.15">?</w>
+    <time id="T67E" value="00:02:31,643" />
+  </s>
+  <s id="54">
+    <time id="T69S" value="00:02:31,645" />
+    <w id="54.1">Ik</w>
+    <w id="54.2">weet</w>
+    <w id="54.3">dat</w>
+    <w id="54.4">jij</w>
+    <w id="54.5">het</w>
+    <w id="54.6">ook</w>
+    <w id="54.7">wilt</w>
+    <w id="54.8">.</w>
+  </s>
+  <s id="55">
+    <w id="55.1">-</w>
+    <w id="55.2">Jullie</w>
+    <w id="55.3">willen</w>
+    <w id="55.4">gewoon</w>
+    <w id="55.5">naar</w>
+    <w id="55.6">Colorado</w>
+    <time id="T69E" value="00:02:34,946" />
+    <time id="T71S" value="00:02:34,948" />
+    <w id="55.7">omdat</w>
+    <w id="55.8">wiet</w>
+    <w id="55.9">daar</w>
+    <w id="55.10">legaal</w>
+    <w id="55.11">is</w>
+    <w id="55.12">.</w>
+  </s>
+  <s id="56">
+    <w id="56.1">-</w>
+    <w id="56.2">wat</w>
+    <w id="56.3">,</w>
+    <w id="56.4">is</w>
+    <w id="56.5">het</w>
+    <w id="56.6">legaal</w>
+    <w id="56.7">?</w>
+    <time id="T71E" value="00:02:38,616" />
+  </s>
+  <s id="57">
+    <time id="T73S" value="00:02:38,618" />
+    <w id="57.1">Hebben</w>
+    <w id="57.2">ze</w>
+    <w id="57.3">wiet</w>
+    <w id="57.4">gelegaliseerd</w>
+    <w id="57.5">in</w>
+    <w id="57.6">Colorado</w>
+    <w id="57.7">?</w>
+    <time id="T73E" value="00:02:40,451" />
+  </s>
+  <s id="58">
+    <time id="T74S" value="00:02:40,453" />
+    <w id="58.1">Tot</w>
+    <w id="58.2">wel</w>
+    <w id="58.3">drie</w>
+    <w id="58.4">gram</w>
+    <w id="58.5">?</w>
+    <time id="T74E" value="00:02:43,521" />
+  </s>
+  <s id="59">
+    <time id="T75S" value="00:02:43,523" />
+    <w id="59.1">We</w>
+    <w id="59.2">gaan</w>
+    <w id="59.3">niet</w>
+    <w id="59.4">naar</w>
+    <w id="59.5">Denver</w>
+    <w id="59.6">een</w>
+    <w id="59.7">auto</w>
+    <w id="59.8">bekijken</w>
+    <w id="59.9">en</w>
+    <w id="59.10">drie</w>
+    <w id="59.11">gram</w>
+    <w id="59.12">wiet</w>
+    <w id="59.13">meenemen</w>
+    <w id="59.14">.</w>
+    <time id="T75E" value="00:02:48,026" />
+  </s>
+  <s id="60">
+    <time id="T77S" value="00:02:48,028" />
+    <w id="60.1">Als</w>
+    <w id="60.2">we</w>
+    <w id="60.3">mee</w>
+    <w id="60.4">gaan</w>
+    <w id="60.5">met</w>
+    <w id="60.6">jou</w>
+    <w id="60.7">kunnen</w>
+    <w id="60.8">we</w>
+    <w id="60.9">9</w>
+    <w id="60.10">gram</w>
+    <w id="60.11">meenemen</w>
+    <w id="60.12">.</w>
+    <time id="T77E" value="00:02:52,063" />
+  </s>
+  <s id="61">
+    <time id="T79S" value="00:02:52,065" />
+    <w id="61.1">Start</w>
+    <w id="61.2">het</w>
+    <w id="61.3">vliegtuig</w>
+    <w id="61.4">.</w>
+    <time id="T79E" value="00:02:53,765" />
+  </s>
+  <s id="62">
+    <time id="T85S" value="00:03:09,334" />
+    <w id="62.1">Raad</w>
+    <w id="62.2">eens</w>
+    <w id="62.3">wie</w>
+    <w id="62.4">net</w>
+    <w id="62.5">is</w>
+    <w id="62.6">toegetreden</w>
+    <w id="62.7">tot</w>
+    <w id="62.8">de</w>
+    <w id="62.9">Mile</w>
+    <w id="62.10">high</w>
+    <w id="62.11">club</w>
+    <w id="62.12">.</w>
+    <time id="T85E" value="00:03:14,504" />
+  </s>
+  <s id="63">
+    <time id="T86S" value="00:03:14,515" />
+    <w id="63.1">Nee</w>
+    <w id="63.2">,</w>
+    <w id="63.3">het</w>
+    <w id="63.4">telt</w>
+    <w id="63.5">niet</w>
+    <w id="63.6">als</w>
+    <w id="63.7">je</w>
+    <w id="63.8">het</w>
+    <w id="63.9">alleen</w>
+    <w id="63.10">doet</w>
+    <w id="63.11">.</w>
+    <time id="T86E" value="00:03:17,283" />
+  </s>
+  <s id="64">
+    <time id="T87S" value="00:03:17,285" />
+    <w id="64.1">Dan</w>
+    <w id="64.2">telt</w>
+    <w id="64.3">het</w>
+    <w id="64.4">twee</w>
+    <w id="64.5">keer</w>
+    <w id="64.6">.</w>
+  </s>
+  <s id="65">
+    <w id="65.1">Up</w>
+    <w id="65.2">top</w>
+    <w id="65.3">.</w>
+    <time id="T87E" value="00:03:21,788" />
+  </s>
+  <s id="66">
+    <time id="T89S" value="00:03:21,790" />
+    <w id="66.1">nee</w>
+    <w id="66.2">!</w>
+  </s>
+  <s id="67">
+    <w id="67.1">-</w>
+    <w id="67.2">Gaat</w>
+    <w id="67.3">niet</w>
+    <w id="67.4">gebeuren</w>
+    <w id="67.5">.</w>
+    <time id="T89E" value="00:03:24,257" />
+  </s>
+  <s id="68">
+    <time id="T91S" value="00:03:25,759" />
+    <w id="68.1">Dit</w>
+    <w id="68.2">is</w>
+    <w id="68.3">krankzinnig</w>
+    <w id="68.4">.</w>
+  </s>
+  <s id="69">
+    <w id="69.1">Mijn</w>
+    <w id="69.2">oude</w>
+    <w id="69.3">auto</w>
+    <w id="69.4">is</w>
+    <w id="69.5">het</w>
+    <w id="69.6">niet</w>
+    <w id="69.7">waard</w>
+    <w id="69.8">om</w>
+    <time id="T91E" value="00:03:29,362" />
+  </s>
+  <s id="70">
+    <time id="T93S" value="00:03:29,364" />
+    <w id="70.1">Naar</w>
+    <w id="70.2">Denver</w>
+    <w id="70.3">te</w>
+    <w id="70.4">vliegen</w>
+    <w id="70.5">,</w>
+    <w id="70.6">en</w>
+    <w id="70.7">een</w>
+    <w id="70.8">nieuwe</w>
+    <w id="70.9">wc</w>
+    <w id="70.10">te</w>
+    <w id="70.11">plaatsen</w>
+    <w id="70.12">.</w>
+    <time id="T93E" value="00:03:32,432" />
+  </s>
+  <s id="71">
+    <time id="T94S" value="00:03:34,435" />
+    <w id="71.1">We</w>
+    <w id="71.2">kunnen</w>
+    <w id="71.3">niet</w>
+    <w id="71.4">terug</w>
+    <w id="71.5">nu</w>
+    <w id="71.6">.</w>
+  </s>
+  <s id="72">
+    <w id="72.1">Ik</w>
+    <w id="72.2">heb</w>
+    <w id="72.3">een</w>
+    <w id="72.4">auditie</w>
+    <w id="72.5">overgeslagen</w>
+    <w id="72.6">voor</w>
+    <w id="72.7">deze</w>
+    <w id="72.8">trip</w>
+    <w id="72.9">.</w>
+    <time id="T94E" value="00:03:37,604" />
+  </s>
+  <s id="73">
+    <time id="T96S" value="00:03:37,606" />
+    <w id="73.1">Een</w>
+    <w id="73.2">grapje</w>
+    <w id="73.3">zeker</w>
+    <w id="73.4">?</w>
+  </s>
+  <s id="74">
+    <w id="74.1">-</w>
+    <w id="74.2">Het</w>
+    <w id="74.3">stuk</w>
+    <w id="74.4">heet</w>
+    <w id="74.5">Dode</w>
+    <w id="74.6">Junkie</w>
+    <w id="74.7">Nummer</w>
+    <w id="74.8">Twee</w>
+    <w id="74.9">.</w>
+    <time id="T96E" value="00:03:41,875" />
+  </s>
+  <s id="75">
+    <time id="T98S" value="00:03:41,877" />
+    <w id="75.1">Ik</w>
+    <w id="75.2">had</w>
+    <w id="75.3">wel</w>
+    <w id="75.4">pijnstillers</w>
+    <w id="75.5">gekocht</w>
+    <w id="75.6">om</w>
+    <w id="75.7">me</w>
+    <w id="75.8">in</w>
+    <w id="75.9">te</w>
+    <w id="75.10">leven</w>
+    <w id="75.11">in</w>
+    <w id="75.12">de</w>
+    <w id="75.13">rol</w>
+    <w id="75.14">.</w>
+    <time id="T98E" value="00:03:46,012" />
+  </s>
+  <s id="76">
+    <time id="T99S" value="00:03:46,014" />
+    <w id="76.1">Het</w>
+    <w id="76.2">maakt</w>
+    <w id="76.3">niet</w>
+    <w id="76.4">uit</w>
+    <w id="76.5">wat</w>
+    <w id="76.6">de</w>
+    <w id="76.7">rol</w>
+    <w id="76.8">is</w>
+    <w id="76.9">.</w>
+    <time id="T99E" value="00:03:48,781" />
+  </s>
+  <s id="77">
+    <time id="T100S" value="00:03:48,783" />
+    <w id="77.1">Deze</w>
+    <w id="77.2">baan</w>
+    <w id="77.3">lijdt</w>
+    <w id="77.4">naar</w>
+    <w id="77.5">de</w>
+    <w id="77.6">volgende</w>
+    <w id="77.7">,</w>
+    <w id="77.8">en</w>
+    <w id="77.9">dan</w>
+    <w id="77.10">speel</w>
+    <w id="77.11">je</w>
+    <w id="77.12">Dode</w>
+    <w id="77.13">Junkie</w>
+    <w id="77.14">Nummer</w>
+    <w id="77.15">Eén</w>
+    <time id="T100E" value="00:03:53,720" />
+    <time id="T102S" value="00:03:53,722" />
+    <w id="77.16">en</w>
+    <w id="77.17">voor</w>
+    <w id="77.18">je</w>
+    <w id="77.19">het</w>
+    <w id="77.20">weet</w>
+    <w id="77.21">speel</w>
+    <w id="77.22">je</w>
+    <w id="77.23">een</w>
+    <w id="77.24">levende</w>
+    <w id="77.25">junkie</w>
+    <w id="77.26">!</w>
+    <time id="T102E" value="00:03:56,556" />
+  </s>
+  <s id="78">
+    <time id="T103S" value="00:03:56,558" />
+    <w id="78.1">En</w>
+    <w id="78.2">dan</w>
+    <w id="78.3">wat</w>
+    <w id="78.4">?</w>
+  </s>
+  <s id="79">
+    <w id="79.1">Veel</w>
+    <w id="79.2">oscares</w>
+    <w id="79.3">winnen</w>
+    <w id="79.4">,</w>
+    <time id="T103E" value="00:03:59,559" />
+    <time id="T105S" value="00:03:59,561" />
+    <w id="79.5">rijk</w>
+    <w id="79.6">worden</w>
+    <w id="79.7">,</w>
+    <w id="79.8">en</w>
+    <w id="79.9">rond</w>
+    <w id="79.10">vliegen</w>
+    <w id="79.11">in</w>
+    <w id="79.12">een</w>
+    <w id="79.13">privé</w>
+    <w id="79.14">vliegtuig</w>
+    <w id="79.15">?</w>
+    <time id="T105E" value="00:04:02,295" />
+  </s>
+  <s id="80">
+    <time id="T106S" value="00:04:02,297" />
+    <w id="80.1">Oh</w>
+    <w id="80.2">kijk</w>
+    <w id="80.3">,</w>
+    <w id="80.4">ik</w>
+    <w id="80.5">ging</w>
+    <w id="80.6">direct</w>
+    <w id="80.7">naar</w>
+    <w id="80.8">het</w>
+    <w id="80.9">einde</w>
+    <w id="80.10">!</w>
+    <time id="T106E" value="00:04:04,397" />
+  </s>
+  <s id="81">
+    <time id="T107S" value="00:04:04,399" />
+    <w id="81.1">Naar</w>
+    <w id="81.2">welke</w>
+    <w id="81.3">auto</w>
+    <w id="81.4">gaan</w>
+    <w id="81.5">we</w>
+    <w id="81.6">kijken</w>
+    <w id="81.7">?</w>
+    <time id="T107E" value="00:04:06,666" />
+  </s>
+  <s id="82">
+    <time id="T108S" value="00:04:06,668" />
+    <w id="82.1">Bedank</w>
+    <w id="82.2">me</w>
+    <w id="82.3">later</w>
+    <w id="82.4">voor</w>
+    <w id="82.5">het</w>
+    <w id="82.6">veranderen</w>
+    <w id="82.7">van</w>
+    <w id="82.8">onderwerp</w>
+    <w id="82.9">.</w>
+    <time id="T108E" value="00:04:09,002" />
+  </s>
+  <s id="83">
+    <time id="T109S" value="00:04:10,070" />
+    <w id="83.1">het</w>
+    <w id="83.2">is</w>
+    <w id="83.3">een</w>
+    <w id="83.4">Mustang</w>
+    <w id="83.5">uit</w>
+    <w id="83.6">1967</w>
+    <w id="83.7">met</w>
+    <w id="83.8">een</w>
+    <w id="83.9">289</w>
+    <w id="83.10">V-8</w>
+    <w id="83.11">,</w>
+    <w id="83.12">4</w>
+    <w id="83.13">takt</w>
+    <w id="83.14">carburateur</w>
+    <w id="83.15">.</w>
+    <time id="T109E" value="00:04:15,975" />
+  </s>
+  <s id="84">
+    <time id="T112S" value="00:04:17,145" />
+    <w id="84.1">Dat</w>
+    <w id="84.2">betekent</w>
+    <w id="84.3">?</w>
+    <time id="T112E" value="00:04:18,545" />
+  </s>
+  <s id="85">
+    <time id="T113S" value="00:04:18,547" />
+    <w id="85.1">Geen</w>
+    <w id="85.2">idee</w>
+    <w id="85.3">,</w>
+    <w id="85.4">mijn</w>
+    <w id="85.5">vader</w>
+    <w id="85.6">zei</w>
+    <w id="85.7">dat</w>
+    <w id="85.8">altijd</w>
+    <w id="85.9">toen</w>
+    <w id="85.10">we</w>
+    <w id="85.11">bezig</w>
+    <w id="85.12">waren</w>
+    <w id="85.13">met</w>
+    <w id="85.14">de</w>
+    <w id="85.15">auto</w>
+    <w id="85.16">.</w>
+    <time id="T113E" value="00:04:23,650" />
+  </s>
+  <s id="86">
+    <time id="T115S" value="00:04:24,618" />
+    <w id="86.1">Ik</w>
+    <w id="86.2">denk</w>
+    <w id="86.3">dat</w>
+    <w id="86.4">het</w>
+    <w id="86.5">zijn</w>
+    <w id="86.6">manier</w>
+    <w id="86.7">was</w>
+    <w id="86.8">om</w>
+    <w id="86.9">te</w>
+    <w id="86.10">zeggen</w>
+    <w id="86.11">,</w>
+    <w id="86.12">"</w>
+    <w id="86.13">ik</w>
+    <w id="86.14">hou</w>
+    <w id="86.15">van</w>
+    <w id="86.16">je</w>
+    <w id="86.17">.</w>
+    <w id="86.18">"</w>
+    <time id="T115E" value="00:04:28,187" />
+  </s>
+  <s id="87">
+    <time id="T117S" value="00:04:28,189" />
+    <w id="87.1">een</w>
+    <w id="87.2">andere</w>
+    <w id="87.3">was</w>
+    <w id="87.4">,</w>
+    <w id="87.5">"</w>
+    <w id="87.6">waarom</w>
+    <w id="87.7">is</w>
+    <w id="87.8">pappa</w>
+    <w id="87.9">'</w>
+    <w id="87.10">s</w>
+    <w id="87.11">bier</w>
+    <w id="87.12">leeg</w>
+    <w id="87.13">?</w>
+    <w id="87.14">"</w>
+    <time id="T117E" value="00:04:30,156" />
+  </s>
+  <s id="88">
+    <time id="T118S" value="00:04:30,158" />
+    <w id="88.1">Ik</w>
+    <w id="88.2">begrijp</w>
+    <w id="88.3">het</w>
+    <w id="88.4">.</w>
+  </s>
+  <s id="89">
+    <w id="89.1">Mijn</w>
+    <w id="89.2">pa</w>
+    <w id="89.3">'</w>
+    <w id="89.4">s</w>
+    <w id="89.5">code</w>
+    <w id="89.6">voor</w>
+    <w id="89.7">ik</w>
+    <w id="89.8">hou</w>
+    <w id="89.9">van</w>
+    <w id="89.10">je</w>
+    <w id="89.11">was</w>
+    <w id="89.12">,</w>
+    <w id="89.13">echt</w>
+    <w id="89.14">waar</w>
+    <w id="89.15">?</w>
+    <time id="T118E" value="00:04:33,726" />
+  </s>
+  <s id="90">
+    <time id="T120S" value="00:04:33,728" />
+    <w id="90.1">Je</w>
+    <w id="90.2">kunt</w>
+    <w id="90.3">die</w>
+    <w id="90.4">bal</w>
+    <w id="90.5">geen</w>
+    <w id="90.6">één</w>
+    <w id="90.7">keer</w>
+    <w id="90.8">vangen</w>
+    <w id="90.9">?</w>
+    <w id="90.10">"</w>
+    <time id="T120E" value="00:04:35,895" />
+  </s>
+  <s id="91">
+    <time id="T121S" value="00:04:38,966" />
+    <w id="91.1">Dus</w>
+    <w id="91.2">je</w>
+    <w id="91.3">werkte</w>
+    <w id="91.4">hieraan</w>
+    <w id="91.5">met</w>
+    <w id="91.6">je</w>
+    <w id="91.7">vader</w>
+    <w id="91.8">.</w>
+    <time id="T121E" value="00:04:41,267" />
+  </s>
+  <s id="92">
+    <time id="T122S" value="00:04:41,269" />
+    <w id="92.1">Blijkbaar</w>
+    <w id="92.2">is</w>
+    <w id="92.3">er</w>
+    <w id="92.4">een</w>
+    <w id="92.5">emotionele</w>
+    <w id="92.6">verbinding</w>
+    <w id="92.7">met</w>
+    <w id="92.8">deze</w>
+    <w id="92.9">auto</w>
+    <time id="T122E" value="00:04:43,703" />
+  </s>
+  <s id="93">
+    <time id="T123S" value="00:04:43,705" />
+    <w id="93.1">Dubbele</w>
+    <w id="93.2">gevoelens</w>
+    <w id="93.3">.</w>
+    <time id="T123E" value="00:04:45,038" />
+  </s>
+  <s id="94">
+    <time id="T124S" value="00:04:45,040" />
+    <w id="94.1">Het</w>
+    <w id="94.2">koste</w>
+    <w id="94.3">ons</w>
+    <w id="94.4">twee</w>
+    <w id="94.5">jaar</w>
+    <w id="94.6">om</w>
+    <w id="94.7">hem</w>
+    <w id="94.8">te</w>
+    <w id="94.9">repareren</w>
+    <w id="94.10">.</w>
+    <time id="T124E" value="00:04:47,907" />
+  </s>
+  <s id="95">
+    <time id="T125S" value="00:04:47,909" />
+    <w id="95.1">Toen</w>
+    <w id="95.2">het</w>
+    <w id="95.3">klaar</w>
+    <w id="95.4">was</w>
+    <w id="95.5">noemde</w>
+    <w id="95.6">we</w>
+    <w id="95.7">hem</w>
+    <w id="95.8">Cherry</w>
+    <w id="95.9">.</w>
+    <time id="T125E" value="00:04:50,577" />
+  </s>
+  <s id="96">
+    <time id="T126S" value="00:04:50,579" />
+    <w id="96.1">Cherry</w>
+    <w id="96.2">was</w>
+    <w id="96.3">ook</w>
+    <w id="96.4">de</w>
+    <w id="96.5">naam</w>
+    <w id="96.6">van</w>
+    <w id="96.7">de</w>
+    <w id="96.8">stripper</w>
+    <time id="T126E" value="00:04:53,012" />
+  </s>
+  <s id="97">
+    <time id="T127S" value="00:04:53,014" />
+    <w id="97.1">Met</w>
+    <w id="97.2">wie</w>
+    <w id="97.3">pa</w>
+    <w id="97.4">wegging</w>
+    <w id="97.5">en</w>
+    <w id="97.6">mijn</w>
+    <w id="97.7">moeder</w>
+    <w id="97.8">en</w>
+    <w id="97.9">mij</w>
+    <w id="97.10">achterliet</w>
+    <w id="97.11">.</w>
+    <time id="T127E" value="00:04:55,815" />
+  </s>
+  <s id="98">
+    <time id="T128S" value="00:04:55,817" />
+    <w id="98.1">Waarom</w>
+    <w id="98.2">zou</w>
+    <w id="98.3">je</w>
+    <w id="98.4">dan</w>
+    <w id="98.5">iets</w>
+    <w id="98.6">kopen</w>
+    <w id="98.7">als</w>
+    <w id="98.8">het</w>
+    <w id="98.9">je</w>
+    <w id="98.10">pijn</w>
+    <w id="98.11">doet</w>
+    <w id="98.12">?</w>
+    <time id="T128E" value="00:04:59,052" />
+  </s>
+  <s id="99">
+    <time id="T130S" value="00:04:59,054" />
+    <w id="99.1">Dat</w>
+    <w id="99.2">is</w>
+    <w id="99.3">alsof</w>
+    <w id="99.4">ik</w>
+    <w id="99.5">mijn</w>
+    <w id="99.6">schoolbal</w>
+    <w id="99.7">zou</w>
+    <w id="99.8">willen</w>
+    <w id="99.9">kopen</w>
+    <w id="99.10">.</w>
+    <time id="T130E" value="00:05:01,120" />
+  </s>
+  <s id="100">
+    <time id="T131S" value="00:05:02,990" />
+    <w id="100.1">het</w>
+    <w id="100.2">was</w>
+    <w id="100.3">op</w>
+    <w id="100.4">mijn</w>
+    <w id="100.5">16de</w>
+    <w id="100.6">verjaardag</w>
+    <w id="100.7">.</w>
+    <time id="T131E" value="00:05:05,191" />
+  </s>
+  <s id="101">
+    <time id="T132S" value="00:05:05,193" />
+    <w id="101.1">Ik</w>
+    <w id="101.2">ging</w>
+    <w id="101.3">naar</w>
+    <w id="101.4">buiten</w>
+    <w id="101.5">...</w>
+  </s>
+  <s id="102">
+    <w id="102.1">en</w>
+    <w id="102.2">daar</w>
+    <w id="102.3">zag</w>
+    <w id="102.4">ik</w>
+    <w id="102.5">de</w>
+    <w id="102.6">auto</w>
+    <time id="T132E" value="00:05:08,428" />
+    <time id="T133S" value="00:05:08,430" />
+    <w id="102.7">geparkeerd</w>
+    <w id="102.8">op</w>
+    <w id="102.9">de</w>
+    <w id="102.10">oprit</w>
+    <w id="102.11">.</w>
+    <time id="T133E" value="00:05:10,063" />
+  </s>
+  <s id="103">
+    <time id="T134S" value="00:05:10,065" />
+    <w id="103.1">Geen</w>
+    <w id="103.2">teken</w>
+    <w id="103.3">van</w>
+    <w id="103.4">mijn</w>
+    <w id="103.5">vader</w>
+    <w id="103.6">,</w>
+    <w id="103.7">hoewel</w>
+    <w id="103.8">Het</w>
+    <w id="103.9">was</w>
+    <w id="103.10">mijn</w>
+    <w id="103.11">beste</w>
+    <w id="103.12">verjaardag</w>
+    <w id="103.13">ooit</w>
+    <w id="103.14">.</w>
+    <time id="T134E" value="00:05:13,099" />
+  </s>
+  <s id="104">
+    <time id="T136S" value="00:05:13,101" />
+    <w id="104.1">tot</w>
+    <w id="104.2">mijn</w>
+    <w id="104.3">moeder</w>
+    <w id="104.4">met</w>
+    <w id="104.5">een</w>
+    <w id="104.6">knuppel</w>
+    <w id="104.7">op</w>
+    <w id="104.8">de</w>
+    <w id="104.9">voorruit</w>
+    <w id="104.10">sloeg</w>
+    <w id="104.11">.</w>
+    <time id="T136E" value="00:05:15,635" />
+  </s>
+  <s id="105">
+    <time id="T137S" value="00:05:15,637" />
+    <w id="105.1">Weet</w>
+    <w id="105.2">je</w>
+    <w id="105.3">wat</w>
+    <w id="105.4">mijn</w>
+    <w id="105.5">vader</w>
+    <w id="105.6">voor</w>
+    <w id="105.7">mijn</w>
+    <w id="105.8">16de</w>
+    <w id="105.9">verjaardag</w>
+    <w id="105.10">gaf</w>
+    <w id="105.11">?</w>
+    <time id="T137E" value="00:05:18,404" />
+  </s>
+  <s id="106">
+    <time id="T138S" value="00:05:18,406" />
+    <w id="106.1">En</w>
+    <w id="106.2">doosje</w>
+    <w id="106.3">condooms</w>
+    <w id="106.4">met</w>
+    <w id="106.5">een</w>
+    <w id="106.6">kaart</w>
+    <w id="106.7">waarop</w>
+    <w id="106.8">stond</w>
+    <w id="106.9">,</w>
+    <time id="T138E" value="00:05:20,406" />
+  </s>
+  <s id="107">
+    <time id="T139S" value="00:05:20,408" />
+    <w id="107.1">"</w>
+    <w id="107.2">Maak</w>
+    <w id="107.3">niet</w>
+    <w id="107.4">dezelfde</w>
+    <w id="107.5">fout</w>
+    <w id="107.6">als</w>
+    <w id="107.7">mij</w>
+    <w id="107.8">.</w>
+    <w id="107.9">"</w>
+    <time id="T139E" value="00:05:22,475" />
+  </s>
+  <s id="108">
+    <time id="T140S" value="00:05:23,744" />
+    <w id="108.1">Hij</w>
+    <w id="108.2">was</w>
+    <w id="108.3">grappig</w>
+    <w id="108.4">.</w>
+    <time id="T140E" value="00:05:25,144" />
+  </s>
+  <s id="109">
+    <time id="T141S" value="00:05:26,380" />
+    <w id="109.1">Hoe</w>
+    <w id="109.2">zit</w>
+    <w id="109.3">het</w>
+    <w id="109.4">met</w>
+    <w id="109.5">jouw</w>
+    <w id="109.6">Jenny</w>
+    <w id="109.7">?</w>
+    <time id="T141E" value="00:05:27,981" />
+  </s>
+  <s id="110">
+    <time id="T142S" value="00:05:29,416" />
+    <w id="110.1">Ze</w>
+    <w id="110.2">was</w>
+    <w id="110.3">perfect</w>
+    <w id="110.4">voor</w>
+    <w id="110.5">Dode</w>
+    <w id="110.6">Junkie</w>
+    <w id="110.7">Nummer</w>
+    <w id="110.8">Twee</w>
+    <w id="110.9">!</w>
+    <time id="T142E" value="00:05:32,418" />
+  </s>
+  <s id="111">
+    <time id="T144S" value="00:05:35,657" />
+    <w id="111.1">Wat</w>
+    <w id="111.2">een</w>
+    <w id="111.3">goed</w>
+    <w id="111.4">idee</w>
+    <w id="111.5">,</w>
+    <w id="111.6">Seks</w>
+    <w id="111.7">in</w>
+    <w id="111.8">iedere</w>
+    <w id="111.9">kamer</w>
+    <w id="111.10">van</w>
+    <w id="111.11">het</w>
+    <w id="111.12">huis</w>
+    <w id="111.13">.</w>
+    <time id="T144E" value="00:05:39,692" />
+  </s>
+  <s id="112">
+    <time id="T146S" value="00:05:39,694" />
+    <w id="112.1">Om</w>
+    <w id="112.2">eerlijk</w>
+    <w id="112.3">te</w>
+    <w id="112.4">zijn</w>
+    <w id="112.5">,</w>
+    <w id="112.6">in</w>
+    <w id="112.7">de</w>
+    <w id="112.8">waskamer</w>
+    <w id="112.9">was</w>
+    <w id="112.10">het</w>
+    <w id="112.11">meer</w>
+    <w id="112.12">jij</w>
+    <time id="T146E" value="00:05:42,328" />
+    <time id="T147S" value="00:05:42,330" />
+    <w id="112.13">die</w>
+    <w id="112.14">zat</w>
+    <w id="112.15">op</w>
+    <w id="112.16">de</w>
+    <w id="112.17">droger</w>
+    <w id="112.18">terwijl</w>
+    <w id="112.19">ik</w>
+    <w id="112.20">even</w>
+    <w id="112.21">moest</w>
+    <w id="112.22">rusten</w>
+    <w id="112.23">.</w>
+    <time id="T147E" value="00:05:44,530" />
+  </s>
+  <s id="113">
+    <time id="T148S" value="00:05:44,532" />
+    <w id="113.1">Ik</w>
+    <w id="113.2">denk</w>
+    <w id="113.3">dat</w>
+    <w id="113.4">ik</w>
+    <w id="113.5">er</w>
+    <w id="113.6">de</w>
+    <w id="113.7">volgende</w>
+    <w id="113.8">keer</w>
+    <w id="113.9">sneeuwschoenen</w>
+    <w id="113.10">in</w>
+    <w id="113.11">stop</w>
+    <w id="113.12">.</w>
+    <time id="T148E" value="00:05:47,734" />
+  </s>
+  <s id="114">
+    <time id="T150S" value="00:05:47,736" />
+    <w id="114.1">Je</w>
+    <w id="114.2">weet</w>
+    <w id="114.3">wel</w>
+    <w id="114.4">,</w>
+    <w id="114.5">boom-boom-boom-boom-boom</w>
+    <w id="114.6">!</w>
+    <time id="T150E" value="00:05:50,436" />
+  </s>
+  <s id="115">
+    <time id="T151S" value="00:05:50,438" />
+    <w id="115.1">één</w>
+    <w id="115.2">van</w>
+    <w id="115.3">de</w>
+    <w id="115.4">voordelen</w>
+    <w id="115.5">als</w>
+    <w id="115.6">je</w>
+    <w id="115.7">hier</w>
+    <w id="115.8">alleen</w>
+    <w id="115.9">bent</w>
+    <time id="T151E" value="00:05:53,706" />
+    <time id="T152S" value="00:05:53,708" />
+    <w id="115.10">dan</w>
+    <w id="115.11">ga</w>
+    <w id="115.12">je</w>
+    <w id="115.13">nadenken</w>
+    <w id="115.14">om</w>
+    <w id="115.15">een</w>
+    <w id="115.16">plek</w>
+    <w id="115.17">voor</w>
+    <w id="115.18">jezelf</w>
+    <w id="115.19">te</w>
+    <w id="115.20">gaan</w>
+    <w id="115.21">kopen</w>
+    <w id="115.22">.</w>
+    <time id="T152E" value="00:05:56,409" />
+  </s>
+  <s id="116">
+    <time id="T153S" value="00:05:59,613" />
+    <w id="116.1">Nee</w>
+    <w id="116.2">,</w>
+    <w id="116.3">ik</w>
+    <w id="116.4">blijf</w>
+    <w id="116.5">hier</w>
+    <w id="116.6">tot</w>
+    <w id="116.7">de</w>
+    <w id="116.8">dood</w>
+    <w id="116.9">,</w>
+    <w id="116.10">echt</w>
+    <w id="116.11">waar</w>
+    <w id="116.12">.</w>
+    <time id="T153E" value="00:06:01,914" />
+  </s>
+  <s id="117">
+    <time id="T154S" value="00:06:01,916" />
+    <w id="117.1">Wat</w>
+    <w id="117.2">wil</w>
+    <w id="117.3">je</w>
+    <w id="117.4">doen</w>
+    <w id="117.5">vanavond</w>
+    <w id="117.6">behalve</w>
+    <w id="117.7">deze</w>
+    <w id="117.8">jongen</w>
+    <time id="T154E" value="00:06:06,219" />
+  </s>
+  <s id="118">
+    <time id="T156S" value="00:06:06,221" />
+    <w id="118.1">Ik</w>
+    <w id="118.2">zou</w>
+    <w id="118.3">jou</w>
+    <w id="118.4">graag</w>
+    <w id="118.5">de</w>
+    <w id="118.6">hele</w>
+    <w id="118.7">avond</w>
+    <w id="118.8">doen</w>
+    <w id="118.9">,</w>
+    <time id="T156E" value="00:06:08,755" />
+    <time id="T157S" value="00:06:08,757" />
+    <w id="118.10">maar</w>
+    <w id="118.11">we</w>
+    <w id="118.12">hebben</w>
+    <w id="118.13">beloofd</w>
+    <w id="118.14">naar</w>
+    <w id="118.15">Lindsey</w>
+    <w id="118.16">en</w>
+    <w id="118.17">Larry</w>
+    <w id="118.18">te</w>
+    <w id="118.19">gaan</w>
+    <w id="118.20">.</w>
+    <time id="T157E" value="00:06:10,890" />
+  </s>
+  <s id="119">
+    <time id="T158S" value="00:06:10,892" />
+    <w id="119.1">weet</w>
+    <w id="119.2">je</w>
+    <w id="119.3">nog</w>
+    <w id="119.4">,</w>
+    <w id="119.5">karaoke</w>
+    <w id="119.6">?</w>
+  </s>
+  <s id="120">
+    <w id="120.1">-</w>
+    <w id="120.2">Oh</w>
+    <w id="120.3">,</w>
+    <w id="120.4">dat</w>
+    <w id="120.5">is</w>
+    <w id="120.6">waar</w>
+    <w id="120.7">.</w>
+    <time id="T158E" value="00:06:12,992" />
+  </s>
+  <s id="121">
+    <time id="T160S" value="00:06:12,994" />
+    <w id="121.1">Misschien</w>
+    <w id="121.2">kunnen</w>
+    <w id="121.3">we</w>
+    <w id="121.4">mijn</w>
+    <w id="121.5">Halloween</w>
+    <w id="121.6">kostuum</w>
+    <w id="121.7">gebruiken</w>
+    <w id="121.8">van</w>
+    <w id="121.9">vorig</w>
+    <w id="121.10">jaar</w>
+    <w id="121.11">.</w>
+    <time id="T160E" value="00:06:16,195" />
+  </s>
+  <s id="122">
+    <time id="T162S" value="00:06:16,197" />
+    <w id="122.1">Ja</w>
+    <w id="122.2">weet</w>
+    <w id="122.3">wel</w>
+    <w id="122.4">,</w>
+    <w id="122.5">Donny</w>
+    <w id="122.6">en</w>
+    <w id="122.7">Marie</w>
+    <w id="122.8">?</w>
+    <time id="T162E" value="00:06:17,830" />
+  </s>
+  <s id="123">
+    <time id="T163S" value="00:06:17,832" />
+    <w id="123.1">Maar</w>
+    <w id="123.2">ik</w>
+    <w id="123.3">weet</w>
+    <w id="123.4">niet</w>
+    <w id="123.5">zeker</w>
+    <w id="123.6">of</w>
+    <w id="123.7">je</w>
+    <w id="123.8">in</w>
+    <w id="123.9">Walden</w>
+    <w id="123.10">'</w>
+    <w id="123.11">s</w>
+    <w id="123.12">Donny</w>
+    <w id="123.13">costuum</w>
+    <w id="123.14">past</w>
+    <w id="123.15">.</w>
+    <time id="T163E" value="00:06:20,767" />
+  </s>
+  <s id="124">
+    <time id="T164S" value="00:06:21,869" />
+    <w id="124.1">Ik</w>
+    <w id="124.2">denk</w>
+    <w id="124.3">dat</w>
+    <w id="124.4">het</w>
+    <w id="124.5">vanavond</w>
+    <w id="124.6">de</w>
+    <w id="124.7">perfecte</w>
+    <w id="124.8">gelegenheid</w>
+    <w id="124.9">is</w>
+    <time id="T164E" value="00:06:25,672" />
+    <time id="T165S" value="00:06:25,674" />
+    <w id="124.10">om</w>
+    <w id="124.11">Larry</w>
+    <w id="124.12">te</w>
+    <w id="124.13">vertellen</w>
+    <w id="124.14">dat</w>
+    <w id="124.15">je</w>
+    <w id="124.16">niet</w>
+    <w id="124.17">Jeff</w>
+    <w id="124.18">Sterkman</w>
+    <w id="124.19">bent</w>
+    <time id="T165E" value="00:06:27,707" />
+  </s>
+  <s id="125">
+    <time id="T166S" value="00:06:27,709" />
+    <w id="125.1">Maar</w>
+    <w id="125.2">Allan</w>
+    <w id="125.3">Harper</w>
+    <w id="125.4">.</w>
+    <time id="T166E" value="00:06:29,142" />
+  </s>
+  <s id="126">
+    <time id="T167S" value="00:06:29,144" />
+    <w id="126.1">Dat</w>
+    <w id="126.2">is</w>
+    <w id="126.3">grappig</w>
+    <w id="126.4">want</w>
+    <w id="126.5">ik</w>
+    <w id="126.6">dacht</w>
+    <time id="T167E" value="00:06:31,110" />
+    <time id="T168S" value="00:06:31,112" />
+    <w id="126.7">dat</w>
+    <w id="126.8">het</w>
+    <w id="126.9">de</w>
+    <w id="126.10">perfecte</w>
+    <w id="126.11">avond</w>
+    <w id="126.12">was</w>
+    <w id="126.13">om</w>
+    <w id="126.14">niet</w>
+    <w id="126.15">vier</w>
+    <w id="126.16">levens</w>
+    <w id="126.17">te</w>
+    <w id="126.18">verwoesten</w>
+    <w id="126.19">.</w>
+    <time id="T168E" value="00:06:34,714" />
+  </s>
+  <s id="127">
+    <time id="T169S" value="00:06:34,716" />
+    <w id="127.1">Hij</w>
+    <w id="127.2">is</w>
+    <w id="127.3">mijn</w>
+    <w id="127.4">broer</w>
+    <w id="127.5">,</w>
+    <w id="127.6">Alan</w>
+    <w id="127.7">ik</w>
+    <w id="127.8">kan</w>
+    <w id="127.9">niet</w>
+    <w id="127.10">tegen</w>
+    <w id="127.11">hem</w>
+    <w id="127.12">liegen</w>
+    <w id="127.13">.</w>
+    <time id="T169E" value="00:06:37,483" />
+  </s>
+  <s id="128">
+    <time id="T171S" value="00:06:37,485" />
+    <w id="128.1">Ik</w>
+    <w id="128.2">loog</w>
+    <w id="128.3">altijd</w>
+    <w id="128.4">tegen</w>
+    <w id="128.5">mijn</w>
+    <w id="128.6">broer</w>
+    <w id="128.7">.</w>
+  </s>
+  <s id="129">
+    <w id="129.1">dat</w>
+    <w id="129.2">ging</w>
+    <w id="129.3">goed</w>
+    <w id="129.4">.</w>
+    <time id="T171E" value="00:06:39,852" />
+  </s>
+  <s id="130">
+    <time id="T172S" value="00:06:39,854" />
+    <w id="130.1">Je</w>
+    <w id="130.2">broer</w>
+    <w id="130.3">is</w>
+    <w id="130.4">dood</w>
+    <w id="130.5">.</w>
+  </s>
+  <s id="131">
+    <w id="131.1">Ik</w>
+    <w id="131.2">zei</w>
+    <w id="131.3">niet</w>
+    <w id="131.4">dat</w>
+    <w id="131.5">het</w>
+    <w id="131.6">voor</w>
+    <w id="131.7">iedereen</w>
+    <w id="131.8">goed</w>
+    <w id="131.9">ging</w>
+    <w id="131.10">.</w>
+    <time id="T172E" value="00:06:44,223" />
+  </s>
+  <s id="132">
+    <time id="T176S" value="00:06:50,330" />
+    <w id="132.1">Ben</w>
+    <w id="132.2">jij</w>
+    <w id="132.3">Dirk</w>
+    <w id="132.4">?</w>
+  </s>
+  <s id="133">
+    <w id="133.1">-</w>
+    <w id="133.2">Ben</w>
+    <w id="133.3">jij</w>
+    <w id="133.4">een</w>
+    <w id="133.5">politie</w>
+    <w id="133.6">agent</w>
+    <w id="133.7">?</w>
+    <time id="T176E" value="00:06:52,732" />
+  </s>
+  <s id="134">
+    <time id="T178S" value="00:06:52,734" />
+    <w id="134.1">Nee</w>
+    <w id="134.2">.</w>
+  </s>
+  <s id="135">
+    <w id="135.1">-</w>
+    <w id="135.2">Dan</w>
+    <w id="135.3">ben</w>
+    <w id="135.4">ik</w>
+    <w id="135.5">Dirk</w>
+    <w id="135.6">.</w>
+    <time id="T178E" value="00:06:54,901" />
+  </s>
+  <s id="136">
+    <time id="T179S" value="00:06:54,903" />
+    <w id="136.1">Ik</w>
+    <w id="136.2">ben</w>
+    <w id="136.3">Walden</w>
+    <w id="136.4">Schmidt</w>
+    <w id="136.5">.</w>
+  </s>
+  <s id="137">
+    <w id="137.1">Ik</w>
+    <w id="137.2">heb</w>
+    <w id="137.3">gebeld</w>
+    <w id="137.4">over</w>
+    <w id="137.5">de</w>
+    <w id="137.6">auto</w>
+    <w id="137.7">.</w>
+    <time id="T179E" value="00:06:56,836" />
+  </s>
+  <s id="138">
+    <time id="T180S" value="00:06:56,838" />
+    <w id="138.1">Aan</w>
+    <w id="138.2">de</w>
+    <w id="138.3">telefoon</w>
+    <w id="138.4">vroeg</w>
+    <w id="138.5">je</w>
+    <w id="138.6">ook</w>
+    <w id="138.7">of</w>
+    <w id="138.8">ik</w>
+    <w id="138.9">een</w>
+    <w id="138.10">politieagent</w>
+    <w id="138.11">was</w>
+    <w id="138.12">.</w>
+    <time id="T180E" value="00:06:59,072" />
+  </s>
+  <s id="139">
+    <time id="T181S" value="00:06:59,074" />
+    <w id="139.1">En</w>
+    <w id="139.2">daarna</w>
+    <w id="139.3">vroeg</w>
+    <w id="139.4">je</w>
+    <w id="139.5">of</w>
+    <w id="139.6">ik</w>
+    <w id="139.7">wiet</w>
+    <w id="139.8">wilde</w>
+    <w id="139.9">kopen</w>
+    <w id="139.10">.</w>
+    <time id="T181E" value="00:07:01,541" />
+  </s>
+  <s id="140">
+    <time id="T182S" value="00:07:01,543" />
+    <w id="140.1">Dat</w>
+    <w id="140.2">is</w>
+    <w id="140.3">de</w>
+    <w id="140.4">volgorde</w>
+    <w id="140.5">om</w>
+    <w id="140.6">de</w>
+    <w id="140.7">vragen</w>
+    <w id="140.8">te</w>
+    <w id="140.9">stellen</w>
+    <w id="140.10">,</w>
+    <w id="140.11">geleerd</w>
+    <w id="140.12">op</w>
+    <w id="140.13">de</w>
+    <w id="140.14">harde</w>
+    <w id="140.15">manier</w>
+    <w id="140.16">.</w>
+    <time id="T182E" value="00:07:05,945" />
+  </s>
+  <s id="141">
+    <time id="T184S" value="00:07:07,114" />
+    <w id="141.1">Jouw</w>
+    <w id="141.2">kinderen</w>
+    <w id="141.3">?</w>
+    <time id="T184E" value="00:07:08,014" />
+  </s>
+  <s id="142">
+    <time id="T185S" value="00:07:09,417" />
+    <w id="142.1">Nee</w>
+    <w id="142.2">.</w>
+  </s>
+  <s id="143">
+    <w id="143.1">-</w>
+    <w id="143.2">De</w>
+    <w id="143.3">mijne</w>
+    <w id="143.4">?</w>
+    <time id="T185E" value="00:07:12,618" />
+  </s>
+  <s id="144">
+    <time id="T187S" value="00:07:14,188" />
+    <w id="144.1">Is</w>
+    <w id="144.2">dit</w>
+    <w id="144.3">de</w>
+    <w id="144.4">auto</w>
+    <w id="144.5">?</w>
+  </s>
+  <s id="145">
+    <w id="145.1">-</w>
+    <w id="145.2">Ja</w>
+    <w id="145.3">,</w>
+    <w id="145.4">laat</w>
+    <w id="145.5">me</w>
+    <w id="145.6">dit</w>
+    <w id="145.7">doek</w>
+    <w id="145.8">eraf</w>
+    <w id="145.9">halen</w>
+    <w id="145.10">.</w>
+    <time id="T187E" value="00:07:18,558" />
+  </s>
+  <s id="146">
+    <time id="T189S" value="00:07:18,560" />
+    <w id="146.1">Dan</w>
+    <w id="146.2">zal</w>
+    <w id="146.3">je</w>
+    <w id="146.4">één</w>
+    <w id="146.5">mooie</w>
+    <w id="146.6">auto</w>
+    <w id="146.7">zien</w>
+    <w id="146.8">.</w>
+    <time id="T189E" value="00:07:21,294" />
+  </s>
+  <s id="147">
+    <time id="T190S" value="00:07:24,064" />
+    <w id="147.1">Waar</w>
+    <w id="147.2">?</w>
+  </s>
+  <s id="148">
+    <w id="148.1">Achter</w>
+    <w id="148.2">deze</w>
+    <w id="148.3">rotzooi</w>
+    <w id="148.4">?</w>
+    <time id="T190E" value="00:07:26,165" />
+  </s>
+  <s id="149">
+    <time id="T191S" value="00:07:26,167" />
+    <w id="149.1">Ze</w>
+    <w id="149.2">is</w>
+    <w id="149.3">niet</w>
+    <w id="149.4">zo</w>
+    <w id="149.5">knap</w>
+    <w id="149.6">,</w>
+    <w id="149.7">maar</w>
+    <w id="149.8">krijgt</w>
+    <w id="149.9">de</w>
+    <w id="149.10">klus</w>
+    <w id="149.11">geklaard</w>
+    <w id="149.12">.</w>
+  </s>
+  <s id="150">
+    <w id="150.1">Net</w>
+    <w id="150.2">als</w>
+    <w id="150.3">mijn</w>
+    <w id="150.4">oude</w>
+    <w id="150.5">dame</w>
+    <w id="150.6">.</w>
+    <time id="T191E" value="00:07:30,937" />
+  </s>
+  <s id="151">
+    <time id="T193S" value="00:07:30,939" />
+    <w id="151.1">Dat</w>
+    <w id="151.2">is</w>
+    <w id="151.3">niet</w>
+    <w id="151.4">slecht</w>
+    <w id="151.5">.</w>
+    <time id="T193E" value="00:07:32,271" />
+  </s>
+  <s id="152">
+    <time id="T194S" value="00:07:32,273" />
+    <w id="152.1">♪</w>
+    <w id="152.2">ze</w>
+    <w id="152.3">is</w>
+    <w id="152.4">niet</w>
+    <w id="152.5">zo</w>
+    <w id="152.6">knap</w>
+    <w id="152.7">,</w>
+    <w id="152.8">maar</w>
+    <w id="152.9">krijgt</w>
+    <w id="152.10">de</w>
+    <w id="152.11">klus</w>
+    <w id="152.12">geklaard</w>
+    <w id="152.13">♪</w>
+    <time id="T194E" value="00:07:34,974" />
+  </s>
+  <s id="153">
+    <time id="T195S" value="00:07:34,976" />
+    <w id="153.1">♪</w>
+    <w id="153.2">Ik</w>
+    <w id="153.3">probeer</w>
+    <w id="153.4">te</w>
+    <w id="153.5">ontsnappen</w>
+    <w id="153.6">,</w>
+    <w id="153.7">Maar</w>
+    <w id="153.8">ben</w>
+    <w id="153.9">te</w>
+    <w id="153.10">oud</w>
+    <w id="153.11">om</w>
+    <w id="153.12">te</w>
+    <w id="153.13">rennen</w>
+    <w id="153.14">!</w>
+  </s>
+  <s id="154">
+    <w id="154.1">♪</w>
+    <time id="T195E" value="00:07:39,011" />
+  </s>
+  <s id="155">
+    <time id="T196S" value="00:07:39,013" />
+    <w id="155.1">Dat</w>
+    <w id="155.2">is</w>
+    <w id="155.3">een</w>
+    <w id="155.4">hit</w>
+    <w id="155.5">!</w>
+    <time id="T196E" value="00:07:40,613" />
+  </s>
+  <s id="156">
+    <time id="T197S" value="00:07:41,648" />
+    <w id="156.1">Dit</w>
+    <w id="156.2">is</w>
+    <w id="156.3">jouw</w>
+    <w id="156.4">auto</w>
+    <w id="156.5">?</w>
+    <time id="T197E" value="00:07:43,416" />
+  </s>
+  <s id="157">
+    <time id="T199S" value="00:07:44,853" />
+    <w id="157.1">De</w>
+    <w id="157.2">sticker</w>
+    <w id="157.3">van</w>
+    <w id="157.4">stem</w>
+    <w id="157.5">voor</w>
+    <w id="157.6">bush</w>
+    <w id="157.7">zit</w>
+    <w id="157.8">er</w>
+    <w id="157.9">nog</w>
+    <w id="157.10">op</w>
+    <w id="157.11">.</w>
+    <time id="T199E" value="00:07:47,754" />
+  </s>
+  <s id="158">
+    <time id="T200S" value="00:07:47,756" />
+    <w id="158.1">Je</w>
+    <w id="158.2">was</w>
+    <w id="158.3">een</w>
+    <w id="158.4">republikein</w>
+    <w id="158.5">?</w>
+    <time id="T200E" value="00:07:49,122" />
+  </s>
+  <s id="159">
+    <time id="T201S" value="00:07:49,124" />
+    <w id="159.1">Nee</w>
+    <w id="159.2">,</w>
+    <w id="159.3">mijn</w>
+    <w id="159.4">vrienden</w>
+    <w id="159.5">en</w>
+    <w id="159.6">ik</w>
+    <w id="159.7">dachten</w>
+    <w id="159.8">dat</w>
+    <w id="159.9">het</w>
+    <w id="159.10">grappig</w>
+    <w id="159.11">was</w>
+    <w id="159.12">.</w>
+    <time id="T201E" value="00:07:51,591" />
+  </s>
+  <s id="160">
+    <time id="T202S" value="00:07:51,593" />
+    <w id="160.1">je</w>
+    <w id="160.2">weet</w>
+    <w id="160.3">wel</w>
+    <w id="160.4">,</w>
+    <w id="160.5">"</w>
+    <w id="160.6">bos</w>
+    <w id="160.7">"</w>
+    <w id="160.8">?</w>
+    <time id="T202E" value="00:07:53,726" />
+  </s>
+  <s id="161">
+    <time id="T203S" value="00:07:53,728" />
+    <w id="161.1">Weet</w>
+    <w id="161.2">je</w>
+    <w id="161.3">,</w>
+    <w id="161.4">ik</w>
+    <w id="161.5">hou</w>
+    <w id="161.6">van</w>
+    <w id="161.7">bos</w>
+    <w id="161.8">.</w>
+    <time id="T203E" value="00:07:57,430" />
+  </s>
+  <s id="162">
+    <time id="T204S" value="00:07:57,432" />
+    <w id="162.1">Jij</w>
+    <w id="162.2">en</w>
+    <w id="162.3">ik</w>
+    <w id="162.4">beide</w>
+    <w id="162.5">.</w>
+    <time id="T204E" value="00:07:59,332" />
+  </s>
+  <s id="163">
+    <time id="T205S" value="00:08:00,734" />
+    <w id="163.1">hij</w>
+    <w id="163.2">heeft</w>
+    <w id="163.3">veel</w>
+    <w id="163.4">slijtage</w>
+    <w id="163.5">niet</w>
+    <w id="163.6">om</w>
+    <w id="163.7">aan</w>
+    <w id="163.8">te</w>
+    <w id="163.9">zien</w>
+    <w id="163.10">.</w>
+    <time id="T205E" value="00:08:04,604" />
+  </s>
+  <s id="164">
+    <time id="T207S" value="00:08:04,606" />
+    <w id="164.1">Lijkt</w>
+    <w id="164.2">wel</w>
+    <w id="164.3">alsof</w>
+    <w id="164.4">de</w>
+    <w id="164.5">achterkant</w>
+    <w id="164.6">is</w>
+    <w id="164.7">aangereden</w>
+    <w id="164.8">.</w>
+    <time id="T207E" value="00:08:06,405" />
+  </s>
+  <s id="165">
+    <time id="T208S" value="00:08:06,407" />
+    <w id="165.1">Net</w>
+    <w id="165.2">als</w>
+    <w id="165.3">mijn</w>
+    <w id="165.4">oude</w>
+    <w id="165.5">dame</w>
+    <w id="165.6">.</w>
+    <time id="T208E" value="00:08:08,341" />
+  </s>
+  <s id="166">
+    <time id="T209S" value="00:08:09,943" />
+    <w id="166.1">Maar</w>
+    <w id="166.2">hij</w>
+    <w id="166.3">heeft</w>
+    <w id="166.4">nieuwe</w>
+    <w id="166.5">koplampen</w>
+    <w id="166.6">en</w>
+    <w id="166.7">een</w>
+    <w id="166.8">ruime</w>
+    <w id="166.9">achterbank</w>
+    <w id="166.10">.</w>
+    <time id="T209E" value="00:08:12,512" />
+  </s>
+  <s id="167">
+    <time id="T210S" value="00:08:12,514" />
+    <w id="167.1">Net</w>
+    <w id="167.2">als</w>
+    <w id="167.3">je</w>
+    <w id="167.4">oude</w>
+    <w id="167.5">dame</w>
+    <w id="167.6">?</w>
+    <time id="T210E" value="00:08:13,780" />
+  </s>
+  <s id="168">
+    <time id="T211S" value="00:08:13,782" />
+    <w id="168.1">Dat</w>
+    <w id="168.2">is</w>
+    <w id="168.3">de</w>
+    <w id="168.4">moeder</w>
+    <w id="168.5">van</w>
+    <w id="168.6">3</w>
+    <w id="168.7">van</w>
+    <w id="168.8">mijn</w>
+    <w id="168.9">5</w>
+    <w id="168.10">kinderen</w>
+    <w id="168.11">!</w>
+    <time id="T211E" value="00:08:17,049" />
+  </s>
+  <s id="169">
+    <time id="T212S" value="00:08:18,452" />
+    <w id="169.1">Deze</w>
+    <w id="169.2">jongen</w>
+    <w id="169.3">kan</w>
+    <w id="169.4">nog</w>
+    <w id="169.5">steeds</w>
+    <w id="169.6">100</w>
+    <w id="169.7">rijden</w>
+    <w id="169.8">.</w>
+    <time id="T212E" value="00:08:21,020" />
+  </s>
+  <s id="170">
+    <time id="T213S" value="00:08:21,022" />
+    <w id="170.1">Als</w>
+    <w id="170.2">hij</w>
+    <w id="170.3">wordt</w>
+    <w id="170.4">gesleept</w>
+    <w id="170.5">kan</w>
+    <w id="170.6">hij</w>
+    <w id="170.7">misschien</w>
+    <w id="170.8">wel</w>
+    <w id="170.9">110</w>
+    <w id="170.10">.</w>
+    <time id="T213E" value="00:08:23,990" />
+  </s>
+  <s id="171">
+    <time id="T214S" value="00:08:23,992" />
+    <w id="171.1">Als</w>
+    <w id="171.2">je</w>
+    <w id="171.3">me</w>
+    <w id="171.4">niet</w>
+    <w id="171.5">gelooft</w>
+    <w id="171.6">,</w>
+    <w id="171.7">verwijs</w>
+    <w id="171.8">ik</w>
+    <w id="171.9">je</w>
+    <w id="171.10">naar</w>
+    <time id="T214E" value="00:08:26,159" />
+    <time id="T215S" value="00:08:26,161" />
+    <w id="171.11">'</w>
+    <w id="171.12">s</w>
+    <w id="171.13">Werelds</w>
+    <w id="171.14">wildste</w>
+    <w id="171.15">politie</w>
+    <w id="171.16">achtervolgingen</w>
+    <w id="171.17">aflevering</w>
+    <w id="171.18">139</w>
+    <w id="171.19">.</w>
+    <time id="T215E" value="00:08:29,829" />
+  </s>
+  <s id="172">
+    <time id="T216S" value="00:08:31,064" />
+    <w id="172.1">Wat</w>
+    <w id="172.2">is</w>
+    <w id="172.3">hierin</w>
+    <w id="172.4">overleden</w>
+    <w id="172.5">?</w>
+    <time id="T216E" value="00:08:32,565" />
+  </s>
+  <s id="173">
+    <time id="T217S" value="00:08:32,567" />
+    <w id="173.1">Mijn</w>
+    <w id="173.2">opa</w>
+    <w id="173.3">.</w>
+    <time id="T217E" value="00:08:34,667" />
+  </s>
+  <s id="174">
+    <time id="T218S" value="00:08:34,669" />
+    <w id="174.1">De</w>
+    <w id="174.2">gordel</w>
+    <w id="174.3">zat</w>
+    <w id="174.4">vast</w>
+    <w id="174.5">,</w>
+    <w id="174.6">we</w>
+    <w id="174.7">moesten</w>
+    <w id="174.8">hem</w>
+    <w id="174.9">een</w>
+    <w id="174.10">paar</w>
+    <w id="174.11">dagen</w>
+    <w id="174.12">laten</w>
+    <w id="174.13">zitten</w>
+    <w id="174.14">.</w>
+    <time id="T218E" value="00:08:38,104" />
+  </s>
+  <s id="175">
+    <time id="T220S" value="00:08:39,706" />
+    <w id="175.1">Bedankt</w>
+    <w id="175.2">voor</w>
+    <w id="175.3">het</w>
+    <w id="175.4">laten</w>
+    <w id="175.5">zien</w>
+    <w id="175.6">van</w>
+    <w id="175.7">de</w>
+    <w id="175.8">auto</w>
+    <w id="175.9">.</w>
+    <time id="T220E" value="00:08:42,642" />
+  </s>
+  <s id="176">
+    <time id="T221S" value="00:08:42,644" />
+    <w id="176.1">Wacht</w>
+    <w id="176.2">eens</w>
+    <w id="176.3">even</w>
+    <w id="176.4">.</w>
+    <time id="T221E" value="00:08:44,076" />
+  </s>
+  <s id="177">
+    <time id="T222S" value="00:08:44,912" />
+    <w id="177.1">Hoeveel</w>
+    <w id="177.2">wil</w>
+    <w id="177.3">je</w>
+    <w id="177.4">ervoor</w>
+    <w id="177.5">hebben</w>
+    <w id="177.6">?</w>
+  </s>
+  <s id="178">
+    <w id="178.1">-</w>
+    <w id="178.2">Wat</w>
+    <w id="178.3">doe</w>
+    <w id="178.4">je</w>
+    <w id="178.5">?</w>
+    <time id="T222E" value="00:08:47,880" />
+  </s>
+  <s id="179">
+    <time id="T224S" value="00:08:48,982" />
+    <w id="179.1">Ik</w>
+    <w id="179.2">wil</w>
+    <w id="179.3">1,800</w>
+    <w id="179.4">of</w>
+    <w id="179.5">heb</w>
+    <w id="179.6">je</w>
+    <w id="179.7">een</w>
+    <w id="179.8">ander</w>
+    <w id="179.9">soort</w>
+    <w id="179.10">aanbod</w>
+    <w id="179.11">voor</w>
+    <w id="179.12">me</w>
+    <w id="179.13">.</w>
+    <time id="T224E" value="00:08:52,552" />
+  </s>
+  <s id="180">
+    <time id="T227S" value="00:08:53,721" />
+    <w id="180.1">En</w>
+    <w id="180.2">jij</w>
+    <w id="180.3">?</w>
+    <time id="T227E" value="00:08:55,388" />
+  </s>
+  <s id="181">
+    <time id="T228S" value="00:08:55,390" />
+    <w id="181.1">Nee</w>
+    <w id="181.2">!</w>
+    <time id="T228E" value="00:08:58,257" />
+  </s>
+  <s id="182">
+    <time id="T229S" value="00:08:58,259" />
+    <w id="182.1">Dan</w>
+    <w id="182.2">is</w>
+    <w id="182.3">het</w>
+    <w id="182.4">1,800</w>
+    <w id="182.5">.</w>
+  </s>
+  <s id="183">
+    <w id="183.1">-</w>
+    <w id="183.2">Ik</w>
+    <w id="183.3">ga</w>
+    <w id="183.4">deze</w>
+    <w id="183.5">auto</w>
+    <w id="183.6">niet</w>
+    <w id="183.7">kopen</w>
+    <w id="183.8">.</w>
+    <time id="T229E" value="00:09:03,930" />
+  </s>
+  <s id="184">
+    <time id="T231S" value="00:09:03,932" />
+    <w id="184.1">Deze</w>
+    <w id="184.2">auto</w>
+    <w id="184.3">is</w>
+    <w id="184.4">een</w>
+    <w id="184.5">deel</w>
+    <w id="184.6">van</w>
+    <w id="184.7">je</w>
+    <w id="184.8">leven</w>
+    <w id="184.9">.</w>
+    <time id="T231E" value="00:09:06,132" />
+  </s>
+  <s id="185">
+    <time id="T232S" value="00:09:06,134" />
+    <w id="185.1">Voor</w>
+    <w id="185.2">iemand</w>
+    <w id="185.3">anders</w>
+    <w id="185.4">betekent</w>
+    <w id="185.5">het</w>
+    <w id="185.6">niets</w>
+    <w id="185.7">alleen</w>
+    <w id="185.8">voor</w>
+    <w id="185.9">jou</w>
+    <w id="185.10">.</w>
+    <time id="T232E" value="00:09:09,068" />
+  </s>
+  <s id="186">
+    <time id="T234S" value="00:09:10,938" />
+    <w id="186.1">Al</w>
+    <w id="186.2">goed</w>
+    <w id="186.3">,</w>
+    <w id="186.4">ik</w>
+    <w id="186.5">geef</w>
+    <w id="186.6">je</w>
+    <w id="186.7">$</w>
+    <w id="186.8">1,800</w>
+    <w id="186.9">.</w>
+    <time id="T234E" value="00:09:13,206" />
+  </s>
+  <s id="187">
+    <time id="T235S" value="00:09:13,208" />
+    <w id="187.1">Je</w>
+    <w id="187.2">dingt</w>
+    <w id="187.3">niet</w>
+    <w id="187.4">af</w>
+    <w id="187.5">,</w>
+    <w id="187.6">het</w>
+    <w id="187.7">is</w>
+    <w id="187.8">niet</w>
+    <w id="187.9">leuk</w>
+    <w id="187.10">als</w>
+    <w id="187.11">je</w>
+    <w id="187.12">niet</w>
+    <w id="187.13">afdingt</w>
+    <w id="187.14">.</w>
+    <time id="T235E" value="00:09:16,642" />
+  </s>
+  <s id="188">
+    <time id="T236S" value="00:09:16,644" />
+    <w id="188.1">Fijn</w>
+    <w id="188.2">.</w>
+    <w id="188.3">1,600</w>
+    <w id="188.4">.</w>
+    <time id="T236E" value="00:09:20,146" />
+  </s>
+  <s id="189">
+    <time id="T237S" value="00:09:20,148" />
+    <w id="189.1">1,700</w>
+    <w id="189.2">.</w>
+    <time id="T237E" value="00:09:21,147" />
+  </s>
+  <s id="190">
+    <time id="T238S" value="00:09:21,149" />
+    <w id="190.1">Deal</w>
+    <w id="190.2">.</w>
+    <w id="190.3">1,700</w>
+    <w id="190.4">.</w>
+    <time id="T238E" value="00:09:23,115" />
+  </s>
+  <s id="191">
+    <time id="T239S" value="00:09:23,117" />
+    <w id="191.1">Yeah</w>
+    <w id="191.2">!</w>
+    <time id="T239E" value="00:09:25,084" />
+  </s>
+  <s id="192">
+    <time id="T240S" value="00:09:26,286" />
+    <w id="192.1">Ik</w>
+    <w id="192.2">wilde</w>
+    <w id="192.3">je</w>
+    <w id="192.4">gewoon</w>
+    <w id="192.5">1,800</w>
+    <w id="192.6">geven</w>
+    <w id="192.7">.</w>
+    <time id="T240E" value="00:09:27,954" />
+  </s>
+  <s id="193">
+    <time id="T241S" value="00:09:27,956" />
+    <w id="193.1">Dat</w>
+    <w id="193.2">kan</w>
+    <w id="193.3">er</w>
+    <w id="193.4">gebeuren</w>
+    <w id="193.5">als</w>
+    <w id="193.6">je</w>
+    <w id="193.7">afdingt</w>
+    <w id="193.8">soms</w>
+    <w id="193.9">win</w>
+    <w id="193.10">je</w>
+    <w id="193.11">,</w>
+    <w id="193.12">en</w>
+    <w id="193.13">soms</w>
+    <w id="193.14">verlies</w>
+    <w id="193.15">je</w>
+    <w id="193.16">.</w>
+    <time id="T241E" value="00:09:32,592" />
+  </s>
+  <s id="194">
+    <time id="T243S" value="00:09:33,961" />
+    <w id="194.1">We</w>
+    <w id="194.2">moeten</w>
+    <w id="194.3">zeker</w>
+    <w id="194.4">aan</w>
+    <w id="194.5">de</w>
+    <w id="194.6">wiet</w>
+    <w id="194.7">komen</w>
+    <w id="194.8">van</w>
+    <w id="194.9">deze</w>
+    <w id="194.10">kerel</w>
+    <w id="194.11">.</w>
+    <time id="T243E" value="00:09:35,995" />
+  </s>
+  <s id="195">
+    <time id="T257S" value="00:10:05,260" />
+    <w id="195.1">Gretchen</w>
+    <w id="195.2">,</w>
+    <w id="195.3">Jeff</w>
+    <w id="195.4">!</w>
+    <time id="T257E" value="00:10:06,859" />
+  </s>
+  <s id="196">
+    <time id="T258S" value="00:10:06,861" />
+    <w id="196.1">Doe</w>
+    <w id="196.2">dat</w>
+    <w id="196.3">maar</w>
+    <w id="196.4">eens</w>
+    <w id="196.5">na</w>
+    <w id="196.6">,</w>
+    <w id="196.7">bitches</w>
+    <w id="196.8">.</w>
+    <time id="T258E" value="00:10:09,629" />
+  </s>
+  <s id="197">
+    <time id="T259S" value="00:10:09,631" />
+    <w id="197.1">Kom</w>
+    <w id="197.2">op</w>
+    <w id="197.3">,</w>
+    <w id="197.4">Lindsey</w>
+    <w id="197.5">,</w>
+    <w id="197.6">het</w>
+    <w id="197.7">is</w>
+    <w id="197.8">onze</w>
+    <w id="197.9">beurt</w>
+    <w id="197.10">.</w>
+  </s>
+  <s id="198">
+    <w id="198.1">Wie</w>
+    <w id="198.2">laat</w>
+    <w id="198.3">de</w>
+    <w id="198.4">honden</w>
+    <w id="198.5">uit</w>
+    <w id="198.6">?</w>
+    <time id="T259E" value="00:10:13,566" />
+  </s>
+  <s id="199">
+    <time id="T261S" value="00:10:13,568" />
+    <w id="199.1">Woof</w>
+    <w id="199.2">,</w>
+    <w id="199.3">woof</w>
+    <w id="199.4">.</w>
+  </s>
+  <s id="200">
+    <w id="200.1">Woof</w>
+    <w id="200.2">,</w>
+    <w id="200.3">woof</w>
+    <w id="200.4">.</w>
+    <time id="T261E" value="00:10:16,502" />
+  </s>
+  <s id="201">
+    <time id="T262S" value="00:10:16,504" />
+    <w id="201.1">Kom</w>
+    <w id="201.2">op</w>
+    <w id="201.3">,</w>
+    <w id="201.4">je</w>
+    <w id="201.5">kunt</w>
+    <w id="201.6">beter</w>
+    <w id="201.7">dan</w>
+    <w id="201.8">dat</w>
+    <w id="201.9">.</w>
+  </s>
+  <s id="202">
+    <w id="202.1">-</w>
+    <w id="202.2">Zie</w>
+    <w id="202.3">ik</w>
+    <w id="202.4">eruit</w>
+    <w id="202.5">alsof</w>
+    <w id="202.6">ik</w>
+    <w id="202.7">het</w>
+    <w id="202.8">beter</w>
+    <w id="202.9">wil</w>
+    <w id="202.10">doen</w>
+    <w id="202.11">?</w>
+    <time id="T262E" value="00:10:20,773" />
+  </s>
+  <s id="203">
+    <time id="T264S" value="00:10:20,775" />
+    <w id="203.1">Laatst</w>
+    <w id="203.2">toen</w>
+    <w id="203.3">ik</w>
+    <w id="203.4">dat</w>
+    <w id="203.5">gezicht</w>
+    <w id="203.6">zag</w>
+    <w id="203.7">was</w>
+    <w id="203.8">ik</w>
+    <w id="203.9">vergeten</w>
+    <w id="203.10">wijn</w>
+    <w id="203.11">mee</w>
+    <w id="203.12">te</w>
+    <w id="203.13">nemen</w>
+    <w id="203.14">.</w>
+    <time id="T264E" value="00:10:24,677" />
+  </s>
+  <s id="204">
+    <time id="T266S" value="00:10:24,679" />
+    <w id="204.1">Toen</w>
+    <w id="204.2">zat</w>
+    <w id="204.3">ik</w>
+    <w id="204.4">in</w>
+    <w id="204.5">het</w>
+    <w id="204.6">hondenhok</w>
+    <w id="204.7">die</w>
+    <w id="204.8">nacht</w>
+    <w id="204.9">.</w>
+    <time id="T266E" value="00:10:27,413" />
+  </s>
+  <s id="205">
+    <time id="T268S" value="00:10:27,415" />
+    <w id="205.1">Wie</w>
+    <w id="205.2">zit</w>
+    <w id="205.3">in</w>
+    <w id="205.4">het</w>
+    <w id="205.5">hondenhok</w>
+    <w id="205.6">?</w>
+    <time id="T268E" value="00:10:30,283" />
+  </s>
+  <s id="206">
+    <time id="T269S" value="00:10:30,285" />
+    <w id="206.1">wie-wie-wie-wie</w>
+    <w id="206.2">?</w>
+    <time id="T269E" value="00:10:32,285" />
+  </s>
+  <s id="207">
+    <time id="T270S" value="00:10:32,287" />
+    <w id="207.1">Dat</w>
+    <w id="207.2">bedoel</w>
+    <w id="207.3">ik</w>
+    <w id="207.4">nou</w>
+    <w id="207.5">!</w>
+  </s>
+  <s id="208">
+    <w id="208.1">Kom</w>
+    <w id="208.2">op</w>
+    <w id="208.3">we</w>
+    <w id="208.4">laten</w>
+    <w id="208.5">ze</w>
+    <w id="208.6">zien</w>
+    <time id="T270E" value="00:10:34,620" />
+    <time id="T272S" value="00:10:34,622" />
+    <w id="208.7">hoe</w>
+    <w id="208.8">jij</w>
+    <w id="208.9">en</w>
+    <w id="208.10">je</w>
+    <w id="208.11">broer</w>
+    <w id="208.12">het</w>
+    <w id="208.13">op</w>
+    <w id="208.14">zijn</w>
+    <w id="208.15">hondjes</w>
+    <w id="208.16">doen</w>
+    <w id="208.17">.</w>
+    <time id="T272E" value="00:10:36,489" />
+  </s>
+  <s id="209">
+    <time id="T273S" value="00:10:39,326" />
+    <w id="209.1">Hij</w>
+    <w id="209.2">hoort</w>
+    <w id="209.3">zichzelf</w>
+    <w id="209.4">echt</w>
+    <w id="209.5">niet</w>
+    <w id="209.6">,</w>
+    <w id="209.7">of</w>
+    <w id="209.8">wel</w>
+    <w id="209.9">?</w>
+  </s>
+  <s id="210">
+    <w id="210.1">-</w>
+    <w id="210.2">Waarom</w>
+    <w id="210.3">ben</w>
+    <w id="210.4">je</w>
+    <w id="210.5">hier</w>
+    <w id="210.6">?</w>
+    <time id="T273E" value="00:10:44,563" />
+  </s>
+  <s id="211">
+    <time id="T275S" value="00:10:44,565" />
+    <w id="211.1">ik</w>
+    <w id="211.2">zeg</w>
+    <w id="211.3">al</w>
+    <w id="211.4">100</w>
+    <w id="211.5">keer</w>
+    <w id="211.6">,</w>
+    <w id="211.7">ik</w>
+    <w id="211.8">wil</w>
+    <w id="211.9">geen</w>
+    <w id="211.10">dubbel</w>
+    <w id="211.11">date</w>
+    <w id="211.12">met</w>
+    <w id="211.13">Gretchen</w>
+    <w id="211.14">en</w>
+    <w id="211.15">Jeff</w>
+    <w id="211.16">Sterkman</w>
+    <w id="211.17">.</w>
+    <time id="T275E" value="00:10:48,301" />
+  </s>
+  <s id="212">
+    <time id="T277S" value="00:10:48,303" />
+    <w id="212.1">Dat</w>
+    <w id="212.2">hoeft</w>
+    <w id="212.3">ook</w>
+    <w id="212.4">niet</w>
+    <w id="212.5">meer</w>
+    <w id="212.6">.</w>
+    <time id="T277E" value="00:10:50,569" />
+  </s>
+  <s id="213">
+    <time id="T278S" value="00:10:50,571" />
+    <w id="213.1">Raad</w>
+    <w id="213.2">eens</w>
+    <w id="213.3">wie</w>
+    <w id="213.4">Larry</w>
+    <w id="213.5">de</w>
+    <w id="213.6">waarheid</w>
+    <w id="213.7">gaat</w>
+    <w id="213.8">vertellen</w>
+    <w id="213.9">.</w>
+    <time id="T278E" value="00:10:52,271" />
+  </s>
+  <s id="214">
+    <time id="T279S" value="00:10:52,273" />
+    <w id="214.1">Wie-wie-wie</w>
+    <w id="214.2">?</w>
+    <time id="T279E" value="00:10:54,974" />
+  </s>
+  <s id="215">
+    <time id="T280S" value="00:10:56,777" />
+    <w id="215.1">Wat</w>
+    <w id="215.2">bedoel</w>
+    <w id="215.3">je</w>
+    <w id="215.4">?</w>
+  </s>
+  <s id="216">
+    <w id="216.1">-</w>
+    <w id="216.2">Ik</w>
+    <w id="216.3">heb</w>
+    <w id="216.4">Gretchen</w>
+    <w id="216.5">verteld</w>
+    <w id="216.6">wie</w>
+    <w id="216.7">ik</w>
+    <w id="216.8">ben</w>
+    <w id="216.9">.</w>
+    <time id="T280E" value="00:11:00,546" />
+  </s>
+  <s id="217">
+    <time id="T282S" value="00:11:00,548" />
+    <w id="217.1">Ik</w>
+    <w id="217.2">was</w>
+    <w id="217.3">het</w>
+    <w id="217.4">zat</w>
+    <w id="217.5">om</w>
+    <w id="217.6">te</w>
+    <w id="217.7">liegen</w>
+    <w id="217.8">en</w>
+    <w id="217.9">rond</w>
+    <w id="217.10">te</w>
+    <w id="217.11">sluipen</w>
+    <w id="217.12">.</w>
+  </s>
+  <s id="218">
+    <w id="218.1">Ik</w>
+    <w id="218.2">ben</w>
+    <w id="218.3">beter</w>
+    <w id="218.4">dan</w>
+    <w id="218.5">dat</w>
+    <w id="218.6">.</w>
+    <time id="T282E" value="00:11:05,051" />
+  </s>
+  <s id="219">
+    <time id="T285S" value="00:11:05,053" />
+    <w id="219.1">Ze</w>
+    <w id="219.2">kwam</w>
+    <w id="219.3">er</w>
+    <w id="219.4">achter</w>
+    <w id="219.5">.</w>
+  </s>
+  <s id="220">
+    <w id="220.1">-</w>
+    <w id="220.2">Ja</w>
+    <w id="220.3">dat</w>
+    <w id="220.4">heeft</w>
+    <w id="220.5">ze</w>
+    <w id="220.6">.</w>
+    <time id="T285E" value="00:11:07,586" />
+  </s>
+  <s id="221">
+    <time id="T287S" value="00:11:07,588" />
+    <w id="221.1">Maar</w>
+    <w id="221.2">het</w>
+    <w id="221.3">voelt</w>
+    <w id="221.4">goed</w>
+    <w id="221.5">nu</w>
+    <w id="221.6">ik</w>
+    <w id="221.7">daar</w>
+    <w id="221.8">vanaf</w>
+    <w id="221.9">ben</w>
+    <w id="221.10">.</w>
+    <time id="T287E" value="00:11:09,922" />
+  </s>
+  <s id="222">
+    <time id="T288S" value="00:11:09,924" />
+    <w id="222.1">Als</w>
+    <w id="222.2">je</w>
+    <w id="222.3">Larry</w>
+    <w id="222.4">verteld</w>
+    <w id="222.5">wie</w>
+    <w id="222.6">je</w>
+    <w id="222.7">echt</w>
+    <w id="222.8">ben</w>
+    <w id="222.9">,</w>
+    <time id="T288E" value="00:11:13,159" />
+    <time id="T289S" value="00:11:13,161" />
+    <w id="222.10">dan</w>
+    <w id="222.11">vraagt</w>
+    <w id="222.12">hij</w>
+    <w id="222.13">zich</w>
+    <w id="222.14">af</w>
+    <w id="222.15">waarom</w>
+    <w id="222.16">ik</w>
+    <w id="222.17">het</w>
+    <w id="222.18">hem</w>
+    <w id="222.19">niet</w>
+    <w id="222.20">heb</w>
+    <w id="222.21">verteld</w>
+    <w id="222.22">.</w>
+    <time id="T289E" value="00:11:15,528" />
+  </s>
+  <s id="223">
+    <time id="T290S" value="00:11:15,530" />
+    <w id="223.1">Daar</w>
+    <w id="223.2">wil</w>
+    <w id="223.3">ik</w>
+    <w id="223.4">niet</w>
+    <w id="223.5">mee</w>
+    <w id="223.6">te</w>
+    <w id="223.7">maken</w>
+    <w id="223.8">krijgen</w>
+    <w id="223.9">nu</w>
+    <w id="223.10">we</w>
+    <w id="223.11">binnen</w>
+    <w id="223.12">twee</w>
+    <w id="223.13">weken</w>
+    <w id="223.14">gaan</w>
+    <w id="223.15">trouwen</w>
+    <w id="223.16">.</w>
+    <time id="T290E" value="00:11:19,532" />
+  </s>
+  <s id="224">
+    <time id="T292S" value="00:11:19,534" />
+    <w id="224.1">God</w>
+    <w id="224.2">,</w>
+    <w id="224.3">nog</w>
+    <w id="224.4">maar</w>
+    <w id="224.5">twee</w>
+    <w id="224.6">weken</w>
+    <w id="224.7">?</w>
+  </s>
+  <s id="225">
+    <w id="225.1">Ik</w>
+    <w id="225.2">kan</w>
+    <w id="225.3">maar</w>
+    <w id="225.4">beter</w>
+    <w id="225.5">die</w>
+    <w id="225.6">ringen</w>
+    <w id="225.7">gaan</w>
+    <w id="225.8">zoeken</w>
+    <w id="225.9">.</w>
+    <time id="T292E" value="00:11:22,568" />
+  </s>
+  <s id="226">
+    <time id="T294S" value="00:11:22,570" />
+    <w id="226.1">Alan</w>
+    <w id="226.2">,</w>
+    <w id="226.3">je</w>
+    <w id="226.4">verteld</w>
+    <w id="226.5">helemaal</w>
+    <w id="226.6">niets</w>
+    <w id="226.7">over</w>
+    <w id="226.8">wie</w>
+    <w id="226.9">je</w>
+    <w id="226.10">echt</w>
+    <w id="226.11">bent</w>
+    <w id="226.12">.</w>
+    <time id="T294E" value="00:11:26,372" />
+  </s>
+  <s id="227">
+    <time id="T296S" value="00:11:26,374" />
+    <w id="227.1">Sorry</w>
+    <w id="227.2">,</w>
+    <w id="227.3">maar</w>
+    <w id="227.4">ik</w>
+    <w id="227.5">heb</w>
+    <w id="227.6">het</w>
+    <w id="227.7">Gretchen</w>
+    <w id="227.8">belooft</w>
+    <w id="227.9">.</w>
+    <time id="T296E" value="00:11:28,074" />
+  </s>
+  <s id="228">
+    <time id="T297S" value="00:11:28,076" />
+    <w id="228.1">En</w>
+    <w id="228.2">daarbij</w>
+    <w id="228.3">komt</w>
+    <w id="228.4">kijken</w>
+    <w id="228.5">dat</w>
+    <w id="228.6">jij</w>
+    <w id="228.7">en</w>
+    <w id="228.8">ik</w>
+    <w id="228.9">een</w>
+    <w id="228.10">relatie</w>
+    <w id="228.11">meer</w>
+    <w id="228.12">hebben</w>
+    <w id="228.13">,</w>
+    <time id="T297E" value="00:11:31,310" />
+    <time id="T299S" value="00:11:31,312" />
+    <w id="228.14">dus</w>
+    <w id="228.15">je</w>
+    <w id="228.16">hebt</w>
+    <w id="228.17">me</w>
+    <w id="228.18">niet</w>
+    <w id="228.19">meer</w>
+    <w id="228.20">bij</w>
+    <w id="228.21">de</w>
+    <w id="228.22">ballen</w>
+    <w id="228.23">!</w>
+    <time id="T299E" value="00:11:34,480" />
+  </s>
+  <s id="229">
+    <time id="T303S" value="00:11:52,170" />
+    <w id="229.1">Kom</w>
+    <w id="229.2">Larry</w>
+    <w id="229.3">,</w>
+    <w id="229.4">we</w>
+    <w id="229.5">laten</w>
+    <w id="229.6">ze</w>
+    <w id="229.7">zien</w>
+    <w id="229.8">hoe</w>
+    <w id="229.9">het</w>
+    <w id="229.10">moet</w>
+    <w id="229.11">.</w>
+    <time id="T303E" value="00:11:55,239" />
+  </s>
+  <s id="230">
+    <time id="T304S" value="00:11:55,241" />
+    <w id="230.1">Dat</w>
+    <w id="230.2">bedoel</w>
+    <w id="230.3">ik</w>
+    <w id="230.4">!</w>
+  </s>
+  <s id="231">
+    <w id="231.1">Menstruatiepijn</w>
+    <w id="231.2">kan</w>
+    <w id="231.3">mijn</w>
+    <w id="231.4">vrouw</w>
+    <w id="231.5">niet</w>
+    <w id="231.6">stoppen</w>
+    <w id="231.7">!</w>
+    <time id="T304E" value="00:11:59,243" />
+  </s>
+  <s id="232">
+    <time id="T306S" value="00:11:59,245" />
+    <w id="232.1">Het</w>
+    <w id="232.2">is</w>
+    <w id="232.3">Larry-oke</w>
+    <w id="232.4">tijd</w>
+    <w id="232.5">!</w>
+    <time id="T306E" value="00:12:01,378" />
+  </s>
+  <s id="233">
+    <time id="T309S" value="00:12:11,523" />
+    <w id="233.1">Heb</w>
+    <w id="233.2">je</w>
+    <w id="233.3">Larry</w>
+    <w id="233.4">al</w>
+    <w id="233.5">gesproken</w>
+    <w id="233.6">?</w>
+    <time id="T309E" value="00:12:14,224" />
+  </s>
+  <s id="234">
+    <time id="T310S" value="00:12:14,226" />
+    <w id="234.1">Weetje</w>
+    <w id="234.2">,</w>
+    <w id="234.3">ik</w>
+    <w id="234.4">was</w>
+    <w id="234.5">bezig</w>
+    <w id="234.6">het</w>
+    <w id="234.7">te</w>
+    <w id="234.8">overleggen</w>
+    <w id="234.9">met</w>
+    <w id="234.10">Lindsey</w>
+    <w id="234.11">en</w>
+    <w id="234.12">...</w>
+    <time id="T310E" value="00:12:17,594" />
+  </s>
+  <s id="235">
+    <time id="T312S" value="00:12:17,596" />
+    <w id="235.1">Wacht</w>
+    <w id="235.2">,</w>
+    <w id="235.3">waarom</w>
+    <w id="235.4">overleg</w>
+    <w id="235.5">je</w>
+    <w id="235.6">het</w>
+    <w id="235.7">met</w>
+    <w id="235.8">Lindsey</w>
+    <w id="235.9">?</w>
+    <time id="T312E" value="00:12:21,098" />
+  </s>
+  <s id="236">
+    <time id="T313S" value="00:12:21,100" />
+    <w id="236.1">Zij</w>
+    <w id="236.2">is</w>
+    <w id="236.3">degene</w>
+    <w id="236.4">die</w>
+    <w id="236.5">gaat</w>
+    <w id="236.6">trouwen</w>
+    <w id="236.7">en</w>
+    <w id="236.8">ik</w>
+    <w id="236.9">wil</w>
+    <w id="236.10">haar</w>
+    <w id="236.11">niet</w>
+    <w id="236.12">verrassen</w>
+    <time id="T313E" value="00:12:23,800" />
+    <time id="T315S" value="00:12:23,802" />
+    <w id="236.13">want</w>
+    <w id="236.14">je</w>
+    <w id="236.15">wil</w>
+    <w id="236.16">niet</w>
+    <w id="236.17">dat</w>
+    <w id="236.18">Lindsey</w>
+    <w id="236.19">boos</w>
+    <w id="236.20">op</w>
+    <w id="236.21">je</w>
+    <w id="236.22">is</w>
+    <w id="236.23">tenzij</w>
+    <w id="236.24">je</w>
+    <w id="236.25">seks</w>
+    <w id="236.26">gaat</w>
+    <w id="236.27">hebben</w>
+    <w id="236.28">,</w>
+    <time id="T315E" value="00:12:26,970" />
+    <time id="T317S" value="00:12:26,972" />
+    <w id="236.29">want</w>
+    <w id="236.30">dan</w>
+    <w id="236.31">word</w>
+    <w id="236.32">ze</w>
+    <w id="236.33">een</w>
+    <w id="236.34">beest</w>
+    <w id="236.35">,</w>
+    <w id="236.36">Ik</w>
+    <w id="236.37">weet</w>
+    <w id="236.38">niet</w>
+    <w id="236.39">waarom</w>
+    <w id="236.40">ik</w>
+    <w id="236.41">dit</w>
+    <w id="236.42">zeg</w>
+    <w id="236.43">.</w>
+    <time id="T317E" value="00:12:30,240" />
+  </s>
+  <s id="237">
+    <time id="T318S" value="00:12:30,242" />
+    <w id="237.1">Ik</w>
+    <w id="237.2">weet</w>
+    <w id="237.3">waarom</w>
+    <w id="237.4">,</w>
+    <w id="237.5">omdat</w>
+    <w id="237.6">je</w>
+    <w id="237.7">nog</w>
+    <w id="237.8">steeds</w>
+    <w id="237.9">iets</w>
+    <w id="237.10">voelt</w>
+    <w id="237.11">voor</w>
+    <w id="237.12">haar</w>
+    <w id="237.13">.</w>
+    <time id="T318E" value="00:12:33,210" />
+  </s>
+  <s id="238">
+    <time id="T321S" value="00:12:33,212" />
+    <w id="238.1">Ik</w>
+    <w id="238.2">denk</w>
+    <w id="238.3">dat</w>
+    <w id="238.4">het</w>
+    <w id="238.5">op</w>
+    <w id="238.6">deze</w>
+    <w id="238.7">manier</w>
+    <w id="238.8">het</w>
+    <w id="238.9">beste</w>
+    <w id="238.10">is</w>
+    <w id="238.11">.</w>
+    <time id="T321E" value="00:12:36,613" />
+  </s>
+  <s id="239">
+    <time id="T323S" value="00:12:36,615" />
+    <w id="239.1">Mijn</w>
+    <w id="239.2">god</w>
+    <w id="239.3">.</w>
+  </s>
+  <s id="240">
+    <w id="240.1">Dat</w>
+    <w id="240.2">is</w>
+    <w id="240.3">waarom</w>
+    <w id="240.4">je</w>
+    <w id="240.5">Jeff</w>
+    <w id="240.6">Sterkman</w>
+    <w id="240.7">hebt</w>
+    <w id="240.8">verzonnen</w>
+    <time id="T323E" value="00:12:41,618" />
+    <time id="T325S" value="00:12:41,620" />
+    <w id="240.9">zodat</w>
+    <w id="240.10">je</w>
+    <w id="240.11">Lindsey</w>
+    <w id="240.12">terug</w>
+    <w id="240.13">kon</w>
+    <w id="240.14">krijgen</w>
+    <w id="240.15">.</w>
+  </s>
+  <s id="241">
+    <w id="241.1">Die</w>
+    <w id="241.2">gevoelens</w>
+    <w id="241.3">gaan</w>
+    <w id="241.4">niet</w>
+    <w id="241.5">zomaar</w>
+    <w id="241.6">weg</w>
+    <w id="241.7">.</w>
+    <time id="T325E" value="00:12:46,890" />
+  </s>
+  <s id="242">
+    <time id="T327S" value="00:12:46,892" />
+    <w id="242.1">Natuurlijk</w>
+    <w id="242.2">wel</w>
+    <w id="242.3">.</w>
+  </s>
+  <s id="243">
+    <w id="243.1">Er</w>
+    <w id="243.2">zijn</w>
+    <w id="243.3">een</w>
+    <w id="243.4">boel</w>
+    <w id="243.5">dingen</w>
+    <w id="243.6">waar</w>
+    <w id="243.7">ik</w>
+    <w id="243.8">niet</w>
+    <w id="243.9">meer</w>
+    <w id="243.10">van</w>
+    <w id="243.11">hou</w>
+    <w id="243.12">.</w>
+    <time id="T327E" value="00:12:50,560" />
+  </s>
+  <s id="244">
+    <time id="T329S" value="00:12:50,562" />
+    <w id="244.1">Achtbanen</w>
+    <w id="244.2">,</w>
+    <w id="244.3">zuivel</w>
+    <w id="244.4">,</w>
+    <w id="244.5">mijn</w>
+    <w id="244.6">moeder</w>
+    <w id="244.7">.</w>
+  </s>
+  <s id="245">
+    <w id="245.1">-</w>
+    <w id="245.2">Dit</w>
+    <w id="245.3">is</w>
+    <w id="245.4">niet</w>
+    <w id="245.5">grappig</w>
+    <w id="245.6">,</w>
+    <w id="245.7">Alan</w>
+    <w id="245.8">.</w>
+    <time id="T329E" value="00:12:54,331" />
+  </s>
+  <s id="246">
+    <time id="T331S" value="00:12:54,333" />
+    <w id="246.1">Wat</w>
+    <w id="246.2">ik</w>
+    <w id="246.3">wil</w>
+    <w id="246.4">zeggen</w>
+    <w id="246.5">...</w>
+  </s>
+  <s id="247">
+    <w id="247.1">-</w>
+    <w id="247.2">Luister</w>
+    <w id="247.3">naar</w>
+    <w id="247.4">mij</w>
+    <time id="T331E" value="00:12:56,733" />
+  </s>
+  <s id="248">
+    <time id="T333S" value="00:12:56,735" />
+    <w id="248.1">Als</w>
+    <w id="248.2">je</w>
+    <w id="248.3">alles</w>
+    <w id="248.4">via</w>
+    <w id="248.5">je</w>
+    <w id="248.6">ex</w>
+    <w id="248.7">vriendin</w>
+    <w id="248.8">wil</w>
+    <w id="248.9">laten</w>
+    <w id="248.10">verlopen</w>
+    <time id="T333E" value="00:13:00,270" />
+    <time id="T334S" value="00:13:00,272" />
+    <w id="248.11">en</w>
+    <w id="248.12">Larry</w>
+    <w id="248.13">niet</w>
+    <w id="248.14">de</w>
+    <w id="248.15">waarheid</w>
+    <w id="248.16">verteld</w>
+    <w id="248.17">,</w>
+    <w id="248.18">dan</w>
+    <w id="248.19">is</w>
+    <w id="248.20">dat</w>
+    <w id="248.21">zo</w>
+    <w id="248.22">.</w>
+    <time id="T334E" value="00:13:02,406" />
+  </s>
+  <s id="249">
+    <time id="T335S" value="00:13:02,408" />
+    <w id="249.1">Maar</w>
+    <w id="249.2">daar</w>
+    <w id="249.3">wil</w>
+    <w id="249.4">ik</w>
+    <w id="249.5">niets</w>
+    <w id="249.6">mee</w>
+    <w id="249.7">te</w>
+    <w id="249.8">maken</w>
+    <w id="249.9">hebben</w>
+    <w id="249.10">.</w>
+  </s>
+  <s id="250">
+    <w id="250.1">En</w>
+    <w id="250.2">met</w>
+    <w id="250.3">jou</w>
+    <w id="250.4">ook</w>
+    <w id="250.5">niet</w>
+    <w id="250.6">.</w>
+    <time id="T335E" value="00:13:04,648" />
+  </s>
+  <s id="251">
+    <time id="T337S" value="00:13:04,910" />
+    <w id="251.1">Gretchen</w>
+    <w id="251.2">,</w>
+    <w id="251.3">wacht</w>
+    <w id="251.4">!</w>
+    <time id="T337E" value="00:13:07,678" />
+  </s>
+  <s id="252">
+    <time id="T340S" value="00:13:12,918" />
+    <w id="252.1">Kom</w>
+    <w id="252.2">op</w>
+    <w id="252.3">,</w>
+    <w id="252.4">Jeff</w>
+    <w id="252.5">,</w>
+    <w id="252.6">je</w>
+    <w id="252.7">kent</w>
+    <w id="252.8">de</w>
+    <w id="252.9">woorden</w>
+    <w id="252.10">.</w>
+    <time id="T340E" value="00:13:15,052" />
+  </s>
+  <s id="253">
+    <time id="T341S" value="00:13:15,054" />
+    <w id="253.1">Zo</w>
+    <w id="253.2">goed</w>
+    <w id="253.3">,</w>
+    <w id="253.4">Zo</w>
+    <w id="253.5">goed</w>
+    <time id="T341E" value="00:13:18,188" />
+  </s>
+  <s id="254">
+    <time id="T342S" value="00:13:18,190" />
+    <w id="254.1">Ik</w>
+    <w id="254.2">zal</w>
+    <w id="254.3">alleen</w>
+    <w id="254.4">sterven</w>
+    <time id="T342E" value="00:13:19,556" />
+  </s>
+  <s id="255">
+    <time id="T345S" value="00:13:24,163" />
+    <w id="255.1">Ben</w>
+    <w id="255.2">je</w>
+    <w id="255.3">niet</w>
+    <w id="255.4">blij</w>
+    <w id="255.5">nu</w>
+    <w id="255.6">?</w>
+    <time id="T345E" value="00:13:26,196" />
+  </s>
+  <s id="256">
+    <time id="T346S" value="00:13:26,198" />
+    <w id="256.1">Ik</w>
+    <w id="256.2">heb</w>
+    <w id="256.3">een</w>
+    <w id="256.4">déjà</w>
+    <w id="256.5">vu</w>
+    <w id="256.6">.</w>
+  </s>
+  <s id="257">
+    <w id="257.1">Ik</w>
+    <w id="257.2">mocht</w>
+    <w id="257.3">bij</w>
+    <w id="257.4">vader</w>
+    <w id="257.5">op</w>
+    <w id="257.6">schoot</w>
+    <w id="257.7">en</w>
+    <w id="257.8">sturen</w>
+    <w id="257.9">.</w>
+    <time id="T346E" value="00:13:32,235" />
+  </s>
+  <s id="258">
+    <time id="T348S" value="00:13:32,237" />
+    <w id="258.1">Mijn</w>
+    <w id="258.2">vader</w>
+    <w id="258.3">zag</w>
+    <w id="258.4">ik</w>
+    <w id="258.5">niet</w>
+    <w id="258.6">vaak</w>
+    <w id="258.7">.</w>
+    <time id="T348E" value="00:13:33,904" />
+  </s>
+  <s id="259">
+    <time id="T349S" value="00:13:33,906" />
+    <w id="259.1">Ik</w>
+    <w id="259.2">moest</w>
+    <w id="259.3">zelf</w>
+    <w id="259.4">leren</w>
+    <w id="259.5">wat</w>
+    <w id="259.6">vaders</w>
+    <w id="259.7">je</w>
+    <w id="259.8">anders</w>
+    <w id="259.9">leren</w>
+    <w id="259.10">:</w>
+    <time id="T349E" value="00:13:36,974" />
+  </s>
+  <s id="260">
+    <time id="T350S" value="00:13:36,976" />
+    <w id="260.1">Hoe</w>
+    <w id="260.2">je</w>
+    <w id="260.3">moet</w>
+    <w id="260.4">fietsen</w>
+    <w id="260.5">,</w>
+    <w id="260.6">scheren</w>
+    <w id="260.7">,</w>
+    <time id="T350E" value="00:13:39,042" />
+    <time id="T351S" value="00:13:39,044" />
+    <w id="260.8">hoe</w>
+    <w id="260.9">je</w>
+    <w id="260.10">een</w>
+    <w id="260.11">band</w>
+    <w id="260.12">moet</w>
+    <w id="260.13">verwisselen</w>
+    <w id="260.14">,</w>
+    <w id="260.15">hoe</w>
+    <w id="260.16">je</w>
+    <w id="260.17">moet</w>
+    <w id="260.18">masturberen</w>
+    <w id="260.19">.</w>
+    <time id="T351E" value="00:13:41,945" />
+  </s>
+  <s id="261">
+    <time id="T352S" value="00:13:41,947" />
+    <w id="261.1">wat</w>
+    <w id="261.2">?</w>
+    <time id="T352E" value="00:13:43,680" />
+  </s>
+  <s id="262">
+    <time id="T353S" value="00:13:43,682" />
+    <w id="262.1">Vaders</w>
+    <w id="262.2">leren</w>
+    <w id="262.3">je</w>
+    <w id="262.4">niet</w>
+    <w id="262.5">hoe</w>
+    <w id="262.6">je</w>
+    <w id="262.7">moet</w>
+    <w id="262.8">masturberen</w>
+    <w id="262.9">.</w>
+    <time id="T353E" value="00:13:46,316" />
+  </s>
+  <s id="263">
+    <time id="T354S" value="00:13:46,318" />
+    <w id="263.1">Blij</w>
+    <w id="263.2">dat</w>
+    <w id="263.3">iemand</w>
+    <w id="263.4">me</w>
+    <w id="263.5">dat</w>
+    <w id="263.6">verteld</w>
+    <w id="263.7">voordat</w>
+    <w id="263.8">ik</w>
+    <w id="263.9">kinderen</w>
+    <w id="263.10">heb</w>
+    <w id="263.11">.</w>
+    <time id="T354E" value="00:13:50,153" />
+  </s>
+  <s id="264">
+    <time id="T355S" value="00:13:50,155" />
+    <w id="264.1">Dit</w>
+    <w id="264.2">ding</w>
+    <w id="264.3">is</w>
+    <w id="264.4">echt</w>
+    <w id="264.5">gaaf</w>
+    <w id="264.6">,</w>
+    <w id="264.7">Waarom</w>
+    <w id="264.8">verkocht</w>
+    <w id="264.9">je</w>
+    <w id="264.10">het</w>
+    <w id="264.11">eigenlijk</w>
+    <w id="264.12">?</w>
+    <time id="T355E" value="00:13:54,157" />
+  </s>
+  <s id="265">
+    <time id="T357S" value="00:13:54,159" />
+    <w id="265.1">Ik</w>
+    <w id="265.2">had</w>
+    <w id="265.3">geld</w>
+    <w id="265.4">nodig</w>
+    <w id="265.5">om</w>
+    <w id="265.6">mijn</w>
+    <w id="265.7">bedrijfje</w>
+    <w id="265.8">te</w>
+    <w id="265.9">starten</w>
+    <w id="265.10">,</w>
+    <time id="T357E" value="00:13:56,193" />
+    <time id="T358S" value="00:13:56,195" />
+    <w id="265.11">en</w>
+    <w id="265.12">het</w>
+    <w id="265.13">was</w>
+    <w id="265.14">het</w>
+    <w id="265.15">enige</w>
+    <w id="265.16">met</w>
+    <w id="265.17">een</w>
+    <w id="265.18">beetje</w>
+    <w id="265.19">waarde</w>
+    <w id="265.20">.</w>
+    <time id="T358E" value="00:13:59,496" />
+  </s>
+  <s id="266">
+    <time id="T359S" value="00:13:59,498" />
+    <w id="266.1">Weetje</w>
+    <w id="266.2">,</w>
+    <w id="266.3">als</w>
+    <w id="266.4">je</w>
+    <w id="266.5">erover</w>
+    <w id="266.6">nadenkt</w>
+    <w id="266.7">,</w>
+    <time id="T359E" value="00:14:02,132" />
+  </s>
+  <s id="267">
+    <time id="T360S" value="00:14:02,134" />
+    <w id="267.1">Deze</w>
+    <w id="267.2">auto</w>
+    <w id="267.3">is</w>
+    <w id="267.4">verantwoordelijk</w>
+    <w id="267.5">voor</w>
+    <w id="267.6">alles</w>
+    <w id="267.7">wat</w>
+    <w id="267.8">ik</w>
+    <w id="267.9">heb</w>
+    <w id="267.10">:</w>
+    <time id="T360E" value="00:14:04,434" />
+  </s>
+  <s id="268">
+    <time id="T361S" value="00:14:04,436" />
+    <w id="268.1">het</w>
+    <w id="268.2">strandhuis</w>
+    <w id="268.3">,</w>
+    <w id="268.4">mijn</w>
+    <w id="268.5">vliegtuig</w>
+    <w id="268.6">en</w>
+    <w id="268.7">fortuin</w>
+    <w id="268.8">.</w>
+    <time id="T361E" value="00:14:08,171" />
+  </s>
+  <s id="269">
+    <time id="T362S" value="00:14:08,173" />
+    <w id="269.1">Alan</w>
+    <w id="269.2">.</w>
+    <time id="T362E" value="00:14:09,339" />
+  </s>
+  <s id="270">
+    <time id="T363S" value="00:14:09,341" />
+    <w id="270.1">Ze</w>
+    <w id="270.2">meent</w>
+    <w id="270.3">het</w>
+    <w id="270.4">niet</w>
+    <w id="270.5">,</w>
+    <w id="270.6">het</w>
+    <w id="270.7">is</w>
+    <w id="270.8">niet</w>
+    <w id="270.9">waar</w>
+    <w id="270.10">.</w>
+    <time id="T363E" value="00:14:12,909" />
+  </s>
+  <s id="271">
+    <time id="T364S" value="00:14:12,911" />
+    <w id="271.1">Eigenlijk</w>
+    <w id="271.2">is</w>
+    <w id="271.3">je</w>
+    <w id="271.4">vader</w>
+    <w id="271.5">ook</w>
+    <w id="271.6">verantwoordelijk</w>
+    <w id="271.7">voor</w>
+    <w id="271.8">je</w>
+    <w id="271.9">succes</w>
+    <w id="271.10">,</w>
+    <w id="271.11">toch</w>
+    <w id="271.12">?</w>
+    <time id="T364E" value="00:14:18,281" />
+  </s>
+  <s id="272">
+    <time id="T366S" value="00:14:18,283" />
+    <w id="272.1">Zo</w>
+    <w id="272.2">heb</w>
+    <w id="272.3">ik</w>
+    <w id="272.4">er</w>
+    <w id="272.5">nooit</w>
+    <w id="272.6">over</w>
+    <w id="272.7">nagedacht</w>
+    <w id="272.8">.</w>
+  </s>
+  <s id="273">
+    <w id="273.1">Ik</w>
+    <w id="273.2">denk</w>
+    <w id="273.3">van</w>
+    <w id="273.4">wel</w>
+    <w id="273.5">.</w>
+    <time id="T366E" value="00:14:24,621" />
+  </s>
+  <s id="274">
+    <time id="T368S" value="00:14:24,623" />
+    <w id="274.1">Bedankt</w>
+    <w id="274.2">,</w>
+    <w id="274.3">pa</w>
+    <w id="274.4">.</w>
+    <time id="T368E" value="00:14:26,256" />
+  </s>
+  <s id="275">
+    <time id="T369S" value="00:14:26,258" />
+    <w id="275.1">Dat</w>
+    <w id="275.2">gaf</w>
+    <w id="275.3">me</w>
+    <w id="275.4">de</w>
+    <w id="275.5">rillingen</w>
+    <w id="275.6">.</w>
+    <time id="T369E" value="00:14:28,925" />
+  </s>
+  <s id="276">
+    <time id="T370S" value="00:14:28,927" />
+    <w id="276.1">Nee</w>
+    <w id="276.2">wacht</w>
+    <w id="276.3">,</w>
+    <w id="276.4">er</w>
+    <w id="276.5">zit</w>
+    <w id="276.6">een</w>
+    <w id="276.7">gat</w>
+    <w id="276.8">in</w>
+    <w id="276.9">de</w>
+    <w id="276.10">vloer</w>
+    <w id="276.11">.</w>
+    <time id="T370E" value="00:14:32,496" />
+  </s>
+  <s id="277">
+    <time id="T372S" value="00:14:35,566" />
+    <w id="277.1">Wil</w>
+    <w id="277.2">iemand</w>
+    <w id="277.3">anders</w>
+    <w id="277.4">even</w>
+    <w id="277.5">rijden</w>
+    <w id="277.6">?</w>
+    <time id="T372E" value="00:14:37,834" />
+  </s>
+  <s id="278">
+    <time id="T373S" value="00:14:37,836" />
+    <w id="278.1">Ik</w>
+    <w id="278.2">kan</w>
+    <w id="278.3">niet</w>
+    <w id="278.4">eens</w>
+    <w id="278.5">rijden</w>
+    <w id="278.6">.</w>
+    <time id="T373E" value="00:14:40,170" />
+  </s>
+  <s id="279">
+    <time id="T374S" value="00:14:40,172" />
+    <w id="279.1">Wat</w>
+    <w id="279.2">?</w>
+    <time id="T374E" value="00:14:42,039" />
+  </s>
+  <s id="280">
+    <time id="T375S" value="00:14:42,041" />
+    <w id="280.1">Ik</w>
+    <w id="280.2">groeide</w>
+    <w id="280.3">op</w>
+    <w id="280.4">Manhattan</w>
+    <w id="280.5">.</w>
+  </s>
+  <s id="281">
+    <w id="281.1">Ik</w>
+    <w id="281.2">zat</w>
+    <w id="281.3">in</w>
+    <w id="281.4">taxi</w>
+    <w id="281.5">'</w>
+    <w id="281.6">s</w>
+    <w id="281.7">and</w>
+    <w id="281.8">politie</w>
+    <w id="281.9">auto</w>
+    <w id="281.10">'</w>
+    <w id="281.11">s</w>
+    <w id="281.12">.</w>
+    <time id="T375E" value="00:14:45,542" />
+  </s>
+  <s id="282">
+    <time id="T377S" value="00:14:45,544" />
+    <w id="282.1">Dit</w>
+    <w id="282.2">is</w>
+    <w id="282.3">de</w>
+    <w id="282.4">eerste</w>
+    <w id="282.5">keer</w>
+    <w id="282.6">dat</w>
+    <w id="282.7">ik</w>
+    <w id="282.8">voorin</w>
+    <w id="282.9">zit</w>
+    <w id="282.10">!</w>
+    <time id="T377E" value="00:14:48,879" />
+  </s>
+  <s id="283">
+    <time id="T378S" value="00:14:49,914" />
+    <w id="283.1">Wel</w>
+    <w id="283.2">,</w>
+    <w id="283.3">dan</w>
+    <w id="283.4">is</w>
+    <w id="283.5">dit</w>
+    <w id="283.6">het</w>
+    <w id="283.7">juiste</w>
+    <w id="283.8">moment</w>
+    <w id="283.9">.</w>
+    <time id="T378E" value="00:14:52,883" />
+  </s>
+  <s id="284">
+    <time id="T379S" value="00:14:58,589" />
+    <w id="284.1">Ik</w>
+    <w id="284.2">parkeer</w>
+    <w id="284.3">even</w>
+    <w id="284.4">hier</w>
+    <w id="284.5">.</w>
+    <time id="T379E" value="00:15:00,557" />
+  </s>
+  <s id="285">
+    <time id="T380S" value="00:15:00,559" />
+    <w id="285.1">Ze</w>
+    <w id="285.2">verkopen</w>
+    <w id="285.3">vast</w>
+    <w id="285.4">onderbroeken</w>
+    <w id="285.5">in</w>
+    <w id="285.6">de</w>
+    <w id="285.7">Cracker</w>
+    <w id="285.8">Barrel</w>
+    <w id="285.9">.</w>
+    <time id="T380E" value="00:15:03,460" />
+  </s>
+  <s id="286">
+    <time id="T382S" value="00:15:08,634" />
+    <w id="286.1">Berta</w>
+    <w id="286.2">?</w>
+    <time id="T382E" value="00:15:10,133" />
+  </s>
+  <s id="287">
+    <time id="T383S" value="00:15:10,135" />
+    <w id="287.1">Hoi</w>
+    <w id="287.2">,</w>
+    <w id="287.3">Zippy</w>
+    <w id="287.4">.</w>
+    <time id="T383E" value="00:15:12,069" />
+  </s>
+  <s id="288">
+    <time id="T384S" value="00:15:12,071" />
+    <w id="288.1">Het</w>
+    <w id="288.2">is</w>
+    <w id="288.3">10</w>
+    <w id="288.4">:</w>
+    <w id="288.5">00</w>
+    <w id="288.6">uur</w>
+    <w id="288.7">wat</w>
+    <w id="288.8">doe</w>
+    <w id="288.9">je</w>
+    <w id="288.10">hier</w>
+    <w id="288.11">nog</w>
+    <w id="288.12">?</w>
+    <time id="T384E" value="00:15:14,871" />
+  </s>
+  <s id="289">
+    <time id="T386S" value="00:15:14,873" />
+    <w id="289.1">Het</w>
+    <w id="289.2">is</w>
+    <w id="289.3">11</w>
+    <w id="289.4">jaar</w>
+    <w id="289.5">later</w>
+    <w id="289.6">wat</w>
+    <w id="289.7">doe</w>
+    <w id="289.8">jij</w>
+    <w id="289.9">hier</w>
+    <w id="289.10">nog</w>
+    <w id="289.11">?</w>
+    <time id="T386E" value="00:15:18,809" />
+  </s>
+  <s id="290">
+    <time id="T388S" value="00:15:20,278" />
+    <w id="290.1">Waar</w>
+    <w id="290.2">is</w>
+    <w id="290.3">je</w>
+    <w id="290.4">vriendin</w>
+    <w id="290.5">?</w>
+    <time id="T388E" value="00:15:21,578" />
+  </s>
+  <s id="291">
+    <time id="T389S" value="00:15:21,580" />
+    <w id="291.1">Weg</w>
+    <w id="291.2">,</w>
+    <w id="291.3">ik</w>
+    <w id="291.4">ben</w>
+    <w id="291.5">haar</w>
+    <w id="291.6">kwijt</w>
+    <w id="291.7">.</w>
+    <time id="T389E" value="00:15:24,314" />
+  </s>
+  <s id="292">
+    <time id="T390S" value="00:15:24,316" />
+    <w id="292.1">je</w>
+    <w id="292.2">bedoelt</w>
+    <w id="292.3">"</w>
+    <w id="292.4">kwijt</w>
+    <w id="292.5">"</w>
+    <w id="292.6">als</w>
+    <w id="292.7">in</w>
+    <w id="292.8">uit</w>
+    <w id="292.9">elkaar</w>
+    <w id="292.10">?</w>
+    <time id="T390E" value="00:15:26,516" />
+  </s>
+  <s id="293">
+    <time id="T391S" value="00:15:26,518" />
+    <w id="293.1">of</w>
+    <w id="293.2">"</w>
+    <w id="293.3">kwijt</w>
+    <w id="293.4">"</w>
+    <w id="293.5">toen</w>
+    <w id="293.6">Charlie</w>
+    <w id="293.7">Jake</w>
+    <w id="293.8">meenam</w>
+    <w id="293.9">naar</w>
+    <w id="293.10">Disneyland</w>
+    <w id="293.11">?</w>
+    <time id="T391E" value="00:15:29,986" />
+  </s>
+  <s id="294">
+    <time id="T392S" value="00:15:29,988" />
+    <w id="294.1">Uit</w>
+    <w id="294.2">elkaar</w>
+    <w id="294.3">.</w>
+  </s>
+  <s id="295">
+    <w id="295.1">Wacht-</w>
+  </s>
+  <s id="296">
+    <w id="296.1">-</w>
+    <w id="296.2">Charlie</w>
+    <w id="296.3">was</w>
+    <w id="296.4">Jake</w>
+    <w id="296.5">kwijt</w>
+    <w id="296.6">?</w>
+    <time id="T392E" value="00:15:33,056" />
+  </s>
+  <s id="297">
+    <time id="T393S" value="00:15:33,058" />
+    <w id="297.1">Eigenlijk</w>
+    <w id="297.2">,</w>
+    <w id="297.3">Jake</w>
+    <w id="297.4">was</w>
+    <w id="297.5">Charlie</w>
+    <w id="297.6">kwijt</w>
+    <w id="297.7">.</w>
+    <time id="T393E" value="00:15:34,991" />
+  </s>
+  <s id="298">
+    <time id="T394S" value="00:15:35,893" />
+    <w id="298.1">Beveiliging</w>
+    <w id="298.2">vond</w>
+    <w id="298.3">hem</w>
+    <w id="298.4">hij</w>
+    <w id="298.5">gebruikte</w>
+    <w id="298.6">"</w>
+    <w id="298.7">witte</w>
+    <w id="298.8">sneeuw</w>
+    <w id="298.9">"</w>
+    <w id="298.10">,</w>
+    <w id="298.11">met</w>
+    <w id="298.12">sneeuw</w>
+    <w id="298.13">witje</w>
+    <w id="298.14">.</w>
+    <time id="T394E" value="00:15:39,396" />
+  </s>
+  <s id="299">
+    <time id="T396S" value="00:15:40,798" />
+    <w id="299.1">Dus</w>
+    <w id="299.2">wat</w>
+    <w id="299.3">heb</w>
+    <w id="299.4">je</w>
+    <w id="299.5">gedaan</w>
+    <w id="299.6">om</w>
+    <w id="299.7">haar</w>
+    <w id="299.8">weg</w>
+    <w id="299.9">te</w>
+    <w id="299.10">krijgen</w>
+    <w id="299.11">?</w>
+    <time id="T396E" value="00:15:45,268" />
+  </s>
+  <s id="300">
+    <time id="T398S" value="00:15:45,270" />
+    <w id="300.1">Ze</w>
+    <w id="300.2">denkt</w>
+    <w id="300.3">dat</w>
+    <w id="300.4">ik</w>
+    <w id="300.5">verliefd</w>
+    <w id="300.6">ben</w>
+    <w id="300.7">op</w>
+    <w id="300.8">Lindsey</w>
+    <w id="300.9">,</w>
+    <w id="300.10">dat</w>
+    <w id="300.11">is</w>
+    <w id="300.12">niet</w>
+    <w id="300.13">zo</w>
+    <w id="300.14">,</w>
+    <w id="300.15">maar</w>
+    <w id="300.16">ze</w>
+    <w id="300.17">gelooft</w>
+    <w id="300.18">me</w>
+    <w id="300.19">niet</w>
+    <w id="300.20">.</w>
+    <time id="T398E" value="00:15:49,840" />
+  </s>
+  <s id="301">
+    <time id="T400S" value="00:15:49,842" />
+    <w id="301.1">Zorg</w>
+    <w id="301.2">dan</w>
+    <w id="301.3">dat</w>
+    <w id="301.4">ze</w>
+    <w id="301.5">het</w>
+    <w id="301.6">gelooft</w>
+    <w id="301.7">,</w>
+    <w id="301.8">jij</w>
+    <w id="301.9">kunt</w>
+    <w id="301.10">iedereen</w>
+    <w id="301.11">alles</w>
+    <w id="301.12">laten</w>
+    <w id="301.13">geloven</w>
+    <w id="301.14">.</w>
+    <time id="T400E" value="00:15:53,477" />
+  </s>
+  <s id="302">
+    <time id="T402S" value="00:15:53,479" />
+    <w id="302.1">Jij</w>
+    <w id="302.2">liet</w>
+    <w id="302.3">de</w>
+    <w id="302.4">belasting</w>
+    <w id="302.5">geloven</w>
+    <w id="302.6">dat</w>
+    <w id="302.7">je</w>
+    <w id="302.8">zeven</w>
+    <w id="302.9">kinderen</w>
+    <w id="302.10">had</w>
+    <w id="302.11">.</w>
+    <time id="T402E" value="00:15:56,313" />
+  </s>
+  <s id="303">
+    <time id="T403S" value="00:15:56,315" />
+    <w id="303.1">Dat</w>
+    <w id="303.2">is</w>
+    <w id="303.3">waar</w>
+    <w id="303.4">.</w>
+    <time id="T403E" value="00:15:58,248" />
+  </s>
+  <s id="304">
+    <time id="T404S" value="00:15:58,250" />
+    <w id="304.1">Ik</w>
+    <w id="304.2">deed</w>
+    <w id="304.3">de</w>
+    <w id="304.4">chiropractor</w>
+    <w id="304.5">opleiding</w>
+    <w id="304.6">met</w>
+    <w id="304.7">een</w>
+    <w id="304.8">beurs</w>
+    <w id="304.9">voor</w>
+    <w id="304.10">gekleurde</w>
+    <w id="304.11">mensen</w>
+    <w id="304.12">.</w>
+    <time id="T404E" value="00:16:01,485" />
+  </s>
+  <s id="305">
+    <time id="T405S" value="00:16:03,855" />
+    <w id="305.1">Precies</w>
+    <w id="305.2">.</w>
+    <time id="T405E" value="00:16:05,188" />
+  </s>
+  <s id="306">
+    <time id="T406S" value="00:16:05,190" />
+    <w id="306.1">En</w>
+    <w id="306.2">je</w>
+    <w id="306.3">liet</w>
+    <w id="306.4">ze</w>
+    <w id="306.5">in</w>
+    <w id="306.6">de</w>
+    <w id="306.7">bioscoop</w>
+    <w id="306.8">geloven</w>
+    <w id="306.9">dat</w>
+    <w id="306.10">je</w>
+    <w id="306.11">onder</w>
+    <w id="306.12">de</w>
+    <w id="306.13">14</w>
+    <w id="306.14">was</w>
+    <w id="306.15">.</w>
+    <time id="T406E" value="00:16:09,426" />
+  </s>
+  <s id="307">
+    <time id="T408S" value="00:16:10,695" />
+    <w id="307.1">En</w>
+    <w id="307.2">over</w>
+    <w id="307.3">65</w>
+    <w id="307.4">.</w>
+  </s>
+  <s id="308">
+    <w id="308.1">-</w>
+    <w id="308.2">één</w>
+    <w id="308.3">keer</w>
+    <w id="308.4">op</w>
+    <w id="308.5">dezelfde</w>
+    <w id="308.6">dag</w>
+    <w id="308.7">.</w>
+    <time id="T408E" value="00:16:14,464" />
+  </s>
+  <s id="309">
+    <time id="T410S" value="00:16:15,634" />
+    <w id="309.1">Het</w>
+    <w id="309.2">geheim</w>
+    <w id="309.3">is</w>
+    <w id="309.4">dat</w>
+    <w id="309.5">beide</w>
+    <w id="309.6">groepen</w>
+    <w id="309.7">honkbal</w>
+    <w id="309.8">petjes</w>
+    <w id="309.9">dragen</w>
+    <w id="309.10">.</w>
+    <time id="T410E" value="00:16:20,937" />
+  </s>
+  <s id="310">
+    <time id="T412S" value="00:16:20,939" />
+    <w id="310.1">Ik</w>
+    <w id="310.2">wilde</w>
+    <w id="310.3">dit</w>
+    <w id="310.4">bewaren</w>
+    <w id="310.5">voor</w>
+    <w id="310.6">je</w>
+    <w id="310.7">begrafenis</w>
+    <w id="310.8">,</w>
+    <time id="T412E" value="00:16:23,540" />
+    <time id="T413S" value="00:16:23,542" />
+    <w id="310.9">maar</w>
+    <w id="310.10">Zippy</w>
+    <w id="310.11">,</w>
+    <w id="310.12">je</w>
+    <w id="310.13">bent</w>
+    <w id="310.14">een</w>
+    <w id="310.15">charmeur</w>
+    <w id="310.16">.</w>
+    <time id="T413E" value="00:16:25,742" />
+  </s>
+  <s id="311">
+    <time id="T414S" value="00:16:25,744" />
+    <w id="311.1">Bedankt</w>
+    <w id="311.2">,</w>
+    <w id="311.3">Berta</w>
+    <w id="311.4">.</w>
+    <time id="T414E" value="00:16:27,410" />
+  </s>
+  <s id="312">
+    <time id="T415S" value="00:16:27,412" />
+    <w id="312.1">Nee</w>
+    <w id="312.2">,</w>
+    <w id="312.3">jij</w>
+    <w id="312.4">bedankt</w>
+    <w id="312.5">nu</w>
+    <w id="312.6">hoef</w>
+    <w id="312.7">ik</w>
+    <w id="312.8">niet</w>
+    <w id="312.9">meer</w>
+    <w id="312.10">naar</w>
+    <w id="312.11">je</w>
+    <w id="312.12">begrafenis</w>
+    <w id="312.13">.</w>
+    <time id="T415E" value="00:16:31,848" />
+  </s>
+  <s id="313">
+    <time id="T418S" value="00:16:36,054" />
+    <w id="313.1">Wow</w>
+    <w id="313.2">,</w>
+    <w id="313.3">de</w>
+    <w id="313.4">lucht</w>
+    <w id="313.5">in</w>
+    <w id="313.6">Utah</w>
+    <w id="313.7">is</w>
+    <w id="313.8">prachtig</w>
+    <w id="313.9">.</w>
+    <time id="T418E" value="00:16:41,691" />
+  </s>
+  <s id="314">
+    <time id="T420S" value="00:16:41,693" />
+    <w id="314.1">We</w>
+    <w id="314.2">zitten</w>
+    <w id="314.3">binnen</w>
+    <w id="314.4">.</w>
+    <time id="T420E" value="00:16:43,727" />
+  </s>
+  <s id="315">
+    <time id="T421S" value="00:16:43,729" />
+    <w id="315.1">Wow</w>
+    <w id="315.2">,</w>
+    <w id="315.3">Deze</w>
+    <w id="315.4">Colorado</w>
+    <w id="315.5">wiet</w>
+    <w id="315.6">is</w>
+    <w id="315.7">echt</w>
+    <w id="315.8">goed</w>
+    <w id="315.9">.</w>
+    <time id="T421E" value="00:16:48,798" />
+  </s>
+  <s id="316">
+    <time id="T422S" value="00:16:50,468" />
+    <w id="316.1">Raad</w>
+    <w id="316.2">eens</w>
+    <w id="316.3">wie</w>
+    <w id="316.4">er</w>
+    <w id="316.5">net</w>
+    <w id="316.6">lid</w>
+    <w id="316.7">is</w>
+    <w id="316.8">geworden</w>
+    <w id="316.9">van</w>
+    <w id="316.10">de</w>
+    <w id="316.11">6,106-foot</w>
+    <w id="316.12">club</w>
+    <w id="316.13">.</w>
+    <time id="T422E" value="00:16:54,738" />
+  </s>
+  <s id="317">
+    <time id="T423S" value="00:16:54,740" />
+    <w id="317.1">Als</w>
+    <w id="317.2">je</w>
+    <w id="317.3">het</w>
+    <w id="317.4">alleen</w>
+    <w id="317.5">doet</w>
+    <w id="317.6">telt</w>
+    <w id="317.7">het</w>
+    <w id="317.8">niet</w>
+    <w id="317.9">!</w>
+    <time id="T423E" value="00:16:58,942" />
+  </s>
+  <s id="318">
+    <time id="T424S" value="00:16:58,944" />
+    <w id="318.1">zal</w>
+    <w id="318.2">wel</w>
+    <w id="318.3">.</w>
+  </s>
+  <s id="319">
+    <w id="319.1">Ik</w>
+    <w id="319.2">vind</w>
+    <w id="319.3">deze</w>
+    <w id="319.4">plek</w>
+    <w id="319.5">niets</w>
+    <w id="319.6">er</w>
+    <w id="319.7">is</w>
+    <w id="319.8">geen</w>
+    <w id="319.9">wi-fi</w>
+    <w id="319.10">en</w>
+    <w id="319.11">mobiele</w>
+    <w id="319.12">service</w>
+    <w id="319.13">.</w>
+    <time id="T424E" value="00:17:03,813" />
+  </s>
+  <s id="320">
+    <time id="T427S" value="00:17:03,815" />
+    <w id="320.1">Het</w>
+    <w id="320.2">is</w>
+    <w id="320.3">net</w>
+    <w id="320.4">zo</w>
+    <w id="320.5">'</w>
+    <w id="320.6">n</w>
+    <w id="320.7">film</w>
+    <w id="320.8">waarin</w>
+    <w id="320.9">je</w>
+    <w id="320.10">er</w>
+    <w id="320.11">achter</w>
+    <w id="320.12">komt</w>
+    <w id="320.13">dat</w>
+    <w id="320.14">er</w>
+    <w id="320.15">zombies</w>
+    <w id="320.16">in</w>
+    <w id="320.17">het</w>
+    <w id="320.18">stadje</w>
+    <w id="320.19">zijn</w>
+    <w id="320.20">.</w>
+    <time id="T427E" value="00:17:07,250" />
+  </s>
+  <s id="321">
+    <time id="T429S" value="00:17:07,252" />
+    <w id="321.1">Of</w>
+    <w id="321.2">weerwolven</w>
+    <w id="321.3">.</w>
+  </s>
+  <s id="322">
+    <w id="322.1">-</w>
+    <w id="322.2">Of</w>
+    <w id="322.3">zombie</w>
+    <w id="322.4">weerwolven</w>
+    <w id="322.5">.</w>
+    <time id="T429E" value="00:17:10,754" />
+  </s>
+  <s id="323">
+    <time id="T431S" value="00:17:10,756" />
+    <w id="323.1">Hoe</w>
+    <w id="323.2">kan</w>
+    <w id="323.3">dat</w>
+    <w id="323.4">?</w>
+  </s>
+  <s id="324">
+    <w id="324.1">-</w>
+    <w id="324.2">Reken</w>
+    <w id="324.3">maar</w>
+    <w id="324.4">uit</w>
+    <w id="324.5">.</w>
+    <time id="T431E" value="00:17:13,924" />
+  </s>
+  <s id="325">
+    <time id="T433S" value="00:17:13,926" />
+    <w id="325.1">Zombie</w>
+    <w id="325.2">bijt</w>
+    <w id="325.3">weerwolf</w>
+    <w id="325.4">,</w>
+    <time id="T433E" value="00:17:15,091" />
+    <time id="T434S" value="00:17:15,093" />
+    <w id="325.5">weerwolf</w>
+    <w id="325.6">gaat</w>
+    <w id="325.7">dood</w>
+    <w id="325.8">,</w>
+    <w id="325.9">en</w>
+    <w id="325.10">komt</w>
+    <w id="325.11">terug</w>
+    <w id="325.12">als</w>
+    <w id="325.13">een</w>
+    <w id="325.14">zombie</w>
+    <w id="325.15">weerwolf</w>
+    <w id="325.16">.</w>
+    <time id="T434E" value="00:17:16,960" />
+  </s>
+  <s id="326">
+    <time id="T435S" value="00:17:16,962" />
+    <w id="326.1">Dat</w>
+    <w id="326.2">is</w>
+    <w id="326.3">één</w>
+    <w id="326.4">stoere</w>
+    <w id="326.5">,</w>
+    <w id="326.6">onverslaanbare</w>
+    <w id="326.7">monster</w>
+    <w id="326.8">.</w>
+    <time id="T435E" value="00:17:19,062" />
+  </s>
+  <s id="327">
+    <time id="T436S" value="00:17:19,064" />
+    <w id="327.1">Hij</w>
+    <w id="327.2">heeft</w>
+    <w id="327.3">geluk</w>
+    <w id="327.4">,</w>
+    <w id="327.5">doe</w>
+    <w id="327.6">de</w>
+    <w id="327.7">deur</w>
+    <w id="327.8">op</w>
+    <w id="327.9">slot</w>
+    <w id="327.10">.</w>
+    <time id="T436E" value="00:17:20,397" />
+  </s>
+  <s id="328">
+    <time id="T437S" value="00:17:20,399" />
+    <w id="328.1">Wacht</w>
+    <w id="328.2">eens</w>
+    <w id="328.3">,</w>
+    <w id="328.4">je</w>
+    <w id="328.5">denkt</w>
+    <w id="328.6">dat</w>
+    <w id="328.7">de</w>
+    <w id="328.8">deur</w>
+    <w id="328.9">op</w>
+    <w id="328.10">slot</w>
+    <w id="328.11">doen</w>
+    <time id="T437E" value="00:17:22,766" />
+    <time id="T438S" value="00:17:22,768" />
+    <w id="328.12">een</w>
+    <w id="328.13">zombie</w>
+    <w id="328.14">weerwolf</w>
+    <w id="328.15">kan</w>
+    <w id="328.16">stoppen</w>
+    <w id="328.17">?</w>
+    <time id="T438E" value="00:17:25,168" />
+  </s>
+  <s id="329">
+    <time id="T439S" value="00:17:25,170" />
+    <w id="329.1">Ik</w>
+    <w id="329.2">zal</w>
+    <w id="329.3">niet</w>
+    <w id="329.4">degene</w>
+    <w id="329.5">zijn</w>
+    <time id="T439E" value="00:17:27,771" />
+    <time id="T440S" value="00:17:27,773" />
+    <w id="329.6">die</w>
+    <w id="329.7">wordt</w>
+    <w id="329.8">gedood</w>
+    <w id="329.9">door</w>
+    <w id="329.10">een</w>
+    <w id="329.11">zombie</w>
+    <w id="329.12">weerwolf</w>
+    <w id="329.13">omdat</w>
+    <w id="329.14">ik</w>
+    <w id="329.15">de</w>
+    <w id="329.16">deur</w>
+    <w id="329.17">niet</w>
+    <w id="329.18">op</w>
+    <w id="329.19">slot</w>
+    <w id="329.20">deed</w>
+    <w id="329.21">.</w>
+    <time id="T440E" value="00:17:31,741" />
+  </s>
+  <s id="330">
+    <time id="T443S" value="00:17:35,747" />
+    <w id="330.1">bedankt</w>
+    <w id="330.2">dat</w>
+    <w id="330.3">jullie</w>
+    <w id="330.4">zijn</w>
+    <w id="330.5">meegekomen</w>
+    <w id="330.6">.</w>
+  </s>
+  <s id="331">
+    <w id="331.1">Ik</w>
+    <w id="331.2">zeg</w>
+    <w id="331.3">dat</w>
+    <w id="331.4">niet</w>
+    <w id="331.5">alleen</w>
+    <time id="T443E" value="00:17:38,648" />
+    <time id="T445S" value="00:17:38,650" />
+    <w id="331.6">omdat</w>
+    <w id="331.7">ik</w>
+    <w id="331.8">jullie</w>
+    <w id="331.9">als</w>
+    <w id="331.10">menselijk</w>
+    <w id="331.11">schild</w>
+    <w id="331.12">ga</w>
+    <w id="331.13">gebruiken</w>
+    <time id="T445E" value="00:17:40,417" />
+    <time id="T446S" value="00:17:40,419" />
+    <w id="331.14">als</w>
+    <w id="331.15">een</w>
+    <w id="331.16">zombie</w>
+    <w id="331.17">weerwolf</w>
+    <w id="331.18">door</w>
+    <w id="331.19">de</w>
+    <w id="331.20">deur</w>
+    <w id="331.21">komt</w>
+    <w id="331.22">.</w>
+    <time id="T446E" value="00:17:42,385" />
+  </s>
+  <s id="332">
+    <time id="T447S" value="00:17:42,387" />
+    <w id="332.1">Ik</w>
+    <w id="332.2">ben</w>
+    <w id="332.3">ook</w>
+    <w id="332.4">blij</w>
+    <w id="332.5">dat</w>
+    <w id="332.6">ik</w>
+    <w id="332.7">ben</w>
+    <w id="332.8">meegegaan</w>
+    <w id="332.9">.</w>
+    <time id="T447E" value="00:17:45,055" />
+  </s>
+  <s id="333">
+    <time id="T448S" value="00:17:45,057" />
+    <w id="333.1">En</w>
+    <w id="333.2">dat</w>
+    <w id="333.3">jullie</w>
+    <w id="333.4">bijna</w>
+    <w id="333.5">dood</w>
+    <w id="333.6">gingen</w>
+    <w id="333.7">in</w>
+    <w id="333.8">de</w>
+    <w id="333.9">auto</w>
+    <w id="333.10">,</w>
+    <w id="333.11">dat</w>
+    <w id="333.12">was</w>
+    <w id="333.13">mijn</w>
+    <w id="333.14">fout</w>
+    <w id="333.15">.</w>
+    <time id="T448E" value="00:17:50,093" />
+  </s>
+  <s id="334">
+    <time id="T450S" value="00:17:50,095" />
+    <w id="334.1">Ik</w>
+    <w id="334.2">ben</w>
+    <w id="334.3">blij</w>
+    <w id="334.4">dat</w>
+    <w id="334.5">cracker</w>
+    <w id="334.6">barrel</w>
+    <w id="334.7">onderbroeken</w>
+    <w id="334.8">had</w>
+    <w id="334.9">.</w>
+    <time id="T450E" value="00:17:53,930" />
+  </s>
+  <s id="335">
+    <time id="T452S" value="00:17:54,899" />
+    <w id="335.1">En</w>
+    <w id="335.2">deze</w>
+    <w id="335.3">"</w>
+    <w id="335.4">Ik</w>
+    <w id="335.5">hou</w>
+    <w id="335.6">van</w>
+    <w id="335.7">Denver</w>
+    <w id="335.8">"</w>
+    <w id="335.9">sweatpants</w>
+    <w id="335.10">.</w>
+    <time id="T452E" value="00:17:57,834" />
+  </s>
+  <s id="336">
+    <time id="T453S" value="00:17:58,869" />
+    <w id="336.1">Dit</w>
+    <w id="336.2">is</w>
+    <w id="336.3">nog</w>
+    <w id="336.4">altijd</w>
+    <w id="336.5">beter</w>
+    <w id="336.6">dan</w>
+    <w id="336.7">dat</w>
+    <w id="336.8">familie-uitje</w>
+    <w id="336.9">die</w>
+    <w id="336.10">ik</w>
+    <w id="336.11">als</w>
+    <w id="336.12">kind</w>
+    <w id="336.13">had</w>
+    <w id="336.14">naar</w>
+    <w id="336.15">Utah</w>
+    <time id="T453E" value="00:18:02,639" />
+  </s>
+  <s id="337">
+    <time id="T455S" value="00:18:02,641" />
+    <w id="337.1">Mijn</w>
+    <w id="337.2">vader</w>
+    <w id="337.3">probeerde</w>
+    <w id="337.4">om</w>
+    <w id="337.5">mijn</w>
+    <w id="337.6">moeder</w>
+    <w id="337.7">te</w>
+    <w id="337.8">overtuigen</w>
+    <w id="337.9">om</w>
+    <w id="337.10">een</w>
+    <w id="337.11">vrouw</w>
+    <w id="337.12">toe</w>
+    <w id="337.13">te</w>
+    <w id="337.14">voegen</w>
+    <w id="337.15">aan</w>
+    <w id="337.16">de</w>
+    <w id="337.17">familie</w>
+    <w id="337.18">.</w>
+    <time id="T455E" value="00:18:05,942" />
+  </s>
+  <s id="338">
+    <time id="T457S" value="00:18:05,944" />
+    <w id="338.1">Begon</w>
+    <w id="338.2">de</w>
+    <w id="338.3">trip</w>
+    <w id="338.4">met</w>
+    <w id="338.5">één</w>
+    <w id="338.6">vrouw</w>
+    <w id="338.7">,</w>
+    <time id="T457E" value="00:18:07,377" />
+    <time id="T458S" value="00:18:07,379" />
+    <w id="338.8">probeerde</w>
+    <w id="338.9">er</w>
+    <w id="338.10">twee</w>
+    <w id="338.11">te</w>
+    <w id="338.12">krijgen</w>
+    <w id="338.13">,</w>
+    <w id="338.14">kwam</w>
+    <w id="338.15">thuis</w>
+    <w id="338.16">met</w>
+    <w id="338.17">nul</w>
+    <w id="338.18">.</w>
+    <time id="T458E" value="00:18:09,346" />
+  </s>
+  <s id="339">
+    <time id="T459S" value="00:18:10,615" />
+    <w id="339.1">Hotel</w>
+    <w id="339.2">had</w>
+    <w id="339.3">een</w>
+    <w id="339.4">prachtig</w>
+    <w id="339.5">zwembad</w>
+    <w id="339.6">.</w>
+    <time id="T459E" value="00:18:13,950" />
+  </s>
+  <s id="340">
+    <time id="T460S" value="00:18:13,952" />
+    <w id="340.1">Jij</w>
+    <w id="340.2">kent</w>
+    <w id="340.3">je</w>
+    <w id="340.4">vader</w>
+    <w id="340.5">tenminste</w>
+    <w id="340.6">.</w>
+  </s>
+  <s id="341">
+    <w id="341.1">Ik</w>
+    <w id="341.2">kon</w>
+    <w id="341.3">Charlie</w>
+    <w id="341.4">nauwelijks</w>
+    <w id="341.5">.</w>
+    <time id="T460E" value="00:18:17,921" />
+  </s>
+  <s id="342">
+    <time id="T462S" value="00:18:17,923" />
+    <w id="342.1">In</w>
+    <w id="342.2">mijn</w>
+    <w id="342.3">kindertijd</w>
+    <w id="342.4">kreeg</w>
+    <w id="342.5">ik</w>
+    <w id="342.6">maar</w>
+    <w id="342.7">één</w>
+    <w id="342.8">brief</w>
+    <w id="342.9">van</w>
+    <w id="342.10">hem</w>
+    <time id="T462E" value="00:18:21,091" />
+    <time id="T463S" value="00:18:21,093" />
+    <w id="342.11">er</w>
+    <w id="342.12">stond</w>
+    <w id="342.13">,</w>
+    <w id="342.14">"</w>
+    <w id="342.15">zijn</w>
+    <w id="342.16">je</w>
+    <w id="342.17">vrienden</w>
+    <w id="342.18">al</w>
+    <w id="342.19">18</w>
+    <w id="342.20">"</w>
+    <w id="342.21">.</w>
+    <time id="T463E" value="00:18:24,327" />
+  </s>
+  <s id="343">
+    <time id="T464S" value="00:18:24,329" />
+    <w id="343.1">Luisterend</w>
+    <w id="343.2">naar</w>
+    <w id="343.3">de</w>
+    <w id="343.4">verhalen</w>
+    <w id="343.5">over</w>
+    <w id="343.6">jullie</w>
+    <w id="343.7">vaders</w>
+    <w id="343.8">,</w>
+    <time id="T464E" value="00:18:27,530" />
+    <time id="T465S" value="00:18:27,532" />
+    <w id="343.9">en</w>
+    <w id="343.10">nadenkend</w>
+    <w id="343.11">over</w>
+    <w id="343.12">de</w>
+    <w id="343.13">mijne</w>
+    <w id="343.14">,</w>
+    <w id="343.15">vraag</w>
+    <w id="343.16">ik</w>
+    <w id="343.17">mij</w>
+    <w id="343.18">af</w>
+    <w id="343.19">of</w>
+    <w id="343.20">ik</w>
+    <w id="343.21">wel</w>
+    <w id="343.22">kinderen</w>
+    <w id="343.23">wil</w>
+    <w id="343.24">.</w>
+    <time id="T465E" value="00:18:30,834" />
+  </s>
+  <s id="344">
+    <time id="T467S" value="00:18:30,836" />
+    <w id="344.1">Je</w>
+    <w id="344.2">hebt</w>
+    <w id="344.3">al</w>
+    <w id="344.4">kinderen</w>
+    <w id="344.5">.</w>
+    <time id="T467E" value="00:18:32,836" />
+  </s>
+  <s id="345">
+    <time id="T468S" value="00:18:34,072" />
+    <w id="345.1">Pappa</w>
+    <w id="345.2">.</w>
+    <time id="T468E" value="00:18:35,939" />
+  </s>
+  <s id="346">
+    <time id="T469S" value="00:18:37,008" />
+    <w id="346.1">Ik</w>
+    <w id="346.2">ben</w>
+    <w id="346.3">niet</w>
+    <w id="346.4">je</w>
+    <w id="346.5">vader</w>
+    <w id="346.6">.</w>
+    <time id="T469E" value="00:18:38,375" />
+  </s>
+  <s id="347">
+    <time id="T470S" value="00:18:38,377" />
+    <w id="347.1">Je</w>
+    <w id="347.2">bent</w>
+    <w id="347.3">een</w>
+    <w id="347.4">betere</w>
+    <w id="347.5">vader</w>
+    <w id="347.6">voor</w>
+    <w id="347.7">mij</w>
+    <w id="347.8">dan</w>
+    <w id="347.9">iemand</w>
+    <w id="347.10">anders</w>
+    <w id="347.11">ooit</w>
+    <w id="347.12">is</w>
+    <w id="347.13">geweest</w>
+    <w id="347.14">.</w>
+    <time id="T470E" value="00:18:42,479" />
+  </s>
+  <s id="348">
+    <time id="T471S" value="00:18:42,481" />
+    <w id="348.1">Je</w>
+    <w id="348.2">nam</w>
+    <w id="348.3">mij</w>
+    <w id="348.4">in</w>
+    <w id="348.5">huis</w>
+    <w id="348.6">,</w>
+    <time id="T471E" value="00:18:44,614" />
+    <time id="T472S" value="00:18:44,616" />
+    <w id="348.7">je</w>
+    <w id="348.8">inspireerde</w>
+    <w id="348.9">mij</w>
+    <w id="348.10">om</w>
+    <w id="348.11">een</w>
+    <w id="348.12">beter</w>
+    <w id="348.13">mens</w>
+    <w id="348.14">te</w>
+    <w id="348.15">zijn</w>
+    <w id="348.16">.</w>
+    <time id="T472E" value="00:18:48,285" />
+  </s>
+  <s id="349">
+    <time id="T473S" value="00:18:48,287" />
+    <w id="349.1">Door</w>
+    <w id="349.2">jou</w>
+    <w id="349.3">ben</w>
+    <w id="349.4">ik</w>
+    <w id="349.5">nu</w>
+    <w id="349.6">een</w>
+    <w id="349.7">dode</w>
+    <w id="349.8">junkie</w>
+    <w id="349.9">.</w>
+    <time id="T473E" value="00:18:51,588" />
+  </s>
+  <s id="350">
+    <time id="T474S" value="00:18:51,590" />
+    <w id="350.1">Ik</w>
+    <w id="350.2">wou</w>
+    <w id="350.3">echt</w>
+    <w id="350.4">dat</w>
+    <w id="350.5">je</w>
+    <w id="350.6">dat</w>
+    <w id="350.7">zou</w>
+    <w id="350.8">worden</w>
+    <w id="350.9">.</w>
+    <time id="T474E" value="00:18:54,791" />
+  </s>
+  <s id="351">
+    <time id="T475S" value="00:18:54,793" />
+    <w id="351.1">Ze</w>
+    <w id="351.2">heeft</w>
+    <w id="351.3">gelijk</w>
+    <w id="351.4">Jij</w>
+    <w id="351.5">bent</w>
+    <w id="351.6">een</w>
+    <w id="351.7">rol</w>
+    <w id="351.8">model</w>
+    <w id="351.9">.</w>
+    <time id="T475E" value="00:18:56,760" />
+  </s>
+  <s id="352">
+    <time id="T476S" value="00:18:56,762" />
+    <w id="352.1">Jij</w>
+    <w id="352.2">gelooft</w>
+    <w id="352.3">dat</w>
+    <w id="352.4">ik</w>
+    <w id="352.5">echt</w>
+    <w id="352.6">iets</w>
+    <w id="352.7">kan</w>
+    <w id="352.8">bereiken</w>
+    <time id="T476E" value="00:18:59,896" />
+    <time id="T478S" value="00:18:59,898" />
+    <w id="352.9">en</w>
+    <w id="352.10">door</w>
+    <w id="352.11">jou</w>
+    <w id="352.12">ga</w>
+    <w id="352.13">ik</w>
+    <w id="352.14">niet</w>
+    <w id="352.15">naar</w>
+    <w id="352.16">de</w>
+    <w id="352.17">gevangenis</w>
+    <w id="352.18">omdat</w>
+    <w id="352.19">ik</w>
+    <w id="352.20">mijn</w>
+    <w id="352.21">zoon</w>
+    <w id="352.22">zou</w>
+    <w id="352.23">leren</w>
+    <w id="352.24">masturberen</w>
+    <w id="352.25">.</w>
+    <time id="T478E" value="00:19:03,400" />
+  </s>
+  <s id="353">
+    <time id="T480S" value="00:19:04,402" />
+    <w id="353.1">Dat</w>
+    <w id="353.2">klopt</w>
+    <w id="353.3">,</w>
+    <w id="353.4">je</w>
+    <w id="353.5">wilt</w>
+    <w id="353.6">een</w>
+    <w id="353.7">betrokken</w>
+    <w id="353.8">vader</w>
+    <w id="353.9">zijn</w>
+    <w id="353.10">.</w>
+    <time id="T480E" value="00:19:07,337" />
+  </s>
+  <s id="354">
+    <time id="T481S" value="00:19:07,339" />
+    <w id="354.1">Maar</w>
+    <w id="354.2">niet</w>
+    <w id="354.3">teveel</w>
+    <w id="354.4">betrokken</w>
+    <w id="354.5">.</w>
+    <time id="T481E" value="00:19:09,639" />
+  </s>
+  <s id="355">
+    <time id="T482S" value="00:19:11,208" />
+    <w id="355.1">Kom</w>
+    <w id="355.2">hier</w>
+    <w id="355.3">kinderen</w>
+    <w id="355.4">.</w>
+    <time id="T482E" value="00:19:13,810" />
+  </s>
+  <s id="356">
+    <time id="T484S" value="00:19:18,350" />
+    <w id="356.1">Pa</w>
+    <w id="356.2">?</w>
+    <time id="T484E" value="00:19:20,517" />
+  </s>
+  <s id="357">
+    <time id="T485S" value="00:19:20,519" />
+    <w id="357.1">Barry</w>
+    <w id="357.2">'</w>
+    <w id="357.3">s</w>
+    <w id="357.4">heeft</w>
+    <w id="357.5">zijn</w>
+    <w id="357.6">handen</w>
+    <w id="357.7">weer</w>
+    <w id="357.8">op</w>
+    <w id="357.9">mijn</w>
+    <w id="357.10">kont</w>
+    <w id="357.11">.</w>
+    <time id="T485E" value="00:19:23,019" />
+  </s>
+  <s id="358">
+    <time id="T486S" value="00:19:24,055" />
+    <w id="358.1">Dat</w>
+    <w id="358.2">is</w>
+    <w id="358.3">niet</w>
+    <w id="358.4">mijn</w>
+    <w id="358.5">hand</w>
+    <w id="358.6">.</w>
+    <time id="T486E" value="00:19:25,388" />
+  </s>
+  <s id="359">
+    <time id="T489S" value="00:19:33,531" />
+    <w id="359.1">Hoi</w>
+    <w id="359.2">,</w>
+    <w id="359.3">Gretchie</w>
+    <w id="359.4">.</w>
+  </s>
+  <s id="360">
+    <w id="360.1">-</w>
+    <w id="360.2">Ik</w>
+    <w id="360.3">wil</w>
+    <w id="360.4">niet</w>
+    <w id="360.5">met</w>
+    <w id="360.6">je</w>
+    <w id="360.7">praten</w>
+    <w id="360.8">.</w>
+    <time id="T489E" value="00:19:36,700" />
+  </s>
+  <s id="361">
+    <time id="T491S" value="00:19:36,702" />
+    <w id="361.1">Gretchen</w>
+    <w id="361.2">is</w>
+    <w id="361.3">nog</w>
+    <w id="361.4">boos</w>
+    <w id="361.5">op</w>
+    <w id="361.6">je</w>
+    <w id="361.7">maar</w>
+    <w id="361.8">ik</w>
+    <w id="361.9">sta</w>
+    <w id="361.10">aan</w>
+    <w id="361.11">jouw</w>
+    <w id="361.12">kant</w>
+    <w id="361.13">,</w>
+    <w id="361.14">Jeff</w>
+    <w id="361.15">.</w>
+    <time id="T491E" value="00:19:38,868" />
+  </s>
+  <s id="362">
+    <time id="T492S" value="00:19:38,870" />
+    <w id="362.1">Vrienden</w>
+    <w id="362.2">gaan</w>
+    <w id="362.3">voor</w>
+    <w id="362.4">vriendin</w>
+    <w id="362.5">.</w>
+    <time id="T492E" value="00:19:41,838" />
+  </s>
+  <s id="363">
+    <time id="T493S" value="00:19:41,840" />
+    <w id="363.1">Goed</w>
+    <w id="363.2">,</w>
+    <w id="363.3">iedereen</w>
+    <w id="363.4">is</w>
+    <w id="363.5">er</w>
+    <w id="363.6">.</w>
+    <time id="T493E" value="00:19:44,507" />
+  </s>
+  <s id="364">
+    <time id="T494S" value="00:19:44,509" />
+    <w id="364.1">Ik</w>
+    <w id="364.2">heb</w>
+    <w id="364.3">iets</w>
+    <w id="364.4">te</w>
+    <w id="364.5">vertellen</w>
+    <w id="364.6">...</w>
+  </s>
+  <s id="365">
+    <w id="365.1">aan</w>
+    <w id="365.2">iedereen</w>
+    <w id="365.3">.</w>
+    <time id="T494E" value="00:19:48,712" />
+  </s>
+  <s id="366">
+    <time id="T496S" value="00:19:48,714" />
+    <w id="366.1">Weet</w>
+    <w id="366.2">je</w>
+    <w id="366.3">het</w>
+    <w id="366.4">zeker</w>
+    <w id="366.5">,</w>
+    <w id="366.6">Jeff</w>
+    <w id="366.7">?</w>
+    <time id="T496E" value="00:19:50,213" />
+  </s>
+  <s id="367">
+    <time id="T497S" value="00:19:50,215" />
+    <w id="367.1">Sommige</w>
+    <w id="367.2">dingen</w>
+    <w id="367.3">kunnen</w>
+    <w id="367.4">beter</w>
+    <w id="367.5">niet</w>
+    <w id="367.6">verteld</w>
+    <w id="367.7">worden</w>
+    <w id="367.8">.</w>
+    <time id="T497E" value="00:19:53,049" />
+  </s>
+  <s id="368">
+    <time id="T498S" value="00:19:54,652" />
+    <w id="368.1">Ik</w>
+    <w id="368.2">hou</w>
+    <w id="368.3">zoveel</w>
+    <w id="368.4">van</w>
+    <w id="368.5">je</w>
+    <w id="368.6">,</w>
+    <time id="T498E" value="00:19:56,052" />
+  </s>
+  <s id="369">
+    <time id="T499S" value="00:19:56,054" />
+    <w id="369.1">Ik</w>
+    <w id="369.2">kan</w>
+    <w id="369.3">mijn</w>
+    <w id="369.4">leven</w>
+    <w id="369.5">niet</w>
+    <w id="369.6">zonder</w>
+    <w id="369.7">jou</w>
+    <w id="369.8">voorstellen</w>
+    <w id="369.9">.</w>
+    <time id="T499E" value="00:19:58,421" />
+  </s>
+  <s id="370">
+    <time id="T500S" value="00:19:58,423" />
+    <w id="370.1">Hou</w>
+    <w id="370.2">op</w>
+    <w id="370.3">.</w>
+    <time id="T500E" value="00:19:59,689" />
+  </s>
+  <s id="371">
+    <time id="T501S" value="00:19:59,691" />
+    <w id="371.1">Misschien</w>
+    <w id="371.2">dat</w>
+    <w id="371.3">dit</w>
+    <w id="371.4">helpt</w>
+    <w id="371.5">.</w>
+    <time id="T501E" value="00:20:01,658" />
+  </s>
+  <s id="372">
+    <time id="T502S" value="00:20:01,660" />
+    <w id="372.1">Ik</w>
+    <w id="372.2">waardeer</w>
+    <w id="372.3">het</w>
+    <w id="372.4">gebaar</w>
+    <w id="372.5">,</w>
+    <time id="T502E" value="00:20:03,159" />
+    <time id="T503S" value="00:20:03,161" />
+    <w id="372.6">maar</w>
+    <w id="372.7">samen</w>
+    <w id="372.8">zoeken</w>
+    <w id="372.9">naar</w>
+    <w id="372.10">losgeld</w>
+    <w id="372.11">gaat</w>
+    <w id="372.12">dit</w>
+    <w id="372.13">keer</w>
+    <w id="372.14">niet</w>
+    <w id="372.15">werken</w>
+    <w id="372.16">.</w>
+    <time id="T503E" value="00:20:06,162" />
+  </s>
+  <s id="373">
+    <time id="T504S" value="00:20:06,164" />
+    <w id="373.1">Het</w>
+    <w id="373.2">enige</w>
+    <w id="373.3">wat</w>
+    <w id="373.4">ik</w>
+    <w id="373.5">wil</w>
+    <w id="373.6">is</w>
+    <w id="373.7">dat</w>
+    <w id="373.8">wij</w>
+    <w id="373.9">voortaan</w>
+    <w id="373.10">man</w>
+    <w id="373.11">en</w>
+    <w id="373.12">vrouw</w>
+    <w id="373.13">zijn</w>
+    <w id="373.14">.</w>
+    <time id="T504E" value="00:20:10,500" />
+  </s>
+  <s id="374">
+    <time id="T505S" value="00:20:10,502" />
+    <w id="374.1">wat</w>
+    <w id="374.2">?</w>
+  </s>
+  <s id="375">
+    <w id="375.1">!</w>
+    <time id="T505E" value="00:20:12,435" />
+  </s>
+  <s id="376">
+    <time id="T506S" value="00:20:12,437" />
+    <w id="376.1">Gretchen</w>
+    <w id="376.2">Martin</w>
+    <w id="376.3">,</w>
+    <w id="376.4">Het</w>
+    <w id="376.5">zal</w>
+    <w id="376.6">mij</w>
+    <w id="376.7">een</w>
+    <w id="376.8">eer</w>
+    <w id="376.9">zijn</w>
+    <time id="T506E" value="00:20:15,238" />
+    <time id="T507S" value="00:20:15,240" />
+    <w id="376.10">als</w>
+    <w id="376.11">je</w>
+    <w id="376.12">mevrouw</w>
+    <w id="376.13">Alan</w>
+    <w id="376.14">Harper</w>
+    <w id="376.15">wordt</w>
+    <w id="376.16">.</w>
+    <time id="T507E" value="00:20:20,110" />
+  </s>
+  <s id="377">
+    <time id="T508S" value="00:20:21,645" />
+    <w id="377.1">Mijn</w>
+    <w id="377.2">God</w>
+    <w id="377.3">!</w>
+  </s>
+  <s id="378">
+    <w id="378.1">Mijn</w>
+    <w id="378.2">zus</w>
+    <w id="378.3">en</w>
+    <w id="378.4">mijn</w>
+    <w id="378.5">beste</w>
+    <w id="378.6">...</w>
+    <time id="T508E" value="00:20:24,581" />
+  </s>
+  <s id="379">
+    <time id="T509S" value="00:20:24,583" />
+    <w id="379.1">Wacht</w>
+    <w id="379.2">eens</w>
+    <w id="379.3">even</w>
+    <w id="379.4">.</w>
+  </s>
+  <s id="380">
+    <w id="380.1">Wie</w>
+    <w id="380.2">is</w>
+    <w id="380.3">Alan</w>
+    <w id="380.4">Harper</w>
+    <w id="380.5">?</w>
+    <time id="T509E" value="00:20:26,883" />
+  </s>
+  <s id="381">
+    <time id="T510S" value="00:20:26,885" />
+    <w id="381.1">Larry</w>
+    <w id="381.2">!</w>
+  </s>
+  <s id="382">
+    <w id="382.1">Kijk</w>
+    <w id="382.2">,</w>
+    <w id="382.3">Borsten</w>
+    <w id="382.4">!</w>
+    <time id="T510E" value="00:20:29,319" />
+  </s>
+  <s id="383">
+    <time id="T513S" value="00:20:38,211" />
+    <w id="383.1">Je</w>
+    <w id="383.2">doet</w>
+    <w id="383.3">het</w>
+    <w id="383.4">geweldig</w>
+    <w id="383.5">,</w>
+    <w id="383.6">al</w>
+    <w id="383.7">kilometers</w>
+    <w id="383.8">geen</w>
+    <w id="383.9">vangrail</w>
+    <w id="383.10">geraakt</w>
+    <w id="383.11">.</w>
+    <time id="T513E" value="00:20:41,245" />
+  </s>
+  <s id="384">
+    <time id="T515S" value="00:20:42,492" />
+    <w id="384.1">Als</w>
+    <w id="384.2">je</w>
+    <w id="384.3">het</w>
+    <w id="384.4">door</w>
+    <w id="384.5">hebt</w>
+    <w id="384.6">is</w>
+    <w id="384.7">het</w>
+    <w id="384.8">niet</w>
+    <w id="384.9">zo</w>
+    <w id="384.10">moeilijk</w>
+    <w id="384.11">.</w>
+    <time id="T515E" value="00:20:45,427" />
+  </s>
+  <s id="385">
+    <time id="T517S" value="00:20:45,429" />
+    <w id="385.1">Wat</w>
+    <w id="385.2">nou</w>
+    <w id="385.3">als</w>
+    <w id="385.4">ik</w>
+    <w id="385.5">hem</w>
+    <w id="385.6">na</w>
+    <w id="385.7">het</w>
+    <w id="385.8">opknappen</w>
+    <w id="385.9">aan</w>
+    <w id="385.10">jou</w>
+    <w id="385.11">geef</w>
+    <w id="385.12">?</w>
+    <time id="T517E" value="00:20:48,564" />
+  </s>
+  <s id="386">
+    <time id="T518S" value="00:20:48,566" />
+    <w id="386.1">maar</w>
+    <w id="386.2">je</w>
+    <w id="386.3">houdt</w>
+    <w id="386.4">van</w>
+    <w id="386.5">deze</w>
+    <w id="386.6">auto</w>
+    <w id="386.7">.</w>
+  </s>
+  <s id="387">
+    <w id="387.1">-</w>
+    <w id="387.2">Ik</w>
+    <w id="387.3">heb</w>
+    <w id="387.4">al</w>
+    <w id="387.5">terug</w>
+    <w id="387.6">wat</w>
+    <w id="387.7">ik</w>
+    <w id="387.8">ervan</w>
+    <w id="387.9">wilde</w>
+    <w id="387.10">,</w>
+    <time id="T518E" value="00:20:52,134" />
+    <time id="T520S" value="00:20:52,136" />
+    <w id="387.11">en</w>
+    <w id="387.12">ik</w>
+    <w id="387.13">heb</w>
+    <w id="387.14">liever</w>
+    <w id="387.15">dat</w>
+    <w id="387.16">hij</w>
+    <w id="387.17">in</w>
+    <w id="387.18">de</w>
+    <w id="387.19">familie</w>
+    <w id="387.20">blijft</w>
+    <w id="387.21">en</w>
+    <w id="387.22">aan</w>
+    <w id="387.23">wie</w>
+    <w id="387.24">kan</w>
+    <w id="387.25">ik</w>
+    <w id="387.26">hem</w>
+    <w id="387.27">beter</w>
+    <w id="387.28">geven</w>
+    <w id="387.29">dan</w>
+    <w id="387.30">mijn</w>
+    <w id="387.31">...</w>
+    <time id="T520E" value="00:20:56,271" />
+    <time id="T522S" value="00:20:56,273" />
+    <w id="387.32">soort</w>
+    <w id="387.33">van</w>
+    <w id="387.34">dochter</w>
+    <w id="387.35">.</w>
+    <time id="T522E" value="00:20:57,372" />
+  </s>
+  <s id="388">
+    <time id="T523S" value="00:20:57,374" />
+    <w id="388.1">Jij</w>
+    <w id="388.2">bent</w>
+    <w id="388.3">de</w>
+    <w id="388.4">beste</w>
+    <w id="388.5">soort</w>
+    <w id="388.6">van</w>
+    <w id="388.7">vader</w>
+    <w id="388.8">!</w>
+    <time id="T523E" value="00:21:00,375" />
+  </s>
+  <s id="389">
+    <time id="T524S" value="00:21:00,377" />
+    <w id="389.1">Handen</w>
+    <w id="389.2">op</w>
+    <w id="389.3">het</w>
+    <w id="389.4">stuur</w>
+    <w id="389.5">!</w>
+    <time id="T524E" value="00:21:04,179" />
+  </s>
+  <s id="390">
+    <time id="T526S" value="00:21:04,181" />
+    <w id="390.1">Waarom</w>
+    <w id="390.2">schreeuw</w>
+    <w id="390.3">je</w>
+    <w id="390.4">zo</w>
+    <w id="390.5">tegen</w>
+    <w id="390.6">mij</w>
+    <w id="390.7">?</w>
+    <time id="T526E" value="00:21:05,881" />
+  </s>
+  <s id="391">
+    <time id="T527S" value="00:21:05,883" />
+    <w id="391.1">Je</w>
+    <w id="391.2">moet</w>
+    <w id="391.3">tegen</w>
+    <w id="391.4">hen</w>
+    <w id="391.5">schreeuwen</w>
+    <w id="391.6">omdat</w>
+    <w id="391.7">ze</w>
+    <w id="391.8">aan</w>
+    <w id="391.9">de</w>
+    <w id="391.10">verkeerde</w>
+    <w id="391.11">kant</w>
+    <w id="391.12">rijden</w>
+    <w id="391.13">...</w>
+    <time id="T527E" value="00:21:08,550" />
+  </s>
+  <s id="392">
+    <time id="T529S" value="00:21:10,542" />
+    <w id="392.1">Ondertiteling</w>
+    <w id="392.2">:</w>
+  </s>
+  <s id="393">
+    <w id="393.1">Olorin</w>
+    <w id="393.2">.</w>
+    <time id="T529E" value="00:21:15,043" />
+  </s>
+  <meta>
+    <source>
+    </source>
+    <conversion>
+      <truecased_words>0</truecased_words>
+      <encoding>utf-8</encoding>
+      <corrected_words>0</corrected_words>
+      <sentences>393</sentences>
+      <tokens>3477</tokens>
+      <unknown_words>6</unknown_words>
+      <ignored_blocks>0</ignored_blocks>
+    </conversion>
+    <subtitle>
+      <duration>00:21:15,043</duration>
+      <cds>1/1</cds>
+      <rating>0.0</rating>
+      <confidence>1.0</confidence>
+      <language>Dutch</language>
+      <blocks>529</blocks>
+      <date>2014-05-19</date>
+    </subtitle>
+  </meta>
+</document>
