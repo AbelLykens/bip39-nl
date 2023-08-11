@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document id="6187114">
+  <s id="1">
+    <time id="T1S" value="00:02:01,006" />
+    <w id="1.1">Quality</w>
+    <w id="1.2">over</w>
+    <w id="1.3">Quantity</w>
+    <w id="1.4">(</w>
+    <w id="1.5">QoQ</w>
+    <w id="1.6">)</w>
+    <w id="1.7">Releases</w>
+    <w id="1.8">Shaun</w>
+    <w id="1.9">the</w>
+    <w id="1.10">Sheep</w>
+    <w id="1.11">Movie</w>
+    <w id="1.12">(</w>
+    <w id="1.13">2015</w>
+    <w id="1.14">)</w>
+    <time id="T1E" value="00:02:04,652" />
+  </s>
+  <s id="2">
+    <time id="T2S" value="00:02:04,673" />
+    <w id="2.1">Vertaling</w>
+    <w id="2.2">:</w>
+  </s>
+  <s id="3">
+    <w id="3.1">Nightfalls</w>
+    <time id="T2E" value="00:02:08,319" />
+  </s>
+  <s id="4">
+    <time id="T3S" value="00:02:30,688" />
+    <w alternative="Maandag" id="4.1">MAANDAG</w>
+    <time id="T3E" value="00:02:31,938" />
+  </s>
+  <s id="5">
+    <time id="T4S" value="00:02:55,333" />
+    <w alternative="Schema" id="5.1">SCHEMA</w>
+    <time id="T4E" value="00:02:56,583" />
+  </s>
+  <s id="6">
+    <time id="T5S" value="00:03:14,686" />
+    <w alternative="Dinsdag" id="6.1">DINSDAG</w>
+    <time id="T5E" value="00:03:15,936" />
+  </s>
+  <s id="7">
+    <time id="T6S" value="00:03:34,602" />
+    <w alternative="Woensdag" id="7.1">WOENSDAG</w>
+    <time id="T6E" value="00:03:35,852" />
+  </s>
+  <s id="8">
+    <time id="T7S" value="00:03:51,331" />
+    <w alternative="Donderdag" id="8.1">DONDERDAG</w>
+    <time id="T7E" value="00:03:52,581" />
+  </s>
+  <s id="9">
+    <time id="T8S" value="00:05:29,000" />
+    <w alternative="Neem" id="9.1">NEEM</w>
+    <w alternative="een" id="9.2">EEN</w>
+    <w alternative="dag" id="9.3">DAG</w>
+    <w alternative="vrij" id="9.4">VRIJ</w>
+    <time id="T8E" value="00:05:31,875" />
+  </s>
+  <s id="10">
+    <time id="T9S" value="00:05:33,583" />
+    <w alternative="Neem" id="10.1">NEEM</w>
+    <w alternative="een" id="10.2">EEN</w>
+    <w alternative="dag" id="10.3">DAG</w>
+    <w alternative="vrij" id="10.4">VRIJ</w>
+    <time id="T9E" value="00:05:37,000" />
+  </s>
+  <s id="11">
+    <time id="T10S" value="00:10:32,000" />
+    <w alternative="Voederen" id="11.1">VOEDEREN</w>
+    <w id="11.2">,</w>
+    <w alternative="de" id="11.3">DE</w>
+    <w alternative="moderne" id="11.4">MODERNE</w>
+    <w alternative="manier" id="11.5">MANIER</w>
+    <w alternative="van" id="11.6">VAN</w>
+    <w alternative="Landbouw" id="11.7">LANDBOUW</w>
+    <time id="T10E" value="00:10:33,788" />
+  </s>
+  <s id="12">
+    <time id="T11S" value="00:10:34,125" />
+    <w alternative="De" id="12.1">DE</w>
+    <w alternative="terugkomst" id="12.2">TERUGKOMST</w>
+    <w alternative="van" id="12.3">VAN</w>
+    <w alternative="Curly" id="12.4">CURLY</w>
+    <w alternative="the" id="12.5">THE</w>
+    <w alternative="kid" id="12.6">KID</w>
+    <time id="T11E" value="00:10:35,855" />
+  </s>
+  <s id="13">
+    <time id="T12S" value="00:12:06,333" />
+    <w alternative="De" id="13.1">DE</w>
+    <w alternative="grote" id="13.2">GROTE</w>
+    <w alternative="stad" id="13.3">STAD</w>
+    <time id="T12E" value="00:12:07,583" />
+  </s>
+  <s id="14">
+    <time id="T13S" value="00:13:08,390" />
+    <w alternative="Naar" id="14.1">NAAR</w>
+    <w alternative="de" id="14.2">DE</w>
+    <w alternative="maan" id="14.3">MAAN</w>
+    <w alternative="en" id="14.4">EN</w>
+    <w alternative="terug" id="14.5">TERUG</w>
+    <time id="T13E" value="00:13:09,640" />
+  </s>
+  <s id="15">
+    <time id="T14S" value="00:13:41,833" />
+    <w alternative="Sluit" id="15.1">SLUIT</w>
+    <w alternative="de" id="15.2">DE</w>
+    <w alternative="poort" id="15.3">POORT</w>
+    <time id="T14E" value="00:13:43,708" />
+  </s>
+  <s id="16">
+    <time id="T15S" value="00:14:20,125" />
+    <w alternative="Koop" id="16.1">KOOP</w>
+    <w alternative="gezond" id="16.2">GEZOND</w>
+    <w alternative="eten" id="16.3">ETEN</w>
+    <time id="T15E" value="00:14:23,667" />
+  </s>
+  <s id="17">
+    <time id="T16S" value="00:18:33,634" />
+    <w alternative="Diagnose" id="17.1">DIAGNOSE</w>
+    <w id="17.2">:</w>
+  </s>
+  <s id="18">
+    <w alternative="Geheugenverlies" id="18.1">GEHEUGENVERLIES</w>
+    <time id="T16E" value="00:18:38,843" />
+  </s>
+  <s id="19">
+    <time id="T17S" value="00:19:20,009" />
+    <w alternative="Kom" id="19.1">KOM</w>
+    <w alternative="in" id="19.2">IN</w>
+    <w alternative="beweging" id="19.3">BEWEGING</w>
+    <time id="T17E" value="00:19:23,384" />
+  </s>
+  <s id="20">
+    <time id="T18S" value="00:19:25,218" />
+    <w alternative="Kom" id="20.1">KOM</w>
+    <w alternative="in" id="20.2">IN</w>
+    <w alternative="beweging" id="20.3">BEWEGING</w>
+    <time id="T18E" value="00:19:27,134" />
+  </s>
+  <s id="21">
+    <time id="T19S" value="00:19:46,718" />
+    <w alternative="Boerderij" id="21.1">BOERDERIJ</w>
+  </s>
+  <s id="22">
+    <w id="22.1">-</w>
+    <w alternative="Grote" id="22.2">GROTE</w>
+    <w alternative="stad" id="22.3">STAD</w>
+    <time id="T19E" value="00:19:49,509" />
+  </s>
+  <s id="23">
+    <time id="T20S" value="00:20:30,343" />
+    <w alternative="Vermist" id="23.1">VERMIST</w>
+    <time id="T20E" value="00:20:33,009" />
+  </s>
+  <s id="24">
+    <time id="T21S" value="00:21:04,468" />
+    <w alternative="Centrum" id="24.1">CENTRUM</w>
+    <time id="T21E" value="00:21:08,509" />
+  </s>
+  <s id="25">
+    <time id="T22S" value="00:22:20,784" />
+    <w alternative="Gevangen" id="25.1">GEVANGEN</w>
+    <w alternative="Dierenasiel" id="25.2">DIERENASIEL</w>
+    <time id="T22E" value="00:22:25,134" />
+  </s>
+  <s id="26">
+    <time id="T23S" value="00:23:33,343" />
+    <w alternative="De" id="26.1">DE</w>
+    <w alternative="Dierenwelzijnsclub" id="26.2">DIERENWELZIJNSCLUB</w>
+    <time id="T23E" value="00:23:35,759" />
+  </s>
+  <s id="27">
+    <time id="T24S" value="00:23:59,468" />
+    <w alternative="Neem" id="27.1">NEEM</w>
+    <w alternative="de" id="27.2">DE</w>
+    <w alternative="bus" id="27.3">BUS</w>
+    <w alternative="naar" id="27.4">NAAR</w>
+    <w alternative="het" id="27.5">HET</w>
+    <w alternative="boerenleven" id="27.6">BOERENLEVEN</w>
+    <time id="T24E" value="00:24:02,155" />
+  </s>
+  <s id="28">
+    <time id="T25S" value="00:24:43,093" />
+    <w id="28.1">A.</w>
+    <w alternative="Trumper" id="28.2">TRUMPER</w>
+    <time id="T25E" value="00:24:45,009" />
+  </s>
+  <s id="29">
+    <time id="T26S" value="00:25:53,968" />
+    <w alternative="Vermist" id="29.1">VERMIST</w>
+    <time id="T26E" value="00:25:56,801" />
+  </s>
+  <s id="30">
+    <time id="T27S" value="00:28:47,815" />
+    <w alternative="Geheugenverlies" id="30.1">GEHEUGENVERLIES</w>
+    <time id="T27E" value="00:28:49,261" />
+  </s>
+  <s id="31">
+    <time id="T28S" value="00:29:20,714" />
+    <w alternative="Gevonden" id="31.1">GEVONDEN</w>
+    <w alternative="voorwerpen" id="31.2">VOORWERPEN</w>
+    <time id="T28E" value="00:29:22,301" />
+  </s>
+  <s id="32">
+    <time id="T29S" value="00:29:22,384" />
+    <w alternative="Vermist" id="32.1">VERMIST</w>
+    <time id="T29E" value="00:29:24,759" />
+  </s>
+  <s id="33">
+    <time id="T30S" value="00:31:06,468" />
+    <w alternative="Delicatessen" id="33.1">DELICATESSEN</w>
+    <time id="T30E" value="00:31:08,509" />
+  </s>
+  <s id="34">
+    <time id="T31S" value="00:31:41,384" />
+    <w alternative="De" id="34.1">DE</w>
+    <w alternative="aangebrande" id="34.2">AANGEBRANDE</w>
+    <w alternative="kool" id="34.3">KOOL</w>
+    <time id="T31E" value="00:31:47,259" />
+  </s>
+  <s id="35">
+    <time id="T32S" value="00:36:23,724" />
+    <w alternative="Opgesloten" id="35.1">OPGESLOTEN</w>
+    <time id="T32E" value="00:36:25,158" />
+  </s>
+  <s id="36">
+    <time id="T33S" value="00:36:52,220" />
+    <w id="36.1">A.</w>
+    <w alternative="Trumper" id="36.2">TRUMPER</w>
+    <time id="T33E" value="00:36:54,163" />
+  </s>
+  <s id="37">
+    <time id="T34S" value="00:40:06,783" />
+    <w alternative="Dierenasiel" id="37.1">DIERENASIEL</w>
+    <time id="T34E" value="00:40:10,075" />
+  </s>
+  <s id="38">
+    <time id="T35S" value="00:41:36,308" />
+    <w alternative="Opgesloten" id="38.1">OPGESLOTEN</w>
+    <time id="T35E" value="00:41:37,558" />
+  </s>
+  <s id="39">
+    <time id="T36S" value="00:42:39,158" />
+    <w alternative="Adopteer" id="39.1">ADOPTEER</w>
+    <w alternative="een" id="39.2">EEN</w>
+    <w alternative="zwerfdier" id="39.3">ZWERFDIER</w>
+    <time id="T36E" value="00:42:41,533" />
+  </s>
+  <s id="40">
+    <time id="T37S" value="00:44:35,742" />
+    <w alternative="Versturen" id="40.1">VERSTUREN</w>
+    <time id="T37E" value="00:44:36,992" />
+  </s>
+  <s id="41">
+    <time id="T38S" value="00:44:40,408" />
+    <w alternative="Delen" id="41.1">DELEN</w>
+    <time id="T38E" value="00:44:41,658" />
+  </s>
+  <s id="42">
+    <time id="T39S" value="00:44:45,908" />
+    <w alternative="Deze" id="42.1">DEZE</w>
+    <w alternative="haarstijl" id="42.2">HAARSTIJL</w>
+    <w alternative="is" id="42.3">IS</w>
+    <w alternative="het" id="42.4">HET</w>
+    <w alternative="gesprek" id="42.5">GESPREK</w>
+    <w alternative="van" id="42.6">VAN</w>
+    <w alternative="de" id="42.7">DE</w>
+    <w alternative="dag" id="42.8">DAG</w>
+    <time id="T39E" value="00:44:48,408" />
+  </s>
+  <s id="43">
+    <time id="T40S" value="00:45:30,700" />
+    <w alternative="Dit" id="43.1">DIT</w>
+    <w alternative="is" id="43.2">IS</w>
+    <w alternative="hem" id="43.3">HEM</w>
+    <w id="43.4">.</w>
+  </s>
+  <s id="44">
+    <w alternative="Mr" id="44.1">MR</w>
+    <w id="44.2">X</w>
+    <time id="T40E" value="00:45:34,533" />
+  </s>
+  <s id="45">
+    <time id="T41S" value="00:46:44,290" />
+    <w id="45.1">A.</w>
+    <w alternative="Trumper" id="45.2">TRUMPER</w>
+    <time id="T41E" value="00:46:45,540" />
+  </s>
+  <s id="46">
+    <time id="T42S" value="00:50:07,617" />
+    <w alternative="Dit" id="46.1">DIT</w>
+    <w alternative="is" id="46.2">IS</w>
+    <w alternative="hem" id="46.3">HEM</w>
+    <w id="46.4">.</w>
+  </s>
+  <s id="47">
+    <w alternative="Mr" id="47.1">MR</w>
+    <w id="47.2">X</w>
+    <time id="T42E" value="00:50:12,658" />
+  </s>
+  <s id="48">
+    <time id="T43S" value="00:54:47,416" />
+    <w alternative="Opgesloten" id="48.1">OPGESLOTEN</w>
+    <time id="T43E" value="00:54:48,666" />
+  </s>
+  <s id="49">
+    <time id="T44S" value="00:55:07,659" />
+    <w alternative="Hoge" id="49.1">HOGE</w>
+    <w alternative="Spanning" id="49.2">SPANNING</w>
+    <time id="T44E" value="00:55:09,089" />
+  </s>
+  <s id="50">
+    <time id="T45S" value="00:58:16,200" />
+    <w alternative="Geheugenverlies" id="50.1">GEHEUGENVERLIES</w>
+    <time id="T45E" value="00:58:18,117" />
+  </s>
+  <s id="51">
+    <time id="T46S" value="00:59:02,867" />
+    <w alternative="Geheugenverlies" id="51.1">GEHEUGENVERLIES</w>
+    <time id="T46E" value="00:59:07,242" />
+  </s>
+  <s id="52">
+    <time id="T47S" value="00:59:39,992" />
+    <w alternative="Thuis" id="52.1">THUIS</w>
+    <time id="T47E" value="00:59:46,033" />
+  </s>
+  <s id="53">
+    <time id="T48S" value="01:03:57,492" />
+    <w id="53.1">U</w>
+    <w alternative="bevindt" id="53.2">BEVINDT</w>
+    <w alternative="zich" id="53.3">ZICH</w>
+    <w alternative="hier" id="53.4">HIER</w>
+    <time id="T48E" value="01:04:00,242" />
+  </s>
+  <s id="54">
+    <time id="T49S" value="01:04:01,992" />
+    <w alternative="Boerderij" id="54.1">BOERDERIJ</w>
+    <time id="T49E" value="01:04:04,825" />
+  </s>
+  <s id="55">
+    <time id="T50S" value="01:07:09,060" />
+    <w alternative="Centrum" id="55.1">CENTRUM</w>
+    <time id="T50E" value="01:07:10,879" />
+  </s>
+  <s id="56">
+    <time id="T51S" value="01:10:18,103" />
+    <w alternative="Steengroeve" id="56.1">STEENGROEVE</w>
+    <time id="T51E" value="01:10:19,853" />
+  </s>
+  <s id="57">
+    <time id="T52S" value="01:15:01,146" />
+    <w alternative="Boerderij" id="57.1">BOERDERIJ</w>
+  </s>
+  <s id="58">
+    <w id="58.1">-</w>
+    <w alternative="Grote" id="58.2">GROTE</w>
+    <w alternative="stad" id="58.3">STAD</w>
+    <time id="T52E" value="01:15:04,306" />
+  </s>
+  <s id="59">
+    <time id="T53S" value="01:15:14,089" />
+    <w alternative="Boerderij" id="59.1">BOERDERIJ</w>
+  </s>
+  <s id="60">
+    <w id="60.1">-</w>
+    <w alternative="Grote" id="60.2">GROTE</w>
+    <w alternative="stad" id="60.3">STAD</w>
+    <time id="T53E" value="01:15:16,259" />
+  </s>
+  <s id="61">
+    <time id="T54S" value="01:16:32,190" />
+    <w alternative="Schema" id="61.1">SCHEMA</w>
+    <time id="T54E" value="01:16:34,390" />
+  </s>
+  <s id="62">
+    <time id="T55S" value="01:17:04,811" />
+    <w alternative="Dierenopvang" id="62.1">DIERENOPVANG</w>
+    <w id="62.2">.</w>
+    <time id="T55E" value="01:17:07,395" />
+  </s>
+  <s id="63">
+    <time id="T56S" value="01:17:10,770" />
+    <w alternative="Dierenbescherming" id="63.1">DIERENBESCHERMING</w>
+    <time id="T56E" value="01:17:13,478" />
+  </s>
+  <s id="64">
+    <time id="T57S" value="01:18:02,728" />
+    <w alternative="Het" id="64.1">HET</w>
+    <w alternative="einde" id="64.2">EINDE</w>
+    <time id="T57E" value="01:18:04,056" />
+  </s>
+  <s id="65">
+    <time id="T58S" value="01:24:16,936" />
+    <w alternative="Het" id="65.1">HET</w>
+    <w alternative="einde" id="65.2">EINDE</w>
+    <time id="T58E" value="01:24:21,145" />
+  </s>
+  <s id="66">
+    <time id="T59S" value="01:24:29,853" />
+    <w alternative="Ga" id="66.1">GA</w>
+    <w alternative="naar" id="66.2">NAAR</w>
+    <w alternative="huis" id="66.3">HUIS</w>
+    <time id="T59E" value="01:24:33,853" />
+  </s>
+  <s id="67">
+    <time id="T60S" value="01:24:33,874" />
+    <w id="67.1">Quality</w>
+    <w id="67.2">over</w>
+    <w id="67.3">Quantity</w>
+    <w id="67.4">(</w>
+    <w id="67.5">QoQ</w>
+    <w id="67.6">)</w>
+    <w id="67.7">Releases</w>
+    <w id="67.8">Vertaling</w>
+    <w id="67.9">:</w>
+  </s>
+  <s id="68">
+    <w id="68.1">Nightfalls</w>
+    <time id="T60E" value="01:24:37,520" />
+  </s>
+  <meta>
+    <subtitle>
+      <blocks>60</blocks>
+      <rating>2.0</rating>
+      <confidence>1.0</confidence>
+      <duration>01:24:37,520</duration>
+      <language>Dutch</language>
+      <cds>1/1</cds>
+      <date>2015-05-29</date>
+    </subtitle>
+    <conversion>
+      <encoding>utf-8</encoding>
+      <sentences>68</sentences>
+      <truecased_words>126</truecased_words>
+      <ignored_blocks>0</ignored_blocks>
+      <corrected_words>0</corrected_words>
+      <tokens>167</tokens>
+      <unknown_words>3</unknown_words>
+    </conversion>
+    <source>
+      <duration>N/A</duration>
+      <year>2015</year>
+      <original>N/A</original>
+      <genre>Animation, Adventure, Family</genre>
+      <country>UK, France</country>
+    </source>
+  </meta>
+</document>

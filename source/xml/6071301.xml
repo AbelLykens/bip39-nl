@@ -6386,25 +6386,25 @@
     <time id="T488E" value="00:42:10,810" />
   </s>
   <meta>
-    <source>
-    </source>
-    <conversion>
-      <encoding>utf-8</encoding>
-      <corrected_words>0</corrected_words>
-      <tokens>4199</tokens>
-      <ignored_blocks>1</ignored_blocks>
-      <sentences>606</sentences>
-      <truecased_words>0</truecased_words>
-      <unknown_words>19</unknown_words>
-    </conversion>
     <subtitle>
+      <blocks>488</blocks>
       <rating>0.0</rating>
       <confidence>1.0</confidence>
-      <blocks>488</blocks>
-      <language>Dutch</language>
       <duration>00:42:10,810</duration>
+      <language>Dutch</language>
       <cds>1/1</cds>
       <date>2015-03-08</date>
     </subtitle>
+    <conversion>
+      <encoding>utf-8</encoding>
+      <sentences>606</sentences>
+      <truecased_words>0</truecased_words>
+      <ignored_blocks>1</ignored_blocks>
+      <corrected_words>0</corrected_words>
+      <tokens>4199</tokens>
+      <unknown_words>19</unknown_words>
+    </conversion>
+    <source>
+    </source>
   </meta>
 </document>

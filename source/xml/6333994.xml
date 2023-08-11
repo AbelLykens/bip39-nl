@@ -1965,7 +1965,7 @@
   <s id="200">
     <time id="T164S" value="00:20:22,697" />
     <w id="200.1">Welke</w>
-    <w id="200.2">haai</w>
+    <w alternative="haal" id="200.2">haai</w>
     <w id="200.3">?</w>
   </s>
   <s id="201">
@@ -7469,28 +7469,28 @@
   </s>
   <meta>
     <source>
-      <duration>N/A</duration>
-      <genre>Thriller</genre>
-      <country>USA</country>
-      <original>English</original>
       <year>2014</year>
+      <original>English</original>
+      <country>USA</country>
+      <genre>Thriller</genre>
+      <duration>N/A</duration>
     </source>
     <conversion>
-      <encoding>windows-1252</encoding>
-      <corrected_words>0</corrected_words>
-      <tokens>4737</tokens>
-      <ignored_blocks>0</ignored_blocks>
       <sentences>755</sentences>
-      <truecased_words>5</truecased_words>
+      <corrected_words>1</corrected_words>
+      <ignored_blocks>0</ignored_blocks>
+      <tokens>4737</tokens>
       <unknown_words>9</unknown_words>
+      <truecased_words>5</truecased_words>
+      <encoding>windows-1252</encoding>
     </conversion>
     <subtitle>
       <confidence>1.0</confidence>
+      <duration>01:33:20,943</duration>
+      <date>2015-10-10</date>
+      <cds>1/1</cds>
       <blocks>610</blocks>
       <language>Dutch</language>
-      <duration>01:33:20,943</duration>
-      <cds>1/1</cds>
-      <date>2015-10-10</date>
     </subtitle>
   </meta>
 </document>

@@ -8915,21 +8915,21 @@
     <source>
     </source>
     <conversion>
-      <encoding>windows-1252</encoding>
-      <corrected_words>0</corrected_words>
-      <tokens>6147</tokens>
-      <ignored_blocks>0</ignored_blocks>
       <sentences>786</sentences>
-      <truecased_words>4</truecased_words>
+      <corrected_words>0</corrected_words>
+      <ignored_blocks>0</ignored_blocks>
+      <tokens>6147</tokens>
       <unknown_words>16</unknown_words>
+      <truecased_words>4</truecased_words>
+      <encoding>windows-1252</encoding>
     </conversion>
     <subtitle>
       <confidence>1.0</confidence>
+      <duration>00:42:23,668</duration>
+      <date>2015-10-16</date>
+      <cds>1/1</cds>
       <blocks>597</blocks>
       <language>Dutch</language>
-      <duration>00:42:23,668</duration>
-      <cds>1/1</cds>
-      <date>2015-10-16</date>
     </subtitle>
   </meta>
 </document>

@@ -10847,30 +10847,30 @@
     <time id="T812E" value="01:35:25,917" />
   </s>
   <meta>
-    <source>
-      <duration>N/A</duration>
-      <genre>Horror</genre>
-      <country>USA</country>
-      <original>English</original>
-      <year>2014</year>
-    </source>
-    <conversion>
-      <encoding>windows-1252</encoding>
-      <corrected_words>0</corrected_words>
-      <tokens>7280</tokens>
-      <ignored_blocks>0</ignored_blocks>
-      <sentences>971</sentences>
-      <truecased_words>0</truecased_words>
-      <unknown_words>11</unknown_words>
-    </conversion>
     <subtitle>
+      <blocks>812</blocks>
       <rating>0.0</rating>
       <confidence>1.0</confidence>
-      <blocks>812</blocks>
-      <language>Dutch</language>
       <duration>01:35:25,917</duration>
+      <language>Dutch</language>
       <cds>1/1</cds>
       <date>2015-07-08</date>
     </subtitle>
+    <conversion>
+      <encoding>windows-1252</encoding>
+      <sentences>971</sentences>
+      <truecased_words>0</truecased_words>
+      <ignored_blocks>0</ignored_blocks>
+      <corrected_words>0</corrected_words>
+      <tokens>7280</tokens>
+      <unknown_words>11</unknown_words>
+    </conversion>
+    <source>
+      <duration>N/A</duration>
+      <year>2014</year>
+      <original>English</original>
+      <genre>Horror</genre>
+      <country>USA</country>
+    </source>
   </meta>
 </document>
