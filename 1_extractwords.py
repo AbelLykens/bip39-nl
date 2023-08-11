@@ -32,7 +32,7 @@ for xmlfile in dir_list:
         cur.executemany("INSERT INTO words VALUES(?, ?)", data)
         con.commit()
 
-cur.execute("select count(word) num,word from words group by word order by num DESC limit 10000;")
+cur.execute("select count(word) num,word from words group by word order by num DESC limit ;")
 with open("result.csv","w") as output:
     for res in cur.fetchall():
         line = f"{res[1]}"
