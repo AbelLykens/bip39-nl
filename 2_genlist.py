@@ -19,7 +19,7 @@ with open('result_uniquefirst4.csv','w') as resfile:
                 continue
             if word not in goodwords:
                 continue
-            if seenfirst3.count(first3) > 2:
+            if seenfirst3.count(first3) > 1:
                 continue
         
             seenfirst3.append(first3)
