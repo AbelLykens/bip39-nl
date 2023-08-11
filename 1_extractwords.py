@@ -24,7 +24,7 @@ for xmlfile in dir_list:
     with open(f"source/xml/{xmlfile}",'r') as f:
         content = f.read()
         #print(content)
-        words = re.findall("<w[^>]*>([a-zA-Z]{4,8})</w>",content)
+        words = re.findall("<w[^>]*>([a-z]{4,8})</w>",content)
         data = []
         for word in words:
             data.append( (path,word.lower()) )
@@ -32,7 +32,7 @@ for xmlfile in dir_list:
         cur.executemany("INSERT INTO words VALUES(?, ?)", data)
         con.commit()
 
-cur.execute("select count(word) num,word from words group by word order by num DESC limit 4096;")
+cur.execute("select count(word) num,word from words group by word order by num DESC limit 10000;")
 with open("result.csv","w") as output:
     for res in cur.fetchall():
         line = f"{res[1]}"
